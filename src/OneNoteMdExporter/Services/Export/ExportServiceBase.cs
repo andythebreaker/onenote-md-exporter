@@ -112,6 +112,8 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
                 // Make various OneNote XML fixes before page export
                 page.OverrideOneNoteId = PageXmlPreProcessing(xmlPageContent);
 
+                // !importantA************************************************************************************************
+
                 var docxFileTmpFile = Path.Combine(GetTmpFolder(page), page.Id + ".docx");
                 var docxFileTmpFile_html = Path.Combine(GetTmpFolder(page), page.Id + ".mht");
 
@@ -137,10 +139,9 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
                     var docxFilePath_html = Path.ChangeExtension(GetPageMdFilePath(page), "mht");
                     File.Copy(docxFileTmpFile, docxFilePath);
                     File.Copy(docxFileTmpFile_html, docxFilePath_html);
-
-
-
                 }
+
+                // !importantB************************************************************************************************
 
                 // Convert docx file into Md using PanDoc
                 var pageMd = ConverterService.ConvertDocxToMd(page, docxFileTmpFile, GetTmpFolder(page));

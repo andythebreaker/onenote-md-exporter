@@ -1,0 +1,23 @@
+{
+  "name": "mht-to-html-converter",
+  "version": "1.0.0",
+  "description": "Convert MHT (MHTML) files to HTML with extracted assets",
+  "main": "mht-to-html.js",
+  "scripts": {
+    "start": "node mht-to-html.js",
+    "convert-all": "node mht-to-html.js --dir .",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mht",
+    "mhtml",
+    "html",
+    "converter",
+    "web-archive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

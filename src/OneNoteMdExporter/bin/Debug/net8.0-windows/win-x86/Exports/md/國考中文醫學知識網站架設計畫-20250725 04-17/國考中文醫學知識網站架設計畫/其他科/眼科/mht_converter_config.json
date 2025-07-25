@@ -1,0 +1,16 @@
+{
+  "restoration_patterns": {
+    "���、乾眼症": "二、乾眼症",
+    "���因：": "病因：",
+    "診斷：���無": "診斷：並無",
+    "免疫系統、內分泌等���關": "免疫系統、內分泌等相關",
+    "蒸發量���高": "蒸發量過高",
+    "結膜���色": "結膜充血",
+    "角膜���superficial": "角膜有superficial",
+    "治療：���據病": "治療：根據病",
+    "���狀：": "症狀：",
+    "���合併": "並合併"
+  },
+  "description": "Character restoration patterns for Traditional Chinese medical documents",
+  "usage": "Modify the restoration_patterns to fix specific character corruption issues in your MHT files"
+}

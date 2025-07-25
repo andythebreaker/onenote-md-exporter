@@ -1,0 +1,103 @@
+動脈幹 Persistent Truncus Arteriosus
+
+10 April 2025
+
+16:31
+
+ 
+
+- 定義
+
+  - 主動脈及肺動脈之間的中隔（aorticopulmonary septum）發育不全 → 共同動脈幹（truncus arteriosus）未能成功分化主動脈與肺動脈 → 形成一條來自左右心室共同輸出的單一動脈幹
+
+- 流行病學
+
+- 病因
+
+  - 心臟發育時，因**神經嵴細胞（neural crest cells）未正常遷移，沒有正常發育成正常的主動脈-肺動脈隔間（incomplete AP septum）**
+
+  - 常與 DiGeorge syndrome 相關
+
+    - 胸線發育不全
+
+  - **常合併其他心臟缺陷**
+
+    - **心室中膈缺損（VSD）**
+
+    - **主動脈弓中斷（Interrupted aortic arch）**
+
+    - **冠狀動脈異常（Coronary artery anomalies）**
+
+  - 病生理
+
+    - 缺氧與含氧血經由VSD混合，單一動脈幹（truncus arteriosus）接受來自左右心室輸出的血液，混合血同時流入肺循環與體循環
+
+    - 疾病嚴重程度取決於**肺靜脈壓力（Pulmonary Venous Resistance）**
+
+      - 會造成**肺部充血**
+
+- 臨床特徵
+
+  - 發紺（cyanosis）
+
+  - 喘、呼吸窘迫
+
+  - 生長遲緩（failure to thrive）
+
+  - **心音**
+
+    - 強烈周邊動脈搏（bounding peripheral pulses）
+
+    - 左下胸骨緣可聽到粗糙（coarse）的收縮期心雜音
+
+    - 明顯的第二心音（S2）
+
+- 診斷
+
+  - 產前心臟超音波
+
+  - 心臟超音波**：**確診
+
+    - 可見單一大型血管
+
+  - 胸腔X光
+
+    - 主動脈弓右偏
+
+    - 肺血紋增加
+
+    - **若合併DiGeorge 症候群：胸腺缺失**
+
+  - 心電圖（EKG）：通常正常
+
+  - 血氧飽和度（SpO₂）**：** 下降
+
+- 處置
+
+  - 初期**：**穩定心肺功能
+
+    - **利尿劑、Dopamine**
+
+    - **呼吸器支持**
+
+    - **矯正代謝性酸中毒**
+
+  - 手術：Rastelli procedure
+
+    - 新生兒期即建議手術矯正，通常包含修補 VSD 並分離肺動脈與主動脈血流
+
+- 預後
+
+  - 若成功進行手術矯正，30 年存活率約為 70%
+
+- 併發症
+
+- Reference
+
+  - Sabiston Textbook of Surgery 21st Edition
+
+  - Schwartz's Principles of Surgery 11th Edition
+
+  - Persistent Truncus Arteriosus, AMBOSS
+
+>  

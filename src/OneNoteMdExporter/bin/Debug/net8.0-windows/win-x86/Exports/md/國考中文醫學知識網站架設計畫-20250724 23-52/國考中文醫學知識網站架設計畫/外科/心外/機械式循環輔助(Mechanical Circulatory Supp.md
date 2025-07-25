@@ -1,0 +1,492 @@
+---
+title: '機械式循環輔助(Mechanical Circulatory Support, MCS) '
+updated: 2025-07-01T15:14:36
+created: 2025-04-07T12:01:05
+---
+
+# 主動脈氣囊幫浦（Intra-Aortic Balloon Pump, IABP）
+- 原理
+  - 經由鼠蹊部，從股動脈插入至降主動脈，靠近主動脈弓的位置
+  - 氣球會與心跳同步，在舒張期充氣、收縮期消氣
+    - **舒張期**（T波出現）：**氣球充氣擴張（inflation）**，將血液壓回去升主動脈
+    - **收縮期**（Q波出現）：**氣球消氣（deflation）**
+  - **作用**
+    - **增加舒張期時冠狀動脈的灌流**
+    - **減少後負荷（afterload）**
+    - **增加主動脈舒張壓（diastolic aortic pressure）**
+    - 降低心肌耗氧量（reduce myocardial oxygen demand ）
+    - 可改善心輸出指數（cardiac index）
+    - 降低前負荷與心肌耗氧量
+- 適應症
+  - **難治型（refractory）心室衰竭**
+  - **急性心肌梗塞（Acute Myocardial Infarction, AMI）**，合併
+    - **心源性休克**
+      - 穩定血流動力學，改善冠狀動脈灌流
+    - 因乳頭肌功能不全導致的**急性二尖瓣閉鎖不全**（Acute MR）
+    - **心室中隔（Ventricular septum）缺損穿孔**
+    - **心室心律不整**（ventricular arrhythmias）引起心肌缺血
+  - 藥物治療無效，須等待介入或外科治療的不穩定型心絞痛（Unstable Angina）
+  - **心源性休克（Cardiogenic Shock）**
+    - **急性左心衰竭**
+    - 等待心臟移植或裝置心臟輔助裝置前
+  - **心臟輔助裝置（Mechanical Circulatory Support, MCS）的輔助使用**
+    - **與 ECMO 併用以改善左心室負荷**
+  - **經皮冠狀動脈介入治療（Percutaneous Coronary Intervention, PCYI）的輔助**
+    - 高危PCI手術、術中血流動力學不穩定
+      - 左主幹病變（left main）、三血管病變（triple-vessel disease）、嚴重左心功能不全（EF \< 35%）的患者。
+  - **開心手術後的血流動力學支持**
+    - **術後低心輸出症候群（Low Cardiac Output Syndrome, LCOS）**
+      - CABG 或 瓣膜置換 後左心功能恢復不全。
+    - 心臟移植術後
+  - 敗血性休克
+  - 心肌冬眠（stunned myocardium）
+- 禁忌症
+  - **絕對禁忌症**
+    - **嚴重的主動脈瓣閉鎖不全**（Aortic Regurgitation, AR）
+      - 因**舒張期時主動脈瓣關不緊**，**氣球充氣時會使血液回流到左心室，導致逆流變嚴重**，增加左心室負荷
+    - **主動脈剝離（Aortic Dissection）**：壓力增加可導致剝離加劇
+    - **嚴重主動脈瘤（Severe Aortic Aneurysm）**：壓力增加可導致破裂
+    - **感染性心內膜炎（Infective Endocarditis）**
+    - **主動脈閉塞性疾病（Aortic Occlusive Disease）** ：**氣球無法有效工作，也可能加重遠端缺血**
+      - 廣泛動脈粥樣硬化
+      - 血管嚴重鈣化：aorta-iliac artery
+      - 主動脈狹窄
+    - **未控制的出血性疾病**
+      - 使用抗凝治療的同時，可能加重出血風險
+    - **不適合心臟移植的未期病人**：使用後幫助不大
+  - **相對禁忌症**
+    - 輕微主動脈瓣閉鎖不全、狹窄
+    - 嚴重周邊動脈疾病（Severe Peripheral Arterial Disease, PAD）
+      - 可能阻斷下肢血流或造成遠端缺血
+    - 凝血功能障礙或有顯著出血傾向
+      - 血小板減少症、凝血因子缺乏
+      - 抗凝治療可能會加重出血風險
+    - 體重太低或肥胖
+      - 體型異常可能導致裝置操作困難或影響裝置效果。
+    - 曾做過主動脈血管重建手術：會增加手術部位損傷的風險
+      - 動脈瘤、主動脈剝離
+    - 進行心肺復甦術時
+# 
+# 心肺體外循環（Cardiopulmonary bypass, CPB）
+- 將大血管與心肺機連接，將靜脈血引出到**體外的儲血器進行過濾**，再經人工肺進行氧合，再將帶氧血送回動脈系統
+- **適應症**：需體外循環支持的開心手術
+  - 冠狀動脈繞道、瓣膜置換、小兒先天性心臟病矯正手術
+- **藥物**：Heparin
+  - 維持活化凝血時間（activated clotting time, ACT）\>400ms
+  - **併發症**：全身炎症反應症候群（systemic inflammatory response syndrome, SIRS）
+    - **解毒劑**：Protamine
+- **併發症**：**低心輸出量症候群（Low-cardiac output syndrome）**
+  - 術後心臟功能低下，心輸出量不足
+  - **病生理**：因心臟暫時停止、灌流不足，導致心肌從有氧變成無氧代謝
+    - **大量鈉離子滯留，導致心肌水腫**
+    - **乳酸堆積，造成酸中毒**
+  - **預防**：心肌保護
+- **術中心肌保護**
+  - **心臟麻痹液**：高鉀
+    - 使心臟停止跳動，降低心肌氧需求量，減少心肌細胞受損
+  - **維持低體溫**
+    - 在心臟週圍放冰塊
+    - 將病患體溫降到20度，維持30-45分鐘
+  - 在左心室或心房插管引流血液讓心肌鬆弛
+  - **避免中風**
+    - 維持腦部血流充足
+    - 從無名動脈灌流冠狀動脈
+# 
+# 體外膜氧合/葉克膜（Extracorporeal Membrane Oxygenation， ECMO）
+- 分類
+  - **Venoarterial ECMO（VA ECMO）**
+    - 靜脈引流出缺氧血，經體外膜氧合器（人工肺）進行氧氣交換，再經動力泵（人工心臟）及體溫交換器將充氧血注回病人動脈
+    - 同時替代心臟及肺臟功能
+  - **Venovenous ECMO（VV ECMO）**
+    - 若病人僅肺部氣體交換的功能有問題，則可使用VV ECMO，靜脈引出再注回靜脈
+  - **VA 與 VV ECMO 比較**
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 29%" />
+<col style="width: 42%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>VA ECMO</strong></th>
+<th><strong>VV ECMO</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>可達的動脈氧分壓<br />
+（PaO₂）</td>
+<td>較高</td>
+<td>較低</td>
+</tr>
+<tr class="even">
+<td>所需灌注速率<br />
+（perfusion rate）</td>
+<td>較低</td>
+<td>較高</td>
+</tr>
+<tr class="odd">
+<td>肺部循環</td>
+<td>繞過肺部循環，降低肺動脈壓力</td>
+<td>維持肺部血流，提高靜脈氧分壓（mixed venous PO₂）</td>
+</tr>
+<tr class="even">
+<td>心臟</td>
+<td>以人工心臟維持全身循環</td>
+<td>不使用人工心臟支持</td>
+</tr>
+<tr class="odd">
+<td>插管</td>
+<td>需要動脈插管</td>
+<td>僅需靜脈插管</td>
+</tr>
+</tbody>
+</table>
+- **與心肺體外循環（CPB）比較**
+| ECMO                   | CPB                |
+|------------------------|--------------------|
+| 不需開胸               | 需開胸             |
+| 不需使用強效抗凝藥物   | 需使用強效抗凝藥物 |
+| 無儲血裝置             | 具備儲血裝置       |
+| 人工血管管路有肝素塗層 |                   |
+- 適應症
+  - 根據台灣健保 guidelines
+    - **心因性休克**
+      - 術後暫時性心臟功能障礙（stunned heart）
+      - 心臟移植或心室輔助器植入前的過渡治療
+      - 急性心肌梗塞
+      - **可逆的**心肌病變
+      - 肺栓塞
+    - **呼吸衰竭**
+      - **排除可逆病因後**
+        - FiO2 ：1.0、PaO2 \< 60mmHg
+        - CO2 retention 合併血行動力學不穩
+      - 肺移植前的過渡治療
+      - 氣道外傷
+    - **新生兒疾病**：**經傳統治療後仍持續呼吸衰竭（Oxygenation Index ≥ 40）**
+      - 胎便吸入症候群（meconium aspiration syndrome, MAS）
+      - 新生兒呼吸窘迫症候群（Infant respiratory distress syndrome, IRDS）
+        - 又稱「肺玻璃樣膜病（hyaline membrane disease, HMD）」
+      - 先天性橫膈膜疝氣（Congenital Diaphragmatic Hernia, CDH）
+      - 新生兒持續性肺高壓（Persistent pulmonary hypertension of the newborn, PPHN）
+    - 體溫過低：≤ 30°C
+  - **ELSO guidelines**
+    - **心因性休克（Cardiogenic Shock）**
+      - **收縮壓 \< 90 mmHg**
+      - **尿量 \< 30 ml/hr**
+      - **乳酸 \> 2 mmol/L**
+      - **混合靜脈血氧飽和度（SVO₂）\< 60%**
+      - **意識改變超過 6 小時，對最佳治療無反應**
+    - **急性心肌梗塞**（acute myocardial infarction）
+    - **暴發性心肌炎**（fulminant myocarditis）
+    - **心毒性藥物中毒**（cardiotoxic drug intoxication）
+    - **末期擴張型或缺血型心肌病變**（end-stage dilated/ischemic cardiomyopathy）
+    - **低溫引起的心臟循環不穩**（hypothermia with cardiocirculatory instability）
+    - **廣泛肺栓塞**（massive pulmonary embolism）
+    - 心臟移植後之急性心因性休克（posttransplant cardiogenic shock）
+    - **短期ECMO使用**
+      - 用於難治性心因性休克（refractory cardiogenic shock）的病人，但其病因是可逆性或可靠手術矯正
+        - **難治性（refractory）**：**接受升壓劑和強心劑治療後，患者的血壓仍然過低，器官灌注不足，情況持續惡化**
+      - 保守治療（給水、強心劑）、主動脈內氣球幫浦（IABP）失敗時
+      - **理想使用ECMO的時機**：**多重器官衰竭尚未發生前，及經完整心臟超音波評估**後
+      - **比起經皮MCS，VA ECMO 對於以下病人效果較好**
+        - 嚴重雙心室衰竭（biventricular failure）
+        - 惡性心律不整（malignant arrhythmia）
+        - 肺衰竭
+- 禁忌症
+  - **根據台灣健保 guidelines**
+    - **絕對禁忌**：**不可逆的身體狀況**
+      - 腦病變、末期癌症
+      - 心肺疾病且不適合做移植
+      - 多重器官衰竭
+    - **相對禁忌**
+      - 持續進展之退化性全身性疾病
+      - 無法控制的感染或出血
+      - 嚴重免疫不全
+  - **ELSO guidelines**
+    - 心臟無法恢復功能，且不適合進行心臟移植或植入左心室輔助裝置（LVAD）
+    - 預期壽命極短
+      - 末期器官衰竭、惡性腫瘤、癌症合併廣泛肺栓塞、因化療引起的慢性心肌病變
+    - 嚴重主動脈瓣逆流
+    - 廣泛的主動脈及周邊血管病變：鈣化、狹窄或閉塞
+    - 急性 A 型或 B 型主動脈剝離，術前發現合併廣泛主動脈分支受影響（如**升主動脈、頭臂動脈、股動脈**）
+    - **嚴重神經損傷**：長時間缺氧之腦傷、大範圍創傷與出血
+    - 嚴重免疫系統疾病，合併明顯的血液與凝血異常
+    - Child-Pugh class B-C 的肝硬化
+- ECMO 風險預測（Pre-ECMO Risk Prediction）
+  - **Survival After VA ECMO Score, SAVE**
+<table>
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 45%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>評分項目</strong></th>
+<th><strong>內容</strong></th>
+<th><strong>分數</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>心因性休克診斷 (可複選)</strong></td>
+<td>心肌炎（Myocarditis）</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>難治性心室頻脈／心室纖維顫動<br />
+（Refractory VT/VF）</td>
+<td>+2</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>心臟或肺臟移植後<br />
+（Post heart or lung transplantation）</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>先天性心臟病</td>
+<td>−3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>其他診斷</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td><strong>年齡</strong></td>
+<td>18–38</td>
+<td>+7</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>39–52</td>
+<td>+4</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>53–62</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>≧63</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td><strong>體重（kg）</strong></td>
+<td>≦65</td>
+<td>+1</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>65–89</td>
+<td>+2</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>≧90</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td><strong>ECMO 前的急性器官衰竭（可複選）</strong></td>
+<td>肝衰竭</td>
+<td>−3</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>中樞神經功能障礙</td>
+<td>−3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>腎衰竭</td>
+<td>−3</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>慢性腎衰竭</td>
+<td>−6</td>
+</tr>
+<tr class="odd">
+<td><strong>插管至 ECMO 啟動間隔時間</strong></td>
+<td>≦ 10 小時</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>11–29 小時</td>
+<td>−2</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>≧ 30 小時</td>
+<td>−4</td>
+</tr>
+<tr class="even">
+<td><strong>其他指標</strong></td>
+<td>吸氣尖峰壓力 ≦ 20 cmH₂O</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>ECMO 前心臟停止</td>
+<td>−2</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>ECMO 前舒張壓 ≧ 40 mmHg</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>ECMO 前收縮壓 ≦ 20 mmHg</td>
+<td>−2</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>ECMO 前 HCO₃⁻ ≦ 15 mmol/L</td>
+<td>−3</td>
+</tr>
+<tr class="odd">
+<td><strong>固定常數</strong></td>
+<td>所有人皆需加此項</td>
+<td>−6</td>
+</tr>
+<tr class="even">
+<td><strong>總分</strong></td>
+<td><strong>風險等級（Risk Class）</strong></td>
+<td><strong>預估生存率（%）</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>&gt; 5</strong></td>
+<td>I</td>
+<td>75%</td>
+</tr>
+<tr class="even">
+<td><strong>1 至 5 分</strong></td>
+<td>II</td>
+<td>58%</td>
+</tr>
+<tr class="odd">
+<td><strong>−4 至 0 分</strong></td>
+<td>III</td>
+<td>42%</td>
+</tr>
+<tr class="even">
+<td><strong>−9 至 −5 分</strong></td>
+<td>IV</td>
+<td>30%</td>
+</tr>
+<tr class="odd">
+<td><strong>≦ −10 分</strong></td>
+<td>V</td>
+<td>18%</td>
+</tr>
+</tbody>
+</table>
+- 術式
+  - 大部份由股動/靜脈插管
+    - 若股動脈不適合進行插管，可使用鎖骨下動脈或腋動脈
+    - 為減少血管併發症並方便拔管，建議將動脈和靜脈插管放置在不同的肢體
+    - **頸動脈插管僅限於兒科患者使用**
+      - 而且由於有急性腦損傷的風險，應作為最後選擇
+- VA ECMO 離機（Weaning From VA ECMO）
+  - 當病患心臟功能已經明顯恢復，應考慮開始離機流程
+  - **考慮 Weaning 指標**
+    - 在**最小劑量**的血管活性藥物與強心劑下，維持以下條件
+      - 脈壓（Pulse Pressure） \> 10 mmHg
+      - 平均動脈壓（MAP） \> 65 mmHg
+      - 混合或中心靜脈血氧飽和度（SvO₂、ScvO₂）在 2–2.5 L/min 的流量下穩定
+  - **Weaning 過程**
+    - 應維持適當抗凝血治療
+    - **心臟超音波**
+      - **雙心室功能、心臟瓣膜功能、左心室流出道速度時間積分（LVOT VTI）**
+        - **左心室流出道速度時間積分（Left Ventricular Outflow Tract Velocity Time Integral, LVOT VTI）**
+          - 計算心輸出量的重要參數，幫助評估心室射血功能
+    - **Swan-Ganz導管：**可協助評估**左心壓與心輸出量**
+    - **降低 ECMO 流量**：每 5–10 分鐘降低 500 ml，觀察反應。
+    - 完全停止 ECMO 後 或 維持 1 L/min 支持，觀察 3–5 分鐘
+  - **成功標準**
+    - MAP \> 60 mmHg
+    - LVOT VTI \> 0.12-0.15 m/s
+    - Cardiac Index \> 2.2
+    - CVP \<18 mmHg
+  - **Weaning 失敗**
+    - 無法在 5–7 天內成功離機的病人，可考慮暫時性左心室輔助裝置（LVAD）支持，以爭取左心室恢復的時間，前提是右心室收縮功能仍被保留
+    - 對於放置 ECMO 前左心室收縮功能已嚴重下降之病患，應考慮提早植入 LVAD 或接受心臟移植
+    - 若患者不適合進階療法，則考慮採取緩和醫療策略並撤除治療
+- 併發症
+  - **導管置放相關**
+    - 血管損傷導致大出血
+    - 導管錯位（malpositioning）
+    - 下肢遠端缺血（Distal limb ischemia）：**使用小型遠端灌注導管可降低風險**
+    - 上肢過度灌注（Upper limb hyperperfusion）
+    - 感染
+  - **ECMO 迴路相關**
+    - 血栓形成
+      - **氧合器內**：\> 10%，可能導致急性ECMO系統失效並需緊急更換
+      - **幫浦頭**：\< 4%，**可引起大量溶血**
+    - 溶血 (Hemolysis)：**目前較少見**，以往主要因舊式機械幫浦破壞紅血球
+    - 出血風險增加：**血小板減少、血小板活化、凝血因子**（如大分子 von Willebrand 因子、纖維蛋白原）**下降**
+    - 神經學症狀（15.1%）：**腦出血或梗塞**
+    - **其他**：肝素誘導性血小板減少症（HIT）、管路感染
+  - **VA ECMO 特有併發症**
+    - **左心室後負荷增加**
+      - **主要機轉**：由於**左心室收縮力低下**，而 ECMO 所產生的**逆行血流使心搏量下降**，導致**主動脈瓣出口太小，甚至關閉**。
+      - 後續可能引起 左心室擴張、心壁張力上升、心肌缺血、肺水腫、心腔血栓
+      - 以最小流量為目標以減輕負荷
+        - **最小流量：**提供足夠器官灌流、避免組織缺氧代謝
+    - **差異性氧合（Differential oxygenation）**
+      - 因 ECMO 的充氧血主要灌流下半身，但當左心功能恢復、肺功能仍嚴重衰竭時，上半身（冠狀動脈、右上肢、大腦）氧氣灌流不足，會導致心臟與腦部缺氧
+      - **預防：**定期在右上肢抽血，進行分析與氧飽和度監測
+      - 若呼吸治療調整無效，則需在頸靜脈放置額外的靜脈導管（VAV ECMO）
+  - 高氧血/過度氧合（hyperoxemia）
+  - 低二氧化碳血症（hypocapnia）
+  - 腎衰竭：因嚴重溶血導致
+# 
+# 心室輔助器（Ventricular Assist Device）
+- **適應症**
+  - **急性心衰竭**：**最終治療（Destination therapy, DT）**
+    - **原因**：慢性心衰竭、惡性心律不整、心肌梗塞、心肺停止、病毒感染、妊娠或開心手術
+  - **心臟恢復期間的支持**：**橋接康復（Bridge to recovery, BTR）**
+  - **病人等待心臟移植時的支持**：**橋接移植（Bridge to transplant, BTT）**
+- **目標**：維持器官灌流與功能
+- **使用時間**：短期或長期
+- **使用位置**：左心、右心、雙心室
+- 左心室輔助裝置（Left Ventricular Assist Devices，LVAD）
+  - **橋接康復（Bridge to Recovery）**：**暫時性支持**，以促進心肌恢復
+  - **橋接移植（Bridge to Transplant，BTT）**
+    - 用於**等待心臟移植**的病人，但出現心衰竭併發症的病人，包括器官功能障礙、肺動脈高壓、強心劑需求增加、惡性心律不整、猝死風險高
+    - **可延長病人存活率、等候心臟移植**
+  - **最終治療（Destination Therapy, DT）**：對於嚴重心衰竭病人而言，存活時間比單用心衰竭藥物長
+    - **適應症**（作為心衰竭最終治療）
+      - NYHA III 或 IV 級心衰
+      - 峰值耗氧量（Peak oxygen consumption） \<12 mL/kg/min，或無法脫離強心劑
+      - 左心室射出分率（LVEF） \<25%
+      - 心臟移植禁忌症：年齡 \>65 歲、不可逆性肺高壓、慢性腎衰竭、合併器官損傷的胰島素依賴型糖尿病
+    - **注意**：**10% 以 LVAD 作為最終治療的病人可轉為橋接移植，**例如LVAD改善平均肺血管阻力，減輕肺動脈高壓的狀況
+- 右心與雙心室輔助裝置（RVAD 與 BiVAD）
+  - 晚期心衰竭病人有左心室功能衰竭，**同時合併右心室功能障礙**
+    - 單用 LVAD 可能導致三尖瓣逆流惡化、心室中隔左偏而加劇右心衰竭
+  - **RVAD：**通常為**暫時性**，**單獨使用 RVAD 很少見**
+  - **BiVAD：**多為**暫時性**，**最常見於心肌梗塞或開心手術後的急性心因性休克**
+# 
+# 全人工心臟（Total Artificial Heart）
+- **適應症：**雙心室衰竭但無法使用雙心室輔助裝置的病人，等待心臟移植前的橋接治療（bridge to transplant, BT）
+- **術式：**以原位方式（orthotopically）植入，與心房環（atrial cuffs）對接在房室溝（AV groove）的心室側，輸出導管（outflow conduits）則連接至大血管
+- **優點：可消除部份對血流動力學有影響的因素**
+  - 肺高壓、右心衰竭、心肌或瓣膜問題、心律不整
+- **不能作為心臟移植替代方案**
+
+# Reference
+1.  Gajkowski, Evan F.\*; Herrera, Guillermo†; Hatton, Laura‡; Velia Antonini, Marta§,¶; Vercaemst, Leen‖; Cooley, Elaine#. ELSO Guidelines for Adult and Pediatric Extracorporeal Membrane Oxygenation Circuits. ASAIO Journal 68(2):p 133-152, February 2022. \| DOI: 10.1097/MAT.0000000000001630
+2.  Wahba A, Milojevic M, Boer C, De Somer FMJJ, Gudbjartsson T, van den Goor J, Jones TJ, Lomivorotov V, Merkle F, Ranucci M, Kunst G, Puis L; EACTS/EACTA/EBCP Committee Reviewers. 2019 EACTS/EACTA/EBCP guidelines on cardiopulmonary bypass in adult cardiac surgery. Eur J Cardiothorac Surg. 2020 Feb 1;57(2):210-251. doi: 10.1093/ejcts/ezz267. PMID: 31576396.
+3.  Sabiston Textbook of Surgery 21st Edition
+4.  Schwartz's Principles of Surgery 11th Edition
+5.  68036B 體外循環維生系統(ECMO)建立, 全民健康保險醫療服務給付項目及支付標準部分診療項目修正規定, 中華民國醫師公會全國聯合會  
+    <https://www.tma.tw/files/meeting/N2021618155450_002.pdf>

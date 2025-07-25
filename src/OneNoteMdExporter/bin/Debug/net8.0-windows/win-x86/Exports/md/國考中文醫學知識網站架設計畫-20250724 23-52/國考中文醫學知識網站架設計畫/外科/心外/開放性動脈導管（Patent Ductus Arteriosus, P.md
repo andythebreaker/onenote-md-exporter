@@ -1,0 +1,102 @@
+---
+title: 開放性動脈導管（Patent Ductus Arteriosus, PDA）
+updated: 2025-05-26T16:24:25
+created: 2025-04-13T18:16:12
+---
+
+- 定義
+  - 出生後72小時內沒有功能性關閉，或出生後2-3週沒有完全閉鎖（解剖性關閉）
+- 流行病學
+  - 足月兒發生率約為5-10%；未足月則為20-60%
+  - 女\>男（2:1）
+- 病因
+  - 早產兒
+    - **動脈導管的平滑肌對高氧氣飽和度的反應性較低**，因此出生後比較不會收縮
+  - **母體因素**
+    - 德國麻疹（Rubella）感染
+    - 酒精
+    - 使用Phenytoin、Prostagladin
+  - 新生兒呼吸窘迫症候群（Respiratory distress syndrome, RDS）
+  - 三染色體症（Trisomies）：唐氏症（Down syndrome）
+  - 危險因子
+    - **女嬰**
+    - **早產**
+    - **高海拔地區**
+    - **母親酒精使用**
+    - **胎兒呼吸窘迫 RDS**
+- 病生理
+  - 正常情況下，動脈導管讓血液繞過胎兒尚未發育完成的肺部，形成「右到左分流」（right-to-left shunt），而在子宮內，**動脈導管靠著Prostagladin E1（PGE1）和低氧張力（low O2 tension）維持開放**。新生兒出生後，隨著肺部擴張、氧氣濃度上升，肺血管阻力下降，分流方向變為「左向右分流」（left-to-right），而動脈導管會於出生後10-15小時後功能性關閉（Functional closure），並於2-3週後完全關閉，形成動脈韌帶（ligamentum arteriosum）。
+  - 當動脈導管於出生後未關閉，主動脈與肺動脈之間持續連通，**血液會從高壓的主動脈流向肺動脈，造成「左到右分流」，而造成肺部血流過多（volume overload）、右左心室負擔增加，**長期下來可能造成左心室肥大、心臟衰竭（heart failure）
+  - 
+  - ![image1](../../../resources/f5e886a0f9a14718b888a54376aba36e.png)
+(圖說：開放性動脈導管之解剖構造及病生理學)
+
+Reference: Heart cross section with patent ductus ateriosus, <http://en.wikipedia.org/wiki/File:Patent_ductus_arteriosus.jpg>, 2 April 2012
+- **Eisenmenger’s syndrome**
+  - 長期的「左到右分流」會引起肺高壓（pulmonary hypertension），逐漸變成「右到左分流」
+    - 主動脈血流入肺動脈 → 肺高壓、肺水腫 → 右心重塑（remodeling）→ 右到左分流（R to L shunt）
+  - **臨床特徵**：差異性發紺（differential cyanosis）
+    - **下半身發紺，但上半身正常**
+  - **治療**：心肺同時移植
+- 臨床特徵
+  - **小型 PDA**：通常無症狀，可能在健檢時聽到心雜音而偶然發現
+  - **大型 PDA**：
+    - 嬰兒期會出現非特異性（non-specific）症狀，如**生長遲緩（failure to thrive），嚴重時可能出現心衰竭的症狀**
+    - 跳躍性脈搏（Bounding peripheral pulses）
+    - 脈搏壓變寬（**wide pulse pressure）**
+    - **聽診：Machinery murmur**
+      - 大聲、持續性心音
+      - 於左鎖骨下區（左上胸）聽得最清楚
+      - 在第二心音（S2）時最明顯
+- 診斷
+  - 心臟超音波：確診首選
+    - 評估分流的血流量及肺動脈壓
+    - 可見左心房與左心室肥大，Color Doppler可見血流由主動脈流向肺動脈
+  - 心電圖（EKG）
+    - 大型PDA可見**心軸左偏（Left axis deviation）**
+    - **若合併肺高壓，可能出現右心室肥大**的表現
+  - 胸部X光
+    - 左上心緣可見**肺動脈突出（prominent pulmonary artery）及明顯的主動脈弓（aortic knob）**
+    - **肺血紋增加（Increased pulmonary markings）**
+  - 血氧
+    - 若演變成「右到左分流」，**下肢末端可見低血氧**
+      - 周邊性低氧血症：在活動後缺氧更明顯
+  - 心導管（Cardiac catheterization）
+    - 協助確定血流動力學，並評估是否有肺動脈高壓
+    - 可進行**肺血管反應性測試（Pulmonary Vasoreactivity Test）**
+      - 評估肺血管對血管擴張劑的反應、病人的肺高壓是否可逆
+      - **以判斷病人是否適合接受手術或介入治療**
+      - **結果**
+        - **有反應者**：肺血管尚可擴張，**可接受手術矯正或使用肺高壓藥物治療**
+        - **無反應者**：肺血管已不可逆硬化，若強行矯正分流，可能導致右心衰竭惡化（如 Eisenmenger syndrome），須進行心肺移植
+- 處置
+  - **無症狀、PDA不大**：觀察追蹤
+  - **早產兒**：注射 Indomethacin and Ibuprofen
+    - **抑制前列腺素（PGE）合成，促進 PDA 關閉**
+    - **適應症**：**BW\<1kg且需要呼吸器、BW\>1kg但合併症狀**
+    - **禁忌**
+      - 導管依賴型先天性心臟病（ductal-dependent CHD）
+      - 新生兒持續性肺高壓（PPHN）
+      - 少尿（Oliguria）
+      - 血小板低下（Thrombocytopenia）
+      - 壞死性小腸結腸炎（NEC）
+      - 近期有出血事件，如腦、腸道或肺出血
+  - 心導管治療或手術關閉
+    - 可用心導管進行栓塞（Percutaneous catheter occlusion）或用手術結紮或切斷（Surgical ligation）
+    - **適應症**
+      - 足月兒使用藥物無效
+      - 有心衰竭症狀、生長遲緩（failure to thrive）
+      - **心臟超音波顯示**：
+        - 左心房或左心室擴大，合併
+        - 肺動脈收縮壓低於一半的系統壓 及 肺血管阻力（PVR）低於1/3的系統阻力
+      - 有肺高壓但尚未造成「右到左分流」
+    - **禁忌症**：**導管依賴型先天性心臟病**、**肺動脈高壓合併「右到左分流」**
+- 併發症
+  - 新生兒心臟衰竭
+  - 感染性心內膜炎（Infective endocarditis）
+  - 肺動脈高壓、Eisenmenger’s syndrome
+  - 差異性發紺（differential cyanosis）
+- Reference
+  - Sabiston Textbook of Surgery 21st Edition
+  - Schwartz's Principles of Surgery 11th Edition
+  - Patent Ductus Arteriosus, AMBOSS
