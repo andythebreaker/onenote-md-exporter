@@ -113,6 +113,7 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
                 page.OverrideOneNoteId = PageXmlPreProcessing(xmlPageContent);
 
                 var docxFileTmpFile = Path.Combine(GetTmpFolder(page), page.Id + ".docx");
+                var docxFileTmpFile_html = Path.Combine(GetTmpFolder(page), page.Id + ".mht");
 
                 if (File.Exists(docxFileTmpFile))
                     File.Delete(docxFileTmpFile);
@@ -125,6 +126,7 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
 
                 // Request OneNote to export the page into a DocX file
                 OneNoteApp.Instance.Publish(page.OverrideOneNoteId ?? page.OneNoteId, Path.GetFullPath(docxFileTmpFile), PublishFormat.pfWord);
+                OneNoteApp.Instance.Publish(page.OverrideOneNoteId ?? page.OneNoteId, Path.GetFullPath(docxFileTmpFile_html), PublishFormat.pfMHTML);
 
                 Log.Debug($"{page.OneNoteId}: success");
 
@@ -132,7 +134,12 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
                 {
                     // If debug mode enabled, copy the page docx file next to the page md file
                     var docxFilePath = Path.ChangeExtension(GetPageMdFilePath(page), "docx");
+                    var docxFilePath_html = Path.ChangeExtension(GetPageMdFilePath(page), "mht");
                     File.Copy(docxFileTmpFile, docxFilePath);
+                    File.Copy(docxFileTmpFile_html, docxFilePath_html);
+
+
+
                 }
 
                 // Convert docx file into Md using PanDoc

@@ -1,0 +1,54 @@
+Looking for files in directory: .
+Found MD file: 002d431689104b1a9198849586a2f13a.md
+Found MD file: 009a2fe2c7c1401eb070f573f69cdb18.md
+Found MD file: 01885175304f4b7f99a9f126ece726ce.md
+Found MD file: 0252d69d46fd4551bc10278d27589253.md
+Found MD file: 03748e792631453fa1b5f20c6e50cf46.md
+Found MD file: 03a78001c84f4643905dc5af721f7bcd.md
+Found MD file: 03c6ab28b21a4ed3b766a94f5214a237.md
+Found MD file: 0474fd164c894ed2a3f15d535df9093b.md
+Found MD file: 04cb7ca502054a8a9f70b82a4e6962c5.md
+Found MD file: 050dea589383434c9a08df27e570d548.md
+Found 10 markdown files.
+Processed 10 notes.
+Note 0: name='憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ...', id='002d431689104b1a9198849586a2f13a', parent_id='', order=0
+Note 1: name='?拚??, id='01885175304f4b7f99a9f126ece726ce', parent_id='', order=0
+Note 2: name='憟單找?摮?, id='03748e792631453fa1b5f20c6e50cf46', parent_id='', order=0
+Note 3: name='憒?皛?撅斤??, id='009a2fe2c7c1401eb070f573f69cdb18', parent_id='', order=0
+Note 4: name='(V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?, id='03c6ab28b21a4ed3b766a94f5214a237', parent_id='', order=0
+Root node found: 憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ... (id: 002d431689104b1a9198849586a2f13a, parent_id: )
+Root node found: ?拚??(id: 01885175304f4b7f99a9f126ece726ce, parent_id: )
+Root node found: 憟單找?摮?(id: 03748e792631453fa1b5f20c6e50cf46, parent_id: )
+Root node found: 憒?皛?撅斤??(id: 009a2fe2c7c1401eb070f573f69cdb18, parent_id: )
+Root node found: (V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?(id: 03c6ab28b21a4ed3b766a94f5214a237, parent_id: )
+Root node found: 0252d69d46fd4551bc10278d27589253.png (id: 0252d69d46fd4551bc10278d27589253, parent_id: )
+Root node found: ?Ｗ??? (id: 03a78001c84f4643905dc5af721f7bcd, parent_id: )
+Root node found: ?詨? (id: 0474fd164c894ed2a3f15d535df9093b, parent_id: )
+Root node found: Gastritis (id: 04cb7ca502054a8a9f70b82a4e6962c5, parent_id: )
+Root node found: 050dea589383434c9a08df27e570d548.png (id: 050dea589383434c9a08df27e570d548, parent_id: )
+Total root nodes: 10
+Generated tree_file_name.txt
+Root node found: 憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ... (id: 002d431689104b1a9198849586a2f13a, parent_id: )
+Root node found: ?拚??(id: 01885175304f4b7f99a9f126ece726ce, parent_id: )
+Root node found: 憟單找?摮?(id: 03748e792631453fa1b5f20c6e50cf46, parent_id: )
+Root node found: 憒?皛?撅斤??(id: 009a2fe2c7c1401eb070f573f69cdb18, parent_id: )
+Root node found: (V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?(id: 03c6ab28b21a4ed3b766a94f5214a237, parent_id: )
+Root node found: 0252d69d46fd4551bc10278d27589253.png (id: 0252d69d46fd4551bc10278d27589253, parent_id: )
+Root node found: ?Ｗ??? (id: 03a78001c84f4643905dc5af721f7bcd, parent_id: )
+Root node found: ?詨? (id: 0474fd164c894ed2a3f15d535df9093b, parent_id: )
+Root node found: Gastritis (id: 04cb7ca502054a8a9f70b82a4e6962c5, parent_id: )
+Root node found: 050dea589383434c9a08df27e570d548.png (id: 050dea589383434c9a08df27e570d548, parent_id: )
+Total root nodes: 10
+Generated tree_name.txt
+Root node found: 憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ... (id: 002d431689104b1a9198849586a2f13a, parent_id: )
+Root node found: ?拚??(id: 01885175304f4b7f99a9f126ece726ce, parent_id: )
+Root node found: 憟單找?摮?(id: 03748e792631453fa1b5f20c6e50cf46, parent_id: )
+Root node found: 憒?皛?撅斤??(id: 009a2fe2c7c1401eb070f573f69cdb18, parent_id: )
+Root node found: (V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?(id: 03c6ab28b21a4ed3b766a94f5214a237, parent_id: )
+Root node found: 0252d69d46fd4551bc10278d27589253.png (id: 0252d69d46fd4551bc10278d27589253, parent_id: )
+Root node found: ?Ｗ??? (id: 03a78001c84f4643905dc5af721f7bcd, parent_id: )
+Root node found: ?詨? (id: 0474fd164c894ed2a3f15d535df9093b, parent_id: )
+Root node found: Gastritis (id: 04cb7ca502054a8a9f70b82a4e6962c5, parent_id: )
+Root node found: 050dea589383434c9a08df27e570d548.png (id: 050dea589383434c9a08df27e570d548, parent_id: )
+Total root nodes: 10
+Generated tree_id.txt

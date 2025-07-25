@@ -1,0 +1,1806 @@
+Looking for files in directory: .
+Found MD file: 002d431689104b1a9198849586a2f13a.md
+Found MD file: 009a2fe2c7c1401eb070f573f69cdb18.md
+Found MD file: 01885175304f4b7f99a9f126ece726ce.md
+Found MD file: 0252d69d46fd4551bc10278d27589253.md
+Found MD file: 03748e792631453fa1b5f20c6e50cf46.md
+Found MD file: 03a78001c84f4643905dc5af721f7bcd.md
+Found MD file: 03c6ab28b21a4ed3b766a94f5214a237.md
+Found MD file: 0474fd164c894ed2a3f15d535df9093b.md
+Found MD file: 04cb7ca502054a8a9f70b82a4e6962c5.md
+Found MD file: 050dea589383434c9a08df27e570d548.md
+Found MD file: 06f82a0466814311abec9501085ff662.md
+Found MD file: 079c8705d86c4c28be54ee04d0c5c7c0.md
+Found MD file: 08416174c9c9454db3bc48e7d99ecdfc.md
+Found MD file: 0899938aa8cb4faf8459e83fb9e89217.md
+Found MD file: 0b07efa5eff24f809af86d48f3e2d7ce.md
+Found MD file: 0b7d78805d464649a1e29b9a65061f10.md
+Found MD file: 0b93c60d419d41f093bd6b53fbd0edb2.md
+Found MD file: 0c632573e64c47618c78125ef02c12d6.md
+Found MD file: 0d37b278401b420f882a63ea1d68fa74.md
+Found MD file: 0dc71d7a370349d6b9d9677024d4048a.md
+Found MD file: 10579b19a54d4030802271dfa6328472.md
+Found MD file: 10688876a4674b4bb72f7f838b92c8fb.md
+Found MD file: 10cefdcff6994aafaa7b5a48777f594d.md
+Found MD file: 122727a11e934fd9afe7ccdbeb893861.md
+Found MD file: 1257dfe12c6e4d55825f78478b5af4cd.md
+Found MD file: 130259de02164aaa9b2584b6b1228c19.md
+Found MD file: 13ab37636d094241adf4d7e5ffd18c65.md
+Found MD file: 13e92f88fc564d518da5ae2606a4a237.md
+Found MD file: 13ed90e9834e42469755fd4c64973ef6.md
+Found MD file: 1475f809edc54ee6b6dc4403ba97d27d.md
+Found MD file: 14f17565109e4f1d9c3801d5a1ba48c4.md
+Found MD file: 15071bb22762423eabe4037ab2bfc1a9.md
+Found MD file: 1561ade9badd473088fd0a835160eac8.md
+Found MD file: 156bc31ce12d40e19ac6ed2088d4a701.md
+Found MD file: 170182745c874a1c827a19041a4b57e7.md
+Found MD file: 1806952bf7d14ba58ac82919bfba1875.md
+Found MD file: 1816320f0860436e9b786ee710fc0af2.md
+Found MD file: 18c3d8dba324437e878a08e175783596.md
+Found MD file: 18d3062a81f645a8a757973ec05f2fce.md
+Found MD file: 1988fd582b90486ca62289b32932de8f.md
+Found MD file: 1a185306a3aa45269e6b2a6eb4e32683.md
+Found MD file: 1a9796b731ac49f29e61e0145fc4ac7e.md
+Found MD file: 1bf63713b79d46bbab90798251a2bf02.md
+Found MD file: 1c001d52452a43049a990f40d1104b1a.md
+Found MD file: 1c11de63bdc949ab81f55558c815997e.md
+Found MD file: 1c1af609535f467d863145cff128b583.md
+Found MD file: 1c76220f2f7a4dc980c80a6b096d4037.md
+Found MD file: 1d16248e17d247a2a5733ff203507324.md
+Found MD file: 1e0d8f421b7141e39ff35b8b8e37bd4f.md
+Found MD file: 1e36696d5e564f9fa47be8aab4b04eed.md
+Found MD file: 1e64129018cd4ae489d20f1beeac2e34.md
+Found MD file: 2093f8ae77ee48db98e89b43f7ecff31.md
+Found MD file: 20eb7c8618a54b0cb44cf2d281175eb8.md
+Found MD file: 21afa25c527e444da025852b93153073.md
+Found MD file: 22d3b1b22dd84dbb90b1fd965a3ffd49.md
+Found MD file: 2360bc10f58241b8bd468674e43cb56d.md
+Found MD file: 245fec9a24c44849ad76b5ea2d1bc826.md
+Found MD file: 2570414e324d4558b4a9d059ff9e062a.md
+Found MD file: 25a834d55e49478fa459585074155374.md
+Found MD file: 26779f056d9a43f0a6a2f75e4e5b4ae7.md
+Found MD file: 2685f3fe35f54ba1bffcff3401e53da2.md
+Found MD file: 2771ecec872b450ba30443b6ad363f65.md
+Found MD file: 27737b55e1a745c19b01d08ff02431bd.md
+Found MD file: 27cb561db8d646e49762712a3aa9960f.md
+Found MD file: 2862994160ae453aab20c09a5d187b1c.md
+Found MD file: 288c7d060204444ea701637e697f8a69.md
+Found MD file: 2918aa2482db4a0a85fa9da4ba0871c8.md
+Found MD file: 29c932dc2639419e9c909bb862fb99fa.md
+Found MD file: 29fe8b8a7cf4477786dd2c3c434bb0d4.md
+Found MD file: 2aaaec64d5e4483c9846bc6cbd79f41a.md
+Found MD file: 2b18863bbe9f47e2aabd7c0127c27aad.md
+Found MD file: 2b6db6d6b984441d85c886cdaaa67445.md
+Found MD file: 2ca7b60bc33f4210b38ff49594272373.md
+Found MD file: 2d925aa2bf7240e98bc6c6649711c7f3.md
+Found MD file: 2dc37cb5fd334f008b9cc0bb135c5fbc.md
+Found MD file: 2ecd45bfeaa8435a90e29d9f407c1f8b.md
+Found MD file: 2ed90755b3c14ea1899581391354a17a.md
+Found MD file: 2f65ad8805724be69649d32504110a03.md
+Found MD file: 31a1161b45fa43a3b8ab3ace218a2112.md
+Found MD file: 31b48d144378473692d3c870b930af67.md
+Found MD file: 325fe8560e43494c8ca4ca1bdb49d501.md
+Found MD file: 32f9cb3a059e479f965c7de6cb2c919b.md
+Found MD file: 33255e1e7ba449258d8b5d125c9c4c14.md
+Found MD file: 3334bd35b0ed43e3b8751d70a2938f46.md
+Found MD file: 334d0c74be2a4d8f81e6a7789ee4bf41.md
+Found MD file: 335cb46c5d5844ada656dd3ea774e65a.md
+Found MD file: 35c5a9d5120c40f4b6bb35b0a50ebab5.md
+Found MD file: 360d935f25e34e10b290cce3f4ad8967.md
+Found MD file: 36a25d101ba04167a2ea6b29c2697451.md
+Found MD file: 37aca090dc28423c88c7bbcce55da244.md
+Found MD file: 37b39475f2eb4d518647266a0184ca11.md
+Found MD file: 37d0a88de67a48fdb2606940581b412d.md
+Found MD file: 39526dcf69d146c18cfffe2d388f23ad.md
+Found MD file: 396430118c9a4740bf5e216bf2458d69.md
+Found MD file: 3c36b6e1a76f41b78c13ce6964023b78.md
+Found MD file: 3c426dbe4ab64fd393a621f860924c29.md
+Found MD file: 3c4c549530df4da1bbb634b346127239.md
+Found MD file: 3dde847c285a41bdb3f37994e447fa6c.md
+Found MD file: 3e2d85ba0bbb477582e636928d6ffb2e.md
+Found MD file: 3e7ff3b87ec8489691aeff64e026eb7b.md
+Found MD file: 3ea9bbf183e940df847929dfc3c238af.md
+Found MD file: 3f549b3c2141475bbf7faea725e2a7af.md
+Found MD file: 3fa8a6fcf80e4261aa129789ce7be498.md
+Found MD file: 40d0d61c59aa4c9cab7abd94a3f74354.md
+Found MD file: 40ddff3688614536b0c7428077c03108.md
+Found MD file: 410858f71cd3438fbba1d200c155739f.md
+Found MD file: 4176c8ffab2745cd98e5ff1b57d17ab4.md
+Found MD file: 417a4dd9f644422181d5763f711e2c67.md
+Found MD file: 41d6f240e6f24bf0ae2b2a0ad64b6b46.md
+Found MD file: 425352780aa847d4a3d2ba0697db2195.md
+Found MD file: 428a5d99b73146738df92dcacd8f663b.md
+Found MD file: 4294f4fef0054896b445096df5f5d057.md
+Found MD file: 42d79bf15af845b78de2da8bb7dfcf52.md
+Found MD file: 43f501e100e148e18d0281f730a0e67a.md
+Found MD file: 447b1c5f4c5d4ca8a1ecb7937ce2efe7.md
+Found MD file: 44da90293bc84d6e935cd59a2ca070a5.md
+Found MD file: 463bf781734a429d96263e91ac85d335.md
+Found MD file: 46badbd447cc431d8983d4e9b93582a0.md
+Found MD file: 472e77dd09a44b87af83f184b1eb2f6b.md
+Found MD file: 476203eb3d584775849bf47b8c26fa7e.md
+Found MD file: 476b39a3e0ab46d8be71ff4d5d07b312.md
+Found MD file: 4785319e46d94107a655749e3f3cad37.md
+Found MD file: 47bfc0395ac4497688093cc56b94578d.md
+Found MD file: 4862e9e6926646b3a83b6f1fbbb6d845.md
+Found MD file: 4880d1d7a87646418dcf5ec873004565.md
+Found MD file: 48a112629a8c452a981453116bce0bec.md
+Found MD file: 4987871f6f8a4f7895f66e4a60223da4.md
+Found MD file: 4ab5dcd055bf40218de0d350f6990b93.md
+Found MD file: 4c2de243014f4833a0cc4804c26c3165.md
+Found MD file: 4cc1778fd19f45238449e88e28564e5a.md
+Found MD file: 4d6e9b9fe0d04ba5852951dde407c333.md
+Found MD file: 4db3fdd462884662bc504ce2071e8506.md
+Found MD file: 4dd61480d55c4c55a0e9ceee23f82fe7.md
+Found MD file: 4e7bf6f3df264a32ae1be9db30519b46.md
+Found MD file: 4f1455833ddc40118a142914a2e1c5fc.md
+Found MD file: 4fcd504235474ff892944f9e523a72bf.md
+Found MD file: 50a7986ccb574d1a9697598480df602f.md
+Found MD file: 50c940c773b34a5fb8ce9c591b518b48.md
+Found MD file: 51bded3a60f9472ca2dbaa758f80bd7a.md
+Found MD file: 5283c6a1d5c244109a407f5667396d87.md
+Found MD file: 52c048708e3848f4b87bbfd8cdd85d31.md
+Found MD file: 52fbfc7dd70b4f5aaf40c2a288adc721.md
+Found MD file: 531aa7e3730b4199ad239c78ffaed658.md
+Found MD file: 5330b1e4560447c3a5434c6deacf6bdb.md
+Found MD file: 538994738c244f66bbd8c84c65b10b91.md
+Found MD file: 5391c4451167487e868f30eeb10baa88.md
+Found MD file: 53a9fbf929854822a583376c2c06de22.md
+Found MD file: 544fb3c25d1647669bfbf3ffa68389b1.md
+Found MD file: 547a0cd56c064834b0c7c674c3fcbf71.md
+Found MD file: 549a8aec7a8e4fae8615ceaab7bd21dc.md
+Found MD file: 55c84ce5f9c84cea87989e1377eb53a9.md
+Found MD file: 568c3299fb4d42d6b56534404c4a0db0.md
+Found MD file: 56d7b0ad76cb41e8bf5f56828ce57c6e.md
+Found MD file: 56eb86067f17476db93ffe0e1575f030.md
+Found MD file: 578598111f444ba0a270fda3e3b71cb4.md
+Found MD file: 57d7ce0df09c4a0e964e1274d5da022d.md
+Found MD file: 58f803342ea94ccab25789a840006e54.md
+Found MD file: 5916777e652a4cbd866a2cea02c55967.md
+Found MD file: 59802e9d8e4d4adfb26ad4893cde061a.md
+Found MD file: 59d8a9143fbf45c089510ea4bcb80b73.md
+Found MD file: 5a30852e39794c46bce454f485232843.md
+Found MD file: 5aef5ae0960846988ee85fc15d3d581e.md
+Found MD file: 5b633a248a144aa7b8d6f59b4850d014.md
+Found MD file: 5b790cea14484ef3861154fc65b7c272.md
+Found MD file: 5bac784b3c6c4634ab5d83c1757b89e3.md
+Found MD file: 5bc06efe492b410290fb06f43506f3f1.md
+Found MD file: 5c421732378c40d2bd9e82efb70924dd.md
+Found MD file: 5cc5bd6adc72475da0a965259309ec06.md
+Found MD file: 5d63d785b7f74609bd761ec42e501ba9.md
+Found MD file: 5d6ab90c4e6b4fe48e39243a4af2a0f9.md
+Found MD file: 5e9b2a014d56451187768bf60f68f5f0.md
+Found MD file: 5ea50679a88a48968303b4c103d18136.md
+Found MD file: 5ee7bf224b7141999c8c09b3f8d437d0.md
+Found MD file: 5ef0eb4c9f884c91a7905c7fb0ea371a.md
+Found MD file: 5f61e47439bd4f21af48d598c362a891.md
+Found MD file: 5fd729790e5f4b84b5bd23f4e4b1ac4c.md
+Found MD file: 5fdbe39db16e4a8b99db983758fcb2be.md
+Found MD file: 5ff023f873ad4138b537b6f3a643d0a1.md
+Found MD file: 5ff487422c254e949a26178dae62ee24.md
+Found MD file: 60ed13288b4c4f0b9d22a8e1e1d3b40b.md
+Found MD file: 6336119c71b74c899fc3b6207df81f34.md
+Found MD file: 633dcf34982140fcacba469d578d49a3.md
+Found MD file: 63b53f8d71154a9693a6c36e1085f5f3.md
+Found MD file: 644c088470eb4b70906ef83fe4562123.md
+Found MD file: 647a52d481344d0b98285fe1abe1f964.md
+Found MD file: 6565a3fb8d8a44cab526737a2b96ef62.md
+Found MD file: 659d47e0175d48bdbdab79e99ca30342.md
+Found MD file: 65c6b784863b4eef91bb52af6e7e51b9.md
+Found MD file: 65f16a96d9014296adafa20e11d89c4f.md
+Found MD file: 6642796a72a742d38c575c3a5687154d.md
+Found MD file: 664d1453023c42bab773a6d9eea9a409.md
+Found MD file: 66adaa02167440628e26934aa75e5b28.md
+Found MD file: 6792b5dca9154d6fb8f7a92f02418d58.md
+Found MD file: 67db2408c6b645b0a621ad3cd7f7b968.md
+Found MD file: 687e6b470ddd4001ab17fb479c474115.md
+Found MD file: 68ce195fc85d4ac5accd82937f995256.md
+Found MD file: 6931f9630d6a47a1b2eae3f600b7b488.md
+Found MD file: 69dbd311b5d14fa3b510eac3d26c31e5.md
+Found MD file: 6a775deede8b455db62888e1f9ae873b.md
+Found MD file: 6a906645d15a45c289e35d7b686dfc01.md
+Found MD file: 6aa7bd9d917c4323a0169c4f9bf11d5d.md
+Found MD file: 6aedc654246a42f89c22859793d9a411.md
+Found MD file: 6afc07087f924efda2245863d8125fcd.md
+Found MD file: 6b0f5969c32f4a08bc6c870f7808ac70.md
+Found MD file: 6ccc1e8a178346aa82bf35673089a1c7.md
+Found MD file: 6d442c1695ae4823818ffd7ffd74087b.md
+Found MD file: 6d6af72756694dc3accf218fcd2d54e7.md
+Found MD file: 6e3f4312a17747a18a6aead164ac5f63.md
+Found MD file: 6e7c1e9072564034a0bf5fedc27df3ca.md
+Found MD file: 6edc7caef16148c68f15921beec0e556.md
+Found MD file: 6f201257b2784cecb843fb88a2773b03.md
+Found MD file: 7004178578c242edad640d09d8d9c39d.md
+Found MD file: 707066138a9f4c10aaccaf1b2d948c56.md
+Found MD file: 7071f13ae8e04cc99be1ccb29a3df58c.md
+Found MD file: 7117048124184b329caed68bac4dfebc.md
+Found MD file: 721f6a9575fc4167863253300665172c.md
+Found MD file: 723c39c119fb4a5e92005b9201f44b1c.md
+Found MD file: 72a7618e971645ffa6febf15a5693c7f.md
+Found MD file: 73c72eb6827e4ca69dcb472ffbb007b7.md
+Found MD file: 743c7ee2baed43ad8c22af654e5bfbc8.md
+Found MD file: 763ee8fc210b4cc38118d0fc68e16201.md
+Found MD file: 768f12441a084c818dec70f08638e66f.md
+Found MD file: 769a4b67c61b4cde8028a0474b926acf.md
+Found MD file: 7775931d17dd4f8686ae6c2a98cd047c.md
+Found MD file: 77c7d2c508544681b0be4d4ff670b794.md
+Found MD file: 77d2ede8c002488ea60c18de844a3b08.md
+Found MD file: 78c5f5e5ebac4655a19ddb80b89a60e5.md
+Found MD file: 78c686b283204cae9b36379d35d524d3.md
+Found MD file: 78f2807b26cd4b29b9b2e8655f4ca949.md
+Found MD file: 794104f5c84f48f8a2ce3bed0824462a.md
+Found MD file: 7a296736cb8a4a03a9f835404592fe4d.md
+Found MD file: 7b3c8ec12da74af4ae61b2326a02e42b.md
+Found MD file: 7b5e7978225646688eb19b7bd1581847.md
+Found MD file: 7b669b47c58149d7a50ad85b3f636b28.md
+Found MD file: 7bb490304ab9443ba2d1a8a0be6070eb.md
+Found MD file: 7be6037c0ba74d01bc13a4a444fbf1c8.md
+Found MD file: 7bee062a55d645dabcf6b89c9e21afbc.md
+Found MD file: 7cdc5ae6e237455cb17d32fad21ec24e.md
+Found MD file: 7d5c4c0e844746e6915febc78c206d92.md
+Found MD file: 7e852ed08c394399811e5d7bd8845fcf.md
+Found MD file: 7f9242ba74cd40109091d7330807b548.md
+Found MD file: 7fa35d29819e4a9e8b9965cd74c0bb27.md
+Found MD file: 81ac5e3006b14202bbfe1166296d5ad8.md
+Found MD file: 8246c1f96f56425bb72377b17a60ba01.md
+Found MD file: 82c0e4bb94464d3cb07c1024574a0e4e.md
+Found MD file: 8344891f8c494c54bd48dc1fbaedeb8e.md
+Found MD file: 834eea9ebfc844119cdc42cca4f8b965.md
+Found MD file: 8356390540f942b0bbffa7d0d349f966.md
+Found MD file: 840543d26ef9410e9c09195b583683c8.md
+Found MD file: 843f112d30af4b07829b1e5552d39709.md
+Found MD file: 846d217a91fe4c21b5ed5a2c778a3ef3.md
+Found MD file: 8489a8d92fd1470bbfd3e80520661c40.md
+Found MD file: 84a8ba505c5b452cb9bc5e7e8f31628d.md
+Found MD file: 8545a0ffb6a14fe4be52e2368e4e00c1.md
+Found MD file: 864d2cd9324b4ea2b93e73aac6c4674f.md
+Found MD file: 8795f9345a764d9295e9716077bffaa1.md
+Found MD file: 87c16191493742719b383c10fca89962.md
+Found MD file: 88df097385ff49d6893220ee343f47cd.md
+Found MD file: 89b3304cc94745a9be0f6b6634eb9e45.md
+Found MD file: 89f7f30abcba4e2f91b025f6180c4ef6.md
+Found MD file: 8b33e013f8944c2cbcf62ffef1326629.md
+Found MD file: 8d99dedef6134c44a93b58d846e9a753.md
+Found MD file: 8e28938c6d6a403abebd7999a16acc95.md
+Found MD file: 8e3b103182c14b5a8044593fae279163.md
+Found MD file: 8e3b569882af47308cd040bd74cedda1.md
+Found MD file: 8eb71f54e0a843299f4431c12e14e5b7.md
+Found MD file: 8f291a69da1a4f1da248fe3f535fa5d6.md
+Found MD file: 8f41681e3e0e4630b2317c4e5966fdb1.md
+Found MD file: 8f5440d91e3649d3a2edf54c9ac978d6.md
+Found MD file: 8f71c6bfa9dd40c7880a87638686bfeb.md
+Found MD file: 8f8510e189964e91bb2f06ae665ace2d.md
+Found MD file: 90125d5990ca41f8b5ce55743833da75.md
+Found MD file: 90f216ecc4c24f61a14d43db58433c6a.md
+Found MD file: 9176586ffac64b4ba11f77e7baa51271.md
+Found MD file: 94258cfec8e14011994dd7f1e6f4640f.md
+Found MD file: 94b05a2f96da48d598bb3544fedfe0e0.md
+Found MD file: 9556b9010f0c4b45bbb31306c21cbe20.md
+Found MD file: 955dddd5ff244627880b73385d965e39.md
+Found MD file: 961d84b483b54f098a0a9caf3410781e.md
+Found MD file: 9627eb1c5fe742a593718656bd4594a1.md
+Found MD file: 966cdd4581f047959dccba9ac312e548.md
+Found MD file: 97fce273079346f7a6e38144a398894f.md
+Found MD file: 994cdd93abc345629530eafcd53913ed.md
+Found MD file: 998d1aecb4bb42408a2e10ef147503a6.md
+Found MD file: 99ac3521fdc9435f8b09b7efd0f2ccf4.md
+Found MD file: 9d5e7123cfb146d1a9ea8812b9b64ced.md
+Found MD file: 9d8c4732df5249d9ba1c0fcf48258bc6.md
+Found MD file: 9ddc60dd9f5849e8b584a571009a118e.md
+Found MD file: a06afbb9111248099f9e0a3d49bc8c67.md
+Found MD file: a0789ed75b0d44968691812c30327a6c.md
+Found MD file: a085b9672b02491d9376ff9fd6bc437d.md
+Found MD file: a0ca39d2b8264eb7a94f353b31d466d8.md
+Found MD file: a29fa73b7f7143b79b6f5bd542c24fbe.md
+Found MD file: a2a226099a1046a1a11572f2783b12c7.md
+Found MD file: a2fcd613fb2d4043950b290112a57bcf.md
+Found MD file: a45e66f2357b485f8dbe7ae2bf92e996.md
+Found MD file: a45f121f059f4406a74e3d6a30814030.md
+Found MD file: a663a710a7fe484aa245ec7e15f857f3.md
+Found MD file: a6afc02a7ffa48229d9aaae418c72dc0.md
+Found MD file: a7418e10afb6473b91614d7152391729.md
+Found MD file: a79cad9abaf248f5b547b337b7e205fd.md
+Found MD file: a814d3fec40348459bcac031e84c216e.md
+Found MD file: a86e8873d12b4ef69be5974892491f0d.md
+Found MD file: a8bbb40c82f14a46a4f1bf096d8cca20.md
+Found MD file: a8e3da98f6664980800a85a4c307af99.md
+Found MD file: a999149afb7f4c93bafb0ee1197ea7e5.md
+Found MD file: a9f91b170ce04d41abaac5999abb1491.md
+Found MD file: aab75d1be7444a999608c8315f5e20f4.md
+Found MD file: ab699ca1970e4a8ba9e6afde1358f28e.md
+Found MD file: abb7bab691634a51b7482ba8db196884.md
+Found MD file: abc53923a2d3418e8770e619867563cd.md
+Found MD file: ac7d5e1f642d4a18ba5b92560fb5d9ca.md
+Found MD file: acc17358108f4edf87ae73fe126399a7.md
+Found MD file: ad590283b2b747deaf307da67aab2413.md
+Found MD file: adf57f1c71b74f9d8e3e76c8a37ad14f.md
+Found MD file: aebd003f9ea84661ba686d6340fc7f77.md
+Found MD file: af4917e7e2a247efb219e52fbe7c8a3a.md
+Found MD file: b004db76667e4d26afb2540b618633e3.md
+Found MD file: b03ec12773eb45ddaca3571062fbee64.md
+Found MD file: b3e81265a3f6478ba2c14ab37a7c3e7c.md
+Found MD file: b4359c8a3bb5449b893b9c3942affe03.md
+Found MD file: b49e57dc95de4b2ca971309513d4f1c2.md
+Found MD file: b501c2205819414bbd6d3e9dfc10caa6.md
+Found MD file: b5bb360310344965b77acc8362f099b8.md
+Found MD file: b6d1c4dcde82435c8850a5438ebea71f.md
+Found MD file: b76d35f0e0274309a3727a6c9a496f9b.md
+Found MD file: b7dd1c57c4fe418ca93ba693c174ea73.md
+Found MD file: b905dbd0849745cebf3299aab046735b.md
+Found MD file: b9ad7e794da8486d896bdc33d4c78ed5.md
+Found MD file: ba04d9672a3f4426b13b5150e5e1c717.md
+Found MD file: ba14d65eb32a4f07b03c8443ad78a626.md
+Found MD file: ba324195eb584a96b6ea3a73342a76a4.md
+Found MD file: ba6359c74f954c4788edbf48995ba72b.md
+Found MD file: ba6ce04d7fe04ca29ad7fe61886381e3.md
+Found MD file: bab5d52c62584a709227e01f91c5f4f0.md
+Found MD file: bbbcff6e92ef47ddb2b5f12e344c9193.md
+Found MD file: bc1dba241cea468f8f36c9dfb24dd42a.md
+Found MD file: bc2afc607ee44664a5241a261a126133.md
+Found MD file: bcf38154e8b0432493aadf967a035def.md
+Found MD file: bd95441f69e84c11a67406fc45950b56.md
+Found MD file: bde3285696234c338a8db7ef3fb9296e.md
+Found MD file: be296860347c450182390c3d6f97f3a4.md
+Found MD file: bec99052e6334f608c14319c0ae97ff2.md
+Found MD file: bedbb47f8fb34c5dab631e5a509d5aba.md
+Found MD file: beecf6a9378244f69e692fb936d9ad7f.md
+Found MD file: bf42685b84d14f458835afcc07487a91.md
+Found MD file: c068497ad2d3411dad6d1f31ad619726.md
+Found MD file: c0aa194ad9d84cff903486c51e201c24.md
+Found MD file: c0d5070c6f6a4317a5a2afd9f6f3aea0.md
+Found MD file: c135d40f462a440fbe3528de64081acc.md
+Found MD file: c1c83ab2e50b445fa2c7bd5439a9230e.md
+Found MD file: c1ea5c43297647f0bb1bd7ba81ecda6c.md
+Found MD file: c222b705106f4726afce3f95020dfc96.md
+Found MD file: c2a03589bd8b4688b25f8ccaf82d2095.md
+Found MD file: c5b588c07a724b8eb1a5c2b0d232d773.md
+Found MD file: c5cea17e710642bfaf85a8c267c4e118.md
+Found MD file: c689de4f4de04426843ef94415e6c4a7.md
+Found MD file: c6aa4abecc034076ab63a7e3549e2145.md
+Found MD file: c7475fe662694678b8de7cca30b42072.md
+Found MD file: c7674c9be9d542959ce3f3f9e143da2c.md
+Found MD file: c7c908a8f3714f95b6dde6c870276b19.md
+Found MD file: c83ee299a708497d9cdcdd1f18bfce17.md
+Found MD file: c845a4bf89144114932d1f6624e8c509.md
+Found MD file: c85a6320a2674d72b6d82d300a028d81.md
+Found MD file: c868bf8fadd240209ce8f87ee9b5d3cc.md
+Found MD file: c8c0c059bd8540dfbdfa72456d4ea947.md
+Found MD file: c8fa6e8011e64bdf9639c1b42f4d3bf3.md
+Found MD file: c995d490b5154cd98457dbbdf9d36ef8.md
+Found MD file: ca0faad4080541fbba096f1c0fde36a8.md
+Found MD file: cb05a0ca70c941a98ad308ddd018bc7c.md
+Found MD file: cb4f4670a9cc45d78be880538bbee0e7.md
+Found MD file: cbac12b0064f42c0997ac3a38d3c8a60.md
+Found MD file: cbb9b3a032f14a28a3e1316f03d64f53.md
+Found MD file: cbd7a8d04ccc4a7daa846244cf4630ca.md
+Found MD file: ccf99ba504094d01bf9f2339096a3e98.md
+Found MD file: cf6ffe9e488847f89efce5f3f15b5e49.md
+Found MD file: cf8dcc76b7df40048edbb8d0c0f2813b.md
+Found MD file: d0ea40494a85428dafe52b82bc6852d6.md
+Found MD file: d163dd365b854ef1841fa72bf212aff5.md
+Found MD file: d2da62047e2a4453ba31d8dd25c92bd3.md
+Found MD file: d2dd65eb2c884e09aa9fda670637f84b.md
+Found MD file: d4c595dae70941e6bbd2c7e2ac549d9b.md
+Found MD file: d4ed26283d3f441791f63769810d76c4.md
+Found MD file: d509cc2eb0f84acfbfb519dfd9d544c7.md
+Found MD file: d63e32f9a0864b3c908cf662792a0d8d.md
+Found MD file: d7a202dd03ef49c2a3d4dc1a2c3abc01.md
+Found MD file: d86de95b7f5a44f5aad1664c580bcd2f.md
+Found MD file: d8e3929b83284b89b4732b5351e45555.md
+Found MD file: d92961cffad74c4781ea6e01adc4ac54.md
+Found MD file: d92bc6ae43644d8faa39502eea73e109.md
+Found MD file: dab38f0aca52458c9d7c48996d25a35c.md
+Found MD file: dd324d2f1d884dbabe2257fe61d398d2.md
+Found MD file: ddfd5510ff344f26bfb11b099ece4321.md
+Found MD file: de16c53e7a1b423fa396c0596a9a6786.md
+Found MD file: dfcff04a83f4409cabc3d614241d92ca.md
+Found MD file: dfd23a82f9a14b638adc730c3b532e7f.md
+Found MD file: e0a35a0869224b10b96ef08c41e16f5f.md
+Found MD file: e160a4e619864c85a5395421af889112.md
+Found MD file: e2517407bc204838b16fa72effa6ae78.md
+Found MD file: e2e10d1c790f4f7e99d73cae29aafdc8.md
+Found MD file: e30fe41517a84a96b68a9f25c82abe2e.md
+Found MD file: e38de3aeb2414293babfb542cdf7612f.md
+Found MD file: e681e54d39e64b5ba16a1aab0b1de02f.md
+Found MD file: e7961fe6fb794ad8aa00e8730aa38168.md
+Found MD file: e861e9af485a47f299f0e2efa027d3f7.md
+Found MD file: e88b7eabfc3648a59c77517c8a845471.md
+Found MD file: e9eaee36442b47fca838076ec0a375ac.md
+Found MD file: ea4d41516a494263a6c4e802d16d78f7.md
+Found MD file: ea9053631f084280a1c77e64152ce1fd.md
+Found MD file: ea99d791da6f4c62a43133c55ffedc14.md
+Found MD file: ebfeb48cf61a47ccafcd1ee1c9dd5fad.md
+Found MD file: ecb956efb37c46bfa720e8dd0c2bc144.md
+Found MD file: ed26a54e87a742abb22ec02b711404f4.md
+Found MD file: efe87eae6bcb4c86849d9e086dc2940a.md
+Found MD file: f02213a02a1d4dc0b7531fc4e2552fa8.md
+Found MD file: f0482481b4724e94b5c7e236ffe76c28.md
+Found MD file: f04fe1da3ef74d6cbf0c70ab993f2f18.md
+Found MD file: f08e8d844c2341aa86873c62e767f3a4.md
+Found MD file: f0f7bd390f474b9d989177c0b078f412.md
+Found MD file: f18624fa6f7840669e32e80db63dcb67.md
+Found MD file: f18f169b424a49e982bf9af47973f10d.md
+Found MD file: f20a8da6db9748b090b27608a4a4f1e9.md
+Found MD file: f2321594be8c473d969cc9fde101c0db.md
+Found MD file: f25a1b82e867439bb422b1f80f8df1ab.md
+Found MD file: f3bfc762e9f24b1d8ed33dd0590eb10e.md
+Found MD file: f47d6f1fa1784d17ab60d47b43321cd8.md
+Found MD file: f4bbd5e010574497b8b6e62763cba96b.md
+Found MD file: f533716d1875433d973f0ca726964ed0.md
+Found MD file: f53c6c233deb4fbaa77e42fab00cac30.md
+Found MD file: f595eb884cc041f5828e892954549e21.md
+Found MD file: f797ae37583542c08ca0e3f3670e34d2.md
+Found MD file: f7e204a3b63c4717af17e72fd66691b6.md
+Found MD file: f851362aa8fe401baebb9f2bb8b0276d.md
+Found MD file: f876f57f90e34c3b91d05ff915ecc67b.md
+Found MD file: f8988a7dd9454242899d2ba37d5f06b0.md
+Found MD file: f8a8000f115b4c759bad99320ce03ee7.md
+Found MD file: f915a6bbd9fd479f8c230470bb875e3b.md
+Found MD file: f98283f67358471c8883159e31be4f81.md
+Found MD file: fa121ceb07f84a0a999d5642dfc87fd6.md
+Found MD file: fa2198cdac6d4e2a8e57710857f63a6b.md
+Found MD file: fa874858309640e6a49ce03315c8057e.md
+Found MD file: faf79696249845e982d2c05343a10e71.md
+Found MD file: fb5f1ded965e4fa1adc69661fc96413d.md
+Found MD file: fc24bde5119a48f288fc1d22270e095d.md
+Found MD file: fc6e7275b5a149d9a5aff00f37bf5b22.md
+Found MD file: fd4a8329d52b4750b22dc913e1b10c48.md
+Found MD file: fd5e784633a74fa19b0f270cf369be9e.md
+Found MD file: fff52f24ebb441d297c001c4eba67732.md
+Found 448 markdown files.
+Processed 448 notes.
+Note 0: name='憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ...', id='002d431689104b1a9198849586a2f13a', parent_id='', order=0
+Note 1: name='憒?皛?撅斤??, id='009a2fe2c7c1401eb070f573f69cdb18', parent_id='', order=0
+Note 2: name='Cholangitis', id='77c7d2c508544681b0be4d4ff670b794', parent_id='', order=0
+Note 3: name='42d79bf15af845b78de2da8bb7dfcf52.png', id='42d79bf15af845b78de2da8bb7dfcf52', parent_id='', order=0
+Note 4: name='bc1dba241cea468f8f36c9dfb24dd42a.png', id='bc1dba241cea468f8f36c9dfb24dd42a', parent_id='', order=0
+Root node found: 憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ... (id: 002d431689104b1a9198849586a2f13a, parent_id: )
+Root node found: 憒?皛?撅斤??(id: 009a2fe2c7c1401eb070f573f69cdb18, parent_id: )
+Root node found: Cholangitis (id: 77c7d2c508544681b0be4d4ff670b794, parent_id: )
+Root node found: 42d79bf15af845b78de2da8bb7dfcf52.png (id: 42d79bf15af845b78de2da8bb7dfcf52, parent_id: )
+Root node found: bc1dba241cea468f8f36c9dfb24dd42a.png (id: bc1dba241cea468f8f36c9dfb24dd42a, parent_id: )
+Root node found: ?拚??(id: 01885175304f4b7f99a9f126ece726ce, parent_id: )
+Root node found: 77d2ede8c002488ea60c18de844a3b08.png (id: 77d2ede8c002488ea60c18de844a3b08, parent_id: )
+Root node found: ?交扯??(id: bc2afc607ee44664a5241a261a126133, parent_id: )
+Root node found: ?咱?澆????(id: 43f501e100e148e18d0281f730a0e67a, parent_id: )
+Root node found: 0252d69d46fd4551bc10278d27589253.png (id: 0252d69d46fd4551bc10278d27589253, parent_id: )
+Root node found: ?? (id: bcf38154e8b0432493aadf967a035def, parent_id: )
+Root node found: ??批撌Ｗ??賭???(id: 78c5f5e5ebac4655a19ddb80b89a60e5, parent_id: )
+Root node found: 憟單找?摮?(id: 03748e792631453fa1b5f20c6e50cf46, parent_id: )
+Root node found: ?賊?怠?[CS] (id: 447b1c5f4c5d4ca8a1ecb7937ce2efe7, parent_id: )
+Root node found: ?蝝箏??予?批??? (id: bd95441f69e84c11a67406fc45950b56, parent_id: )
+Root node found: (X) Transmyocardial laser revascularization(TMLR) (id: 78c686b283204cae9b36379d35d524d3, parent_id: )
+Root node found: ?Ｗ??? (id: 03a78001c84f4643905dc5af721f7bcd, parent_id: )
+Root node found: Malabsorption ?豢銝?黎 (id: 78f2807b26cd4b29b9b2e8655f4ca949, parent_id: )
+Root node found: 摮悅?扯???(id: 44da90293bc84d6e935cd59a2ca070a5, parent_id: )
+Root node found: (V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?(id: 03c6ab28b21a4ed3b766a94f5214a237, parent_id: )
+Root node found: ?抒? (id: bde3285696234c338a8db7ef3fb9296e, parent_id: )
+Root node found: ?詨? (id: 0474fd164c894ed2a3f15d535df9093b, parent_id: )
+Root node found: ?? (id: 463bf781734a429d96263e91ac85d335, parent_id: )
+Root node found: ?? (id: 794104f5c84f48f8a2ce3bed0824462a, parent_id: )
+Root node found: Gastritis (id: 04cb7ca502054a8a9f70b82a4e6962c5, parent_id: )
+Root node found: GI (id: 46badbd447cc431d8983d4e9b93582a0, parent_id: )
+Root node found: ?潛? (id: 472e77dd09a44b87af83f184b1eb2f6b, parent_id: )
+Root node found: 050dea589383434c9a08df27e570d548.png (id: 050dea589383434c9a08df27e570d548, parent_id: )
+Root node found: 閫??摮?(id: 7a296736cb8a4a03a9f835404592fe4d, parent_id: )
+Root node found: 敹※蝡?(id: be296860347c450182390c3d6f97f3a4, parent_id: )
+Root node found: ?株?蝘?(id: 06f82a0466814311abec9501085ff662, parent_id: )
+Root node found: 憭扯??貊??IBD (id: 7b3c8ec12da74af4ae61b2326a02e42b, parent_id: )
+Root node found: 憌??怎 (id: 079c8705d86c4c28be54ee04d0c5c7c0, parent_id: )
+Root node found: 憭? (id: 476203eb3d584775849bf47b8c26fa7e, parent_id: )
+Root node found: bec99052e6334f608c14319c0ae97ff2.jpg (id: bec99052e6334f608c14319c0ae97ff2, parent_id: )
+Root node found: Sleep apnea (id: 7b5e7978225646688eb19b7bd1581847, parent_id: )
+Root node found: 憭??批撌Ｙ??黎 (id: 08416174c9c9454db3bc48e7d99ecdfc, parent_id: )
+Root node found: ?株??脩???(id: bedbb47f8fb34c5dab631e5a509d5aba, parent_id: )
+Root node found: 敹恕銝剛?蝻箸?嚗entricular Septal Defect嚗?(id: 476b39a3e0ab46d8be71ff4d5d07b312, parent_id: )
+Root node found: 7b669b47c58149d7a50ad85b3f636b28.png (id: 7b669b47c58149d7a50ad85b3f636b28, parent_id: )
+Root node found: Esophageal Varices (id: 0899938aa8cb4faf8459e83fb9e89217, parent_id: )
+Root node found: ?予?批??? (id: 4785319e46d94107a655749e3f3cad37, parent_id: )
+Root node found: ??蝛雯嚗leural effusion嚗?(id: beecf6a9378244f69e692fb936d9ad7f, parent_id: )
+Root node found: Diverticula (id: 0b07efa5eff24f809af86d48f3e2d7ce, parent_id: )
+Root node found: ?瑕?雿萇??箇??(id: 7bb490304ab9443ba2d1a8a0be6070eb, parent_id: )
+Root node found: GYN (id: 47bfc0395ac4497688093cc56b94578d, parent_id: )
+Root node found: ? (id: bf42685b84d14f458835afcc07487a91, parent_id: )
+Root node found: 蝯?曄? (id: 0b7d78805d464649a1e29b9a65061f10, parent_id: )
+Root node found: ?交扯??(id: 7be6037c0ba74d01bc13a4a444fbf1c8, parent_id: )
+Root node found: 4862e9e6926646b3a83b6f1fbbb6d845.png (id: 4862e9e6926646b3a83b6f1fbbb6d845, parent_id: )
+Root node found: c068497ad2d3411dad6d1f31ad619726.png (id: c068497ad2d3411dad6d1f31ad619726, parent_id: )
+Root node found: 0b93c60d419d41f093bd6b53fbd0edb2.png (id: 0b93c60d419d41f093bd6b53fbd0edb2, parent_id: )
+Root node found: ?行香?文? (id: 7bee062a55d645dabcf6b89c9e21afbc, parent_id: )
+Root node found: ?Ｗ??? (id: 4880d1d7a87646418dcf5ec873004565, parent_id: )
+Root node found: 撉刻釭????(id: 0c632573e64c47618c78125ef02c12d6, parent_id: )
+Root node found: Pleural effusion (id: c0aa194ad9d84cff903486c51e201c24, parent_id: )
+Root node found: ?倏??摮貉?撠輯楝??摮豢炎??(id: 48a112629a8c452a981453116bce0bec, parent_id: )
+Root node found: ?予?孵??啣虜 (id: 0d37b278401b420f882a63ea1d68fa74, parent_id: )
+Root node found: 銝??選?cor triatriatum嚗?(id: 7cdc5ae6e237455cb17d32fad21ec24e, parent_id: )
+Root node found: 蝺刻摩?澆? (id: c0d5070c6f6a4317a5a2afd9f6f3aea0, parent_id: )
+Root node found: 0dc71d7a370349d6b9d9677024d4048a.png (id: 0dc71d7a370349d6b9d9677024d4048a, parent_id: )
+Root node found: 4987871f6f8a4f7895f66e4a60223da4.png (id: 4987871f6f8a4f7895f66e4a60223da4, parent_id: )
+Root node found: ?批?瘜??(id: c135d40f462a440fbe3528de64081acc, parent_id: )
+Root node found: 憿勗憯?(id: 10579b19a54d4030802271dfa6328472, parent_id: )
+Root node found: ?賡??曄?-?賜??唾??賢???(id: 4ab5dcd055bf40218de0d350f6990b93, parent_id: )
+Root node found: 銵瘨脣飛 (id: c1c83ab2e50b445fa2c7bd5439a9230e, parent_id: )
+Root node found: 10688876a4674b4bb72f7f838b92c8fb.jpg (id: 10688876a4674b4bb72f7f838b92c8fb, parent_id: )
+Root node found: 銝餃???寧?嚗ortic Stenosis)? (id: 7d5c4c0e844746e6915febc78c206d92, parent_id: )
+Root node found: 鈭粹?銋喟?????摰桅?怨? (id: 10cefdcff6994aafaa7b5a48777f594d, parent_id: )
+Root node found: Zollinger-Ellison Syndrome (id: c1ea5c43297647f0bb1bd7ba81ecda6c, parent_id: )
+Root node found: ?啁?????Neonatal Jaundice) (id: 7e852ed08c394399811e5d7bd8845fcf, parent_id: )
+Root node found: 蝐?銵鈭? (id: 122727a11e934fd9afe7ccdbeb893861, parent_id: )
+Root node found: 蝷箇?ITP (id: 4c2de243014f4833a0cc4804c26c3165, parent_id: )
+Root node found: ?Ｗ???閰摯 (id: 7f9242ba74cd40109091d7330807b548, parent_id: )
+Root node found: Cystic fibrosis (id: c222b705106f4726afce3f95020dfc96, parent_id: )
+Root node found: 頞唾??? (id: 7fa35d29819e4a9e8b9965cd74c0bb27, parent_id: )
+Root node found: Hypersensitivity pneumonitis (id: 1257dfe12c6e4d55825f78478b5af4cd, parent_id: )
+Root node found: 瘨?蝟餌絞 (id: c2a03589bd8b4688b25f8ccaf82d2095, parent_id: )
+Root node found: Interstitial lung disease (id: 4cc1778fd19f45238449e88e28564e5a, parent_id: )
+Root node found: 81ac5e3006b14202bbfe1166296d5ad8.png (id: 81ac5e3006b14202bbfe1166296d5ad8, parent_id: )
+Root node found: 130259de02164aaa9b2584b6b1228c19.png (id: 130259de02164aaa9b2584b6b1228c19, parent_id: )
+Root node found: Respiratory failure (id: c5b588c07a724b8eb1a5c2b0d232d773, parent_id: )
+Root node found: 憒?蝟倏??(id: 4d6e9b9fe0d04ba5852951dde407c333, parent_id: )
+Root node found: ?抒??潛撣貉??耦 (id: 8246c1f96f56425bb72377b17a60ba01, parent_id: )
+Root node found: 13ab37636d094241adf4d7e5ffd18c65.png (id: 13ab37636d094241adf4d7e5ffd18c65, parent_id: )
+Root node found: Vascular disease (id: c5cea17e710642bfaf85a8c267c4e118, parent_id: )
+Root node found: ?啗??怎 (id: 4db3fdd462884662bc504ce2071e8506, parent_id: )
+Root node found: 蝎曄?蝘?(id: 82c0e4bb94464d3cb07c1024574a0e4e, parent_id: )
+Root node found: ?嗡?蝮梯????(id: c689de4f4de04426843ef94415e6c4a7, parent_id: )
+Root node found: ??批???蝞∴?Patent Ductus Arteriosus, PDA嚗?(id: 13e92f88fc564d518da5ae2606a4a237, parent_id: )
+Root node found: 4dd61480d55c4c55a0e9ceee23f82fe7.png (id: 4dd61480d55c4c55a0e9ceee23f82fe7, parent_id: )
+Root node found: Aortic disease (id: 8344891f8c494c54bd48dc1fbaedeb8e, parent_id: )
+Root node found: Ulcerative Colitis (id: c6aa4abecc034076ab63a7e3549e2145, parent_id: )
+Root node found: Gallstone ileus (id: 4e7bf6f3df264a32ae1be9db30519b46, parent_id: )
+Root node found: ?Ｗ岫????摮?(id: 834eea9ebfc844119cdc42cca4f8b965, parent_id: )
+Root node found: 瘚??甇Ｗ?憡?(id: c7475fe662694678b8de7cca30b42072, parent_id: )
+Root node found: ?萄楷?漲?箸??黎 (id: 4f1455833ddc40118a142914a2e1c5fc, parent_id: )
+Root node found: 憭抒雇?嗆? (id: 13ed90e9834e42469755fd4c64973ef6, parent_id: )
+Root node found: 撠???摮貊??(id: 8356390540f942b0bbffa7d0d349f966, parent_id: )
+Root node found: ?箏摮?(id: 4fcd504235474ff892944f9e523a72bf, parent_id: )
+Root node found: Acute/Chronic Diarrhea (id: c7674c9be9d542959ce3f3f9e143da2c, parent_id: )
+Root node found: ???亙熒 (id: 1475f809edc54ee6b6dc4403ba97d27d, parent_id: )
+Root node found: ?血?蟡??曄? (id: 840543d26ef9410e9c09195b583683c8, parent_id: )
+Root node found: 瘜倏????(id: 50a7986ccb574d1a9697598480df602f, parent_id: )
+Root node found: 憭??(id: c7c908a8f3714f95b6dde6c870276b19, parent_id: )
+Root node found: ?萄楷??蝝啗??怎 (id: 14f17565109e4f1d9c3801d5a1ba48c4, parent_id: )
+Root node found: CV-?湧?靽格撱箄降憒? (id: 50c940c773b34a5fb8ce9c591b518b48, parent_id: )
+Root node found: ???曄? (id: 15071bb22762423eabe4037ab2bfc1a9, parent_id: )
+Root node found: 憭批???雿?Transposition of the great arteries, TGA (id: c83ee299a708497d9cdcdd1f18bfce17, parent_id: )
+Root node found: 51bded3a60f9472ca2dbaa758f80bd7a.png (id: 51bded3a60f9472ca2dbaa758f80bd7a, parent_id: )
+Root node found: ?亦??(id: 843f112d30af4b07829b1e5552d39709, parent_id: )
+Root node found: 1561ade9badd473088fd0a835160eac8.png (id: 1561ade9badd473088fd0a835160eac8, parent_id: )
+Root node found: ??? (id: c845a4bf89144114932d1f6624e8c509, parent_id: )
+Root node found: ???曄? (id: 5283c6a1d5c244109a407f5667396d87, parent_id: )
+Root node found: 憟單批??摮?(id: 846d217a91fe4c21b5ed5a2c778a3ef3, parent_id: )
+Root node found: META (id: 156bc31ce12d40e19ac6ed2088d4a701, parent_id: )
+Root node found: 敹?????曄? (id: c85a6320a2674d72b6d82d300a028d81, parent_id: )
+Root node found: ?賡??????(id: 52c048708e3848f4b87bbfd8cdd85d31, parent_id: )
+Root node found: 170182745c874a1c827a19041a4b57e7.png (id: 170182745c874a1c827a19041a4b57e7, parent_id: )
+Root node found: 摮悅?貊? (id: c868bf8fadd240209ce8f87ee9b5d3cc, parent_id: )
+Root node found: Acute adomen (id: 8489a8d92fd1470bbfd3e80520661c40, parent_id: )
+Root node found: ?芷???抒??(id: 52fbfc7dd70b4f5aaf40c2a288adc721, parent_id: )
+Root node found: 1806952bf7d14ba58ac82919bfba1875.png (id: 1806952bf7d14ba58ac82919bfba1875, parent_id: )
+Root node found: 摮悅? (id: c8c0c059bd8540dfbdfa72456d4ea947, parent_id: )
+Root node found: Aortic disease (id: 84a8ba505c5b452cb9bc5e7e8f31628d, parent_id: )
+Root node found: OP (id: 531aa7e3730b4199ad239c78ffaed658, parent_id: )
+Root node found: ?啁???(id: c8fa6e8011e64bdf9639c1b42f4d3bf3, parent_id: )
+Root node found: ?潛? (id: 1816320f0860436e9b786ee710fc0af2, parent_id: )
+Root node found: 8545a0ffb6a14fe4be52e2368e4e00c1.jpg (id: 8545a0ffb6a14fe4be52e2368e4e00c1, parent_id: )
+Root node found: 敹? (id: c995d490b5154cd98457dbbdf9d36ef8, parent_id: )
+Root node found: 5330b1e4560447c3a5434c6deacf6bdb.png (id: 5330b1e4560447c3a5434c6deacf6bdb, parent_id: )
+Root node found: Crohn? Disease (id: 18c3d8dba324437e878a08e175783596, parent_id: )
+Root node found: ?予?抒??(id: 864d2cd9324b4ea2b93e73aac6c4674f, parent_id: )
+Root node found: ?啗??曄?嚗ancreas嚗??交扯?? (id: 538994738c244f66bbd8c84c65b10b91, parent_id: )
+Root node found: ?澈鞈? (id: 18d3062a81f645a8a757973ec05f2fce, parent_id: )
+Root node found: ???扳?憛?Nonthrombotic Embolism嚗?(id: ca0faad4080541fbba096f1c0fde36a8, parent_id: )
+Root node found: ?箇?嚗ung cancer嚗?(id: 8795f9345a764d9295e9716077bffaa1, parent_id: )
+Root node found: 1988fd582b90486ca62289b32932de8f.png (id: 1988fd582b90486ca62289b32932de8f, parent_id: )
+Root node found: Bronchiectasis (id: 5391c4451167487e868f30eeb10baa88, parent_id: )
+Root node found: ??扯?曄? (id: 87c16191493742719b383c10fca89962, parent_id: )
+Root node found: ?閰摯 (id: 1a185306a3aa45269e6b2a6eb4e32683, parent_id: )
+Root node found: 53a9fbf929854822a583376c2c06de22.png (id: 53a9fbf929854822a583376c2c06de22, parent_id: )
+Root node found: ?券????餃??抒??Peripheral artery occlusion disease, PAO... (id: cb05a0ca70c941a98ad308ddd018bc7c, parent_id: )
+Root node found: GS (id: 88df097385ff49d6893220ee343f47cd, parent_id: )
+Root node found: 擃雯?閫?釭??擗?(id: 1a9796b731ac49f29e61e0145fc4ac7e, parent_id: )
+Root node found: GYN (id: cb4f4670a9cc45d78be880538bbee0e7, parent_id: )
+Root node found: Lung abscess (id: 544fb3c25d1647669bfbf3ffa68389b1, parent_id: )
+Root node found: 撉函? (id: 1bf63713b79d46bbab90798251a2bf02, parent_id: )
+Root node found: APACHE (id: 89b3304cc94745a9be0f6b6634eb9e45, parent_id: )
+Root node found: 547a0cd56c064834b0c7c674c3fcbf71.png (id: 547a0cd56c064834b0c7c674c3fcbf71, parent_id: )
+Root node found: ?啁???貊???(id: 89f7f30abcba4e2f91b025f6180c4ef6, parent_id: )
+Root node found: OB (id: cbac12b0064f42c0997ac3a38d3c8a60, parent_id: )
+Root node found: ??撟?Persistent Truncus Arteriosus (id: 8b33e013f8944c2cbcf62ffef1326629, parent_id: )
+Root node found: ????踹???(id: 1c001d52452a43049a990f40d1104b1a, parent_id: )
+Root node found: 549a8aec7a8e4fae8615ceaab7bd21dc.png (id: 549a8aec7a8e4fae8615ceaab7bd21dc, parent_id: )
+Root node found: Gastric Cancer (id: cbb9b3a032f14a28a3e1316f03d64f53, parent_id: )
+Root node found: ?衣 (id: 8d99dedef6134c44a93b58d846e9a753, parent_id: )
+Root node found: Peptic Ulcer Disease (id: 55c84ce5f9c84cea87989e1377eb53a9, parent_id: )
+Root node found: ?抒? (id: cbd7a8d04ccc4a7daa846244cf4630ca, parent_id: )
+Root node found: ????移?扯???(id: 8e28938c6d6a403abebd7999a16acc95, parent_id: )
+Root node found: 憍衣???雿萇??(id: 568c3299fb4d42d6b56534404c4a0db0, parent_id: )
+Root node found: ?????曄??????蝜??? (id: 1c11de63bdc949ab81f55558c815997e, parent_id: )
+Root node found: ??瘜倏??(id: 56d7b0ad76cb41e8bf5f56828ce57c6e, parent_id: )
+Root node found: EKG (id: ccf99ba504094d01bf9f2339096a3e98, parent_id: )
+Root node found: 擃???(id: 8e3b103182c14b5a8044593fae279163, parent_id: )
+Root node found: cf6ffe9e488847f89efce5f3f15b5e49.png (id: cf6ffe9e488847f89efce5f3f15b5e49, parent_id: )
+Root node found: 銝?砍岫蝘飛 (id: 8e3b569882af47308cd040bd74cedda1, parent_id: )
+Root node found: 銝?砍岫蝘飛 (id: 1c1af609535f467d863145cff128b583, parent_id: )
+Root node found: AI prompt (id: 8eb71f54e0a843299f4431c12e14e5b7, parent_id: )
+Root node found: ????批??? (id: 56eb86067f17476db93ffe0e1575f030, parent_id: )
+Root node found: ?? (id: 8f291a69da1a4f1da248fe3f535fa5d6, parent_id: )
+Root node found: Ischemic Colitis (id: 1c76220f2f7a4dc980c80a6b096d4037, parent_id: )
+Root node found: 蝯? (id: cf8dcc76b7df40048edbb8d0c0f2813b, parent_id: )
+Root node found: SOFA (id: 578598111f444ba0a270fda3e3b71cb4, parent_id: )
+Root node found: 撠?曄?-?寧??豢?? (id: 8f41681e3e0e4630b2317c4e5966fdb1, parent_id: )
+Root node found: Ebstein anomaly (id: d0ea40494a85428dafe52b82bc6852d6, parent_id: )
+Root node found: 57d7ce0df09c4a0e964e1274d5da022d.png (id: 57d7ce0df09c4a0e964e1274d5da022d, parent_id: )
+Root node found: Pulmonary embolism (id: 8f5440d91e3649d3a2edf54c9ac978d6, parent_id: )
+Root node found: 58f803342ea94ccab25789a840006e54.png (id: 58f803342ea94ccab25789a840006e54, parent_id: )
+Root node found: 蟡?蝟餌絞?抒??(id: d163dd365b854ef1841fa72bf212aff5, parent_id: )
+Root node found: NS (id: 8f71c6bfa9dd40c7880a87638686bfeb, parent_id: )
+Root node found: ?詨 (id: 5916777e652a4cbd866a2cea02c55967, parent_id: )
+Root node found: d2da62047e2a4453ba31d8dd25c92bd3.png (id: d2da62047e2a4453ba31d8dd25c92bd3, parent_id: )
+Root node found: 敹?蝘餅? (id: 8f8510e189964e91bb2f06ae665ace2d, parent_id: )
+Root node found: Acute Respiratory Distress Syndrome (ARDS) (id: 1d16248e17d247a2a5733ff203507324, parent_id: )
+Root node found: 59802e9d8e4d4adfb26ad4893cde061a.png (id: 59802e9d8e4d4adfb26ad4893cde061a, parent_id: )
+Root node found: TRALI (id: d2dd65eb2c884e09aa9fda670637f84b, parent_id: )
+Root node found: ?潛景??憭拙??? (id: 90125d5990ca41f8b5ce55743833da75, parent_id: )
+Root node found: 銝???-??圈?????(id: 59d8a9143fbf45c089510ea4bcb80b73, parent_id: )
+Root node found: d4c595dae70941e6bbd2c7e2ac549d9b.jpeg (id: d4c595dae70941e6bbd2c7e2ac549d9b, parent_id: )
+Root node found: ?拍?????拇??湔偌 (id: 5a30852e39794c46bce454f485232843, parent_id: )
+Root node found: 銝瘛勗惜????嚗pper Extremity Deep Vein Thrombosis, UED... (id: 90f216ecc4c24f61a14d43db58433c6a, parent_id: )
+Root node found: 敹銝剛?蝻箸?嚗trial Septal Defect嚗?(id: d4ed26283d3f441791f63769810d76c4, parent_id: )
+Root node found: NEURO (id: 9176586ffac64b4ba11f77e7baa51271, parent_id: )
+Root node found: ?箇? (id: 1e0d8f421b7141e39ff35b8b8e37bd4f, parent_id: )
+Root node found: COPD (id: 5aef5ae0960846988ee85fc15d3d581e, parent_id: )
+Root node found: ?′??雿萇??(id: d509cc2eb0f84acfbfb519dfd9d544c7, parent_id: )
+Root node found: CV-?湧?靽格撱箄降憒? (id: d63e32f9a0864b3c908cf662792a0d8d, parent_id: )
+Root node found: 瘞?? (id: 94258cfec8e14011994dd7f1e6f4640f, parent_id: )
+Root node found: 摮悅?移暺?(id: 1e36696d5e564f9fa47be8aab4b04eed, parent_id: )
+Root node found: Cholelithiasis (id: d7a202dd03ef49c2a3d4dc1a2c3abc01, parent_id: )
+Root node found: Eisenmenger? Syndrome (id: 5b633a248a144aa7b8d6f59b4850d014, parent_id: )
+Root node found: ?圈??????(id: 94b05a2f96da48d598bb3544fedfe0e0, parent_id: )
+Root node found: ??扯?曄? (id: 5b790cea14484ef3861154fc65b7c272, parent_id: )
+Root node found: ??蝘飛 (id: d86de95b7f5a44f5aad1664c580bcd2f, parent_id: )
+Root node found: 隞???扯???(id: 9556b9010f0c4b45bbb31306c21cbe20, parent_id: )
+Root node found: UGI bleeding (id: 5bac784b3c6c4634ab5d83c1757b89e3, parent_id: )
+Root node found: 1e64129018cd4ae489d20f1beeac2e34.png (id: 1e64129018cd4ae489d20f1beeac2e34, parent_id: )
+Root node found: Diverticulitis (id: d8e3929b83284b89b4732b5351e45555, parent_id: )
+Root node found: ?? (id: 955dddd5ff244627880b73385d965e39, parent_id: )
+Root node found: ???單?dermis敺?嚗隞亥岫??secondary healing (id: 5bc06efe492b410290fb06f43506f3f1, parent_id: )
+Root node found: 憍衣??舀扯??⊥扯??(id: d92961cffad74c4781ea6e01adc4ac54, parent_id: )
+Root node found: ?貉???IBS (id: 961d84b483b54f098a0a9caf3410781e, parent_id: )
+Root node found: ?啁??? (id: d92bc6ae43644d8faa39502eea73e109, parent_id: )
+Root node found: PSC vs PBC (id: 5c421732378c40d2bd9e82efb70924dd, parent_id: )
+Root node found: Ischemic heart disease嚗HD嚗?(id: 9627eb1c5fe742a593718656bd4594a1, parent_id: )
+Root node found: META (id: dab38f0aca52458c9d7c48996d25a35c, parent_id: )
+Root node found: ?澈鞈? (id: 5cc5bd6adc72475da0a965259309ec06, parent_id: )
+Root node found: TB (id: 966cdd4581f047959dccba9ac312e548, parent_id: )
+Root node found: Peripheral Artery Disease (PAD) (id: 2093f8ae77ee48db98e89b43f7ecff31, parent_id: )
+Root node found: 暺?蝝??啣虜 (id: dd324d2f1d884dbabe2257fe61d398d2, parent_id: )
+Root node found: ?啁???隡?Newborn PE) (id: 5d63d785b7f74609bd761ec42e501ba9, parent_id: )
+Root node found: 20eb7c8618a54b0cb44cf2d281175eb8.jpeg (id: 20eb7c8618a54b0cb44cf2d281175eb8, parent_id: )
+Root node found: ddfd5510ff344f26bfb11b099ece4321.png (id: ddfd5510ff344f26bfb11b099ece4321, parent_id: )
+Root node found: 97fce273079346f7a6e38144a398894f.png (id: 97fce273079346f7a6e38144a398894f, parent_id: )
+Root node found: URO (id: 21afa25c527e444da025852b93153073, parent_id: )
+Root node found: OP (id: de16c53e7a1b423fa396c0596a9a6786, parent_id: )
+Root node found: ??銵??憛?嚗enous Thromboembolism, VTE嚗?(id: 5d6ab90c4e6b4fe48e39243a4af2a0f9, parent_id: )
+Root node found: ?????? (id: dfcff04a83f4409cabc3d614241d92ca, parent_id: )
+Root node found: Achalasia (id: 994cdd93abc345629530eafcd53913ed, parent_id: )
+Root node found: 憍衣??舀扯??⊥扯??(id: dfd23a82f9a14b638adc730c3b532e7f, parent_id: )
+Root node found: ?箏??蝒?Pulmonary Stenosis嚗?(id: 22d3b1b22dd84dbb90b1fd965a3ffd49, parent_id: )
+Root node found: ?券?銵蝞∠??(id: 998d1aecb4bb42408a2e10ef147503a6, parent_id: )
+Root node found: Aneurysm (id: 5e9b2a014d56451187768bf60f68f5f0, parent_id: )
+Root node found: ?⊥扯??(id: e0a35a0869224b10b96ef08c41e16f5f, parent_id: )
+Root node found: 2360bc10f58241b8bd468674e43cb56d.png (id: 2360bc10f58241b8bd468674e43cb56d, parent_id: )
+Root node found: Respiratory failure (id: 5ea50679a88a48968303b4c103d18136, parent_id: )
+Root node found: ???扳???(id: 99ac3521fdc9435f8b09b7efd0f2ccf4, parent_id: )
+Root node found: 憭? (id: e160a4e619864c85a5395421af889112, parent_id: )
+Root node found: 憍衣?????(id: 245fec9a24c44849ad76b5ea2d1bc826, parent_id: )
+Root node found: ??摮?(id: 5ee7bf224b7141999c8c09b3f8d437d0, parent_id: )
+Root node found: Critical care (id: 9d5e7123cfb146d1a9ea8812b9b64ced, parent_id: )
+Root node found: Spinal cord injury[敺拙] (id: e2517407bc204838b16fa72effa6ae78, parent_id: )
+Root node found: ?Ｗ??箄? (id: 2570414e324d4558b4a9d059ff9e062a, parent_id: )
+Root node found: 9d8c4732df5249d9ba1c0fcf48258bc6.png (id: 9d8c4732df5249d9ba1c0fcf48258bc6, parent_id: )
+Root node found: Cholecystitis (id: e2e10d1c790f4f7e99d73cae29aafdc8, parent_id: )
+Root node found: Cardiac neoplasm (id: 5ef0eb4c9f884c91a7905c7fb0ea371a, parent_id: )
+Root node found: e30fe41517a84a96b68a9f25c82abe2e.png (id: e30fe41517a84a96b68a9f25c82abe2e, parent_id: )
+Root node found: 5f61e47439bd4f21af48d598c362a891.png (id: 5f61e47439bd4f21af48d598c362a891, parent_id: )
+Root node found: 瘞湔部?曄? (id: 9ddc60dd9f5849e8b584a571009a118e, parent_id: )
+Root node found: 銝???-??曄? (id: e38de3aeb2414293babfb542cdf7612f, parent_id: )
+Root node found: Acute coronary syndrome (id: 25a834d55e49478fa459585074155374, parent_id: )
+Root node found: FC?嗆???(id: 5fd729790e5f4b84b5bd23f4e4b1ac4c, parent_id: )
+Root node found: NS (id: e681e54d39e64b5ba16a1aab0b1de02f, parent_id: )
+Root node found: ?怎摮?(id: a06afbb9111248099f9e0a3d49bc8c67, parent_id: )
+Root node found: ?賊?萄嚗hest Trauma嚗?(id: 26779f056d9a43f0a6a2f75e4e5b4ae7, parent_id: )
+Root node found: 敺拙蝘?(id: e7961fe6fb794ad8aa00e8730aa38168, parent_id: )
+Root node found: a0789ed75b0d44968691812c30327a6c.png (id: a0789ed75b0d44968691812c30327a6c, parent_id: )
+Root node found: ???銝嚗hronic venous insufficiency, CVI嚗?(id: 5fdbe39db16e4a8b99db983758fcb2be, parent_id: )
+Root node found: 銝餃?????(id: 2685f3fe35f54ba1bffcff3401e53da2, parent_id: )
+Root node found: OB (id: e861e9af485a47f299f0e2efa027d3f7, parent_id: )
+Root node found: a085b9672b02491d9376ff9fd6bc437d.png (id: a085b9672b02491d9376ff9fd6bc437d, parent_id: )
+Root node found: a0ca39d2b8264eb7a94f353b31d466d8.png (id: a0ca39d2b8264eb7a94f353b31d466d8, parent_id: )
+Root node found: ???箇? (id: 5ff023f873ad4138b537b6f3a643d0a1, parent_id: )
+Root node found: ?拙?喳???(id: 2771ecec872b450ba30443b6ad363f65, parent_id: )
+Root node found: 瘛雯蝟餌絞 (id: e88b7eabfc3648a59c77517c8a845471, parent_id: )
+Root node found: ?交扯??Ｘ扯???(id: 27737b55e1a745c19b01d08ff02431bd, parent_id: )
+Root node found: ?詨 (id: 5ff487422c254e949a26178dae62ee24, parent_id: )
+Root node found: e9eaee36442b47fca838076ec0a375ac.png (id: e9eaee36442b47fca838076ec0a375ac, parent_id: )
+Root node found: 擃?憯?(id: a29fa73b7f7143b79b6f5bd542c24fbe, parent_id: )
+Root node found: FC?嗆???(id: 27cb561db8d646e49762712a3aa9960f, parent_id: )
+Root node found: ea4d41516a494263a6c4e802d16d78f7.png (id: ea4d41516a494263a6c4e802d16d78f7, parent_id: )
+Root node found: ?交折?撠曄? Appendicitis (id: a2a226099a1046a1a11572f2783b12c7, parent_id: )
+Root node found: ?葉?摮貊霅雯蝡閮剛???(id: 2862994160ae453aab20c09a5d187b1c, parent_id: )
+Root node found: 憿勗?箄? (id: 60ed13288b4c4f0b9d22a8e1e1d3b40b, parent_id: )
+Root node found: Critical care (id: ea9053631f084280a1c77e64152ce1fd, parent_id: )
+Root node found: 摮悅憭? (id: 288c7d060204444ea701637e697f8a69, parent_id: )
+Root node found: 6336119c71b74c899fc3b6207df81f34.png (id: 6336119c71b74c899fc3b6207df81f34, parent_id: )
+Root node found: ?交扯?? Peritonitis (id: a2fcd613fb2d4043950b290112a57bcf, parent_id: )
+Root node found: ? (id: ea99d791da6f4c62a43133c55ffedc14, parent_id: )
+Root node found: 銝???-銝????箄? (id: 633dcf34982140fcacba469d578d49a3, parent_id: )
+Root node found: ?萄楷?抒揣?釭?怎 (id: a45e66f2357b485f8dbe7ae2bf92e996, parent_id: )
+Root node found: 2918aa2482db4a0a85fa9da4ba0871c8.png (id: 2918aa2482db4a0a85fa9da4ba0871c8, parent_id: )
+Root node found: ebfeb48cf61a47ccafcd1ee1c9dd5fad.png (id: ebfeb48cf61a47ccafcd1ee1c9dd5fad, parent_id: )
+Root node found: a45f121f059f4406a74e3d6a30814030.png (id: a45f121f059f4406a74e3d6a30814030, parent_id: )
+Root node found: 憌?蝛踹? (id: 63b53f8d71154a9693a6c36e1085f5f3, parent_id: )
+Root node found: ?Ｚ丰??(id: ecb956efb37c46bfa720e8dd0c2bc144, parent_id: )
+Root node found: 29c932dc2639419e9c909bb862fb99fa.png (id: 29c932dc2639419e9c909bb862fb99fa, parent_id: )
+Root node found: ?抒??潛撣貉??耦 (id: 644c088470eb4b70906ef83fe4562123, parent_id: )
+Root node found: 擃?芸?憡?(id: a663a710a7fe484aa245ec7e15f857f3, parent_id: )
+Root node found: 憭扯??貊??IBD (id: ed26a54e87a742abb22ec02b711404f4, parent_id: )
+Root node found: ?啁???????(id: 29fe8b8a7cf4477786dd2c3c434bb0d4, parent_id: )
+Root node found: 647a52d481344d0b98285fe1abe1f964.png (id: 647a52d481344d0b98285fe1abe1f964, parent_id: )
+Root node found: a6afc02a7ffa48229d9aaae418c72dc0.png (id: a6afc02a7ffa48229d9aaae418c72dc0, parent_id: )
+Root node found: 敹??粹銵蝞∠頂蝯?(id: efe87eae6bcb4c86849d9e086dc2940a, parent_id: )
+Root node found: ?澈鞈? (id: 2aaaec64d5e4483c9846bc6cbd79f41a, parent_id: )
+Root node found: 鈭箏極????銵?(id: a7418e10afb6473b91614d7152391729, parent_id: )
+Root node found: Vascular disease (id: f02213a02a1d4dc0b7531fc4e2552fa8, parent_id: )
+Root node found: 摮悅?扯?憓? (id: 6565a3fb8d8a44cab526737a2b96ef62, parent_id: )
+Root node found: ?貉???(id: 2b18863bbe9f47e2aabd7c0127c27aad, parent_id: )
+Root node found: ??方??? (id: f0482481b4724e94b5c7e236ffe76c28, parent_id: )
+Root node found: ??蝘餅??IPS (id: 659d47e0175d48bdbdab79e99ca30342, parent_id: )
+Root node found: 敹??怎 (id: a79cad9abaf248f5b547b337b7e205fd, parent_id: )
+Root node found: ?唳憤?扯?函??Diffuse Lung Disease嚗?(id: f04fe1da3ef74d6cbf0c70ab993f2f18, parent_id: )
+Root node found: 隡? (id: 65c6b784863b4eef91bb52af6e7e51b9, parent_id: )
+Root node found: GERD? (id: 2b6db6d6b984441d85c886cdaaa67445, parent_id: )
+Root node found: ?詨? (id: a814d3fec40348459bcac031e84c216e, parent_id: )
+Root node found: ?萄 (id: f08e8d844c2341aa86873c62e767f3a4, parent_id: )
+Root node found: 蝎曄?蝘?(id: 65f16a96d9014296adafa20e11d89c4f, parent_id: )
+Root node found: ?Ｗ??箄? (id: 2ca7b60bc33f4210b38ff49594272373, parent_id: )
+Root node found: ?賡??餃? (id: a86e8873d12b4ef69be5974892491f0d, parent_id: )
+Root node found: 撠踹仃蝳?(id: f0f7bd390f474b9d989177c0b078f412, parent_id: )
+Root node found: 銝???(id: 6642796a72a742d38c575c3a5687154d, parent_id: )
+Root node found: 銝???-??圈?????(id: a8bbb40c82f14a46a4f1bf096d8cca20, parent_id: )
+Root node found: ?????曄??????蝜??? (id: 2d925aa2bf7240e98bc6c6649711c7f3, parent_id: )
+Root node found: 撠?曄?-?寧??豢?? (id: f18624fa6f7840669e32e80db63dcb67, parent_id: )
+Root node found: 銝??????Tricuspid Valve Atresia (id: 664d1453023c42bab773a6d9eea9a409, parent_id: )
+Root node found: 銵蝞∠敶?(id: a8e3da98f6664980800a85a4c307af99, parent_id: )
+Root node found: 2dc37cb5fd334f008b9cc0bb135c5fbc.png (id: 2dc37cb5fd334f008b9cc0bb135c5fbc, parent_id: )
+Root node found: ?箏?????Pulmonary Valve Atresia (id: f18f169b424a49e982bf9af47973f10d, parent_id: )
+Root node found: 66adaa02167440628e26934aa75e5b28.png (id: 66adaa02167440628e26934aa75e5b28, parent_id: )
+Root node found: ?澈鞈? (id: a999149afb7f4c93bafb0ee1197ea7e5, parent_id: )
+Root node found: 6792b5dca9154d6fb8f7a92f02418d58.png (id: 6792b5dca9154d6fb8f7a92f02418d58, parent_id: )
+Root node found: ?⊥?蝬?(id: a9f91b170ce04d41abaac5999abb1491, parent_id: )
+Root node found: 銝餃????寧?嚗oA嚗?(id: f20a8da6db9748b090b27608a4a4f1e9, parent_id: )
+Root node found: Cholangiocarcinoma (id: 67db2408c6b645b0a621ad3cd7f7b968, parent_id: )
+Root node found: 鈭???????剁?Mitral Regurgitation嚗?(id: 2ecd45bfeaa8435a90e29d9f407c1f8b, parent_id: )
+Root node found: aab75d1be7444a999608c8315f5e20f4.jpg (id: aab75d1be7444a999608c8315f5e20f4, parent_id: )
+Root node found: f2321594be8c473d969cc9fde101c0db.png (id: f2321594be8c473d969cc9fde101c0db, parent_id: )
+Root node found: ??憒????(id: 2ed90755b3c14ea1899581391354a17a, parent_id: )
+Root node found: Respiratory failure (id: 687e6b470ddd4001ab17fb479c474115, parent_id: )
+Root node found: 敹?????曄? (id: f25a1b82e867439bb422b1f80f8df1ab, parent_id: )
+Root node found: GI (id: ab699ca1970e4a8ba9e6afde1358f28e, parent_id: )
+Root node found: 蝯?曄? (id: 2f65ad8805724be69649d32504110a03, parent_id: )
+Root node found: 銝???-??曄? (id: 68ce195fc85d4ac5accd82937f995256, parent_id: )
+Root node found: ???批??扯???Infective endocarditis嚗?(id: f3bfc762e9f24b1d8ed33dd0590eb10e, parent_id: )
+Root node found: 甇?虜?貝?蝔皛?(id: abb7bab691634a51b7482ba8db196884, parent_id: )
+Root node found: ?刻?????啣虜嚗otal anomalous pulmonary venous return, ... (id: 31a1161b45fa43a3b8ab3ace218a2112, parent_id: )
+Root node found: abc53923a2d3418e8770e619867563cd.png (id: abc53923a2d3418e8770e619867563cd, parent_id: )
+Root node found: 31b48d144378473692d3c870b930af67.jpg (id: 31b48d144378473692d3c870b930af67, parent_id: )
+Root node found: ?嗡????抒??(id: f47d6f1fa1784d17ab60d47b43321cd8, parent_id: )
+Root node found: 銝???-銝????箄? (id: ac7d5e1f642d4a18ba5b92560fb5d9ca, parent_id: )
+Root node found: 325fe8560e43494c8ca4ca1bdb49d501.png (id: 325fe8560e43494c8ca4ca1bdb49d501, parent_id: )
+Root node found: ?芋?輯岫雿?HTN) (id: 6931f9630d6a47a1b2eae3f600b7b488, parent_id: )
+Root node found: 撉函??摰??(id: f4bbd5e010574497b8b6e62763cba96b, parent_id: )
+Root node found: 暻駁? (id: acc17358108f4edf87ae73fe126399a7, parent_id: )
+Root node found: 憭折??唾? (id: f533716d1875433d973f0ca726964ed0, parent_id: )
+Root node found: 銝餃???銝剜嚗nterrupted Aortic Arch, IAA嚗?(id: 32f9cb3a059e479f965c7de6cb2c919b, parent_id: )
+Root node found: ad590283b2b747deaf307da67aab2413.png (id: ad590283b2b747deaf307da67aab2413, parent_id: )
+Root node found: ???抒?? (id: adf57f1c71b74f9d8e3e76c8a37ad14f, parent_id: )
+Root node found: 憌???(id: 33255e1e7ba449258d8b5d125c9c4c14, parent_id: )
+Root node found: Cardiomyopathy (id: f53c6c233deb4fbaa77e42fab00cac30, parent_id: )
+Root node found: ??閫??摮?(id: 69dbd311b5d14fa3b510eac3d26c31e5, parent_id: )
+Root node found: ?萄楷???斗?隢?(id: aebd003f9ea84661ba686d6340fc7f77, parent_id: )
+Root node found: f595eb884cc041f5828e892954549e21.png (id: f595eb884cc041f5828e892954549e21, parent_id: )
+Root node found: 敹??曄? Pericarditis disease (id: 3334bd35b0ed43e3b8751d70a2938f46, parent_id: )
+Root node found: ?其遢?粹???瘚撣賂?Partial anomalous pulmonary venous retur... (id: f797ae37583542c08ca0e3f3670e34d2, parent_id: )
+Root node found: 6a775deede8b455db62888e1f9ae873b.png (id: 6a775deede8b455db62888e1f9ae873b, parent_id: )
+Root node found: 瘛勗惜????嚗eep vein thrombosis, DVT嚗?(id: af4917e7e2a247efb219e52fbe7c8a3a, parent_id: )
+Root node found: 銝?蟡???(id: f7e204a3b63c4717af17e72fd66691b6, parent_id: )
+Root node found: 銵蝞⊥抒??(id: 6a906645d15a45c289e35d7b686dfc01, parent_id: )
+Root node found: ?芸????(id: b004db76667e4d26afb2540b618633e3, parent_id: )
+Root node found: 鈭粹???豢?(Prosthetic?valve)? (id: f851362aa8fe401baebb9f2bb8b0276d, parent_id: )
+Root node found: ???望? (id: b03ec12773eb45ddaca3571062fbee64, parent_id: )
+Root node found: 摮悅??(id: f876f57f90e34c3b91d05ff915ecc67b, parent_id: )
+Root node found: ?蕙? (id: 6aa7bd9d917c4323a0169c4f9bf11d5d, parent_id: )
+Root node found: 敹?銝 (id: 334d0c74be2a4d8f81e6a7789ee4bf41, parent_id: )
+Root node found: ?圈???(id: b3e81265a3f6478ba2c14ab37a7c3e7c, parent_id: )
+Root node found: 335cb46c5d5844ada656dd3ea774e65a.png (id: 335cb46c5d5844ada656dd3ea774e65a, parent_id: )
+Root node found: Mallory-Weiss Tear (id: 6aedc654246a42f89c22859793d9a411, parent_id: )
+Root node found: ????(id: f8988a7dd9454242899d2ba37d5f06b0, parent_id: )
+Root node found: b4359c8a3bb5449b893b9c3942affe03.png (id: b4359c8a3bb5449b893b9c3942affe03, parent_id: )
+Root node found: ?剝?萄/憿勗?箄? (id: 35c5a9d5120c40f4b6bb35b0a50ebab5, parent_id: )
+Root node found: ACLS ?閬??? (id: 6afc07087f924efda2245863d8125fcd, parent_id: )
+Root node found: (V) 銝餃?????Aortic Dissection (id: f8a8000f115b4c759bad99320ce03ee7, parent_id: )
+Root node found: 憍衣蝘?(id: 360d935f25e34e10b290cce3f4ad8967, parent_id: )
+Root node found: ??? (id: 6b0f5969c32f4a08bc6c870f7808ac70, parent_id: )
+Root node found: ENT (id: f915a6bbd9fd479f8c230470bb875e3b, parent_id: )
+Root node found: Ischemic heart disease嚗HD嚗?(id: 36a25d101ba04167a2ea6b29c2697451, parent_id: )
+Root node found: 璈１撘儐?啗???Mechanical Circulatory Support, MCS) (id: b49e57dc95de4b2ca971309513d4f1c2, parent_id: )
+Root node found: 蝺刻摩?澆? (id: f98283f67358471c8883159e31be4f81, parent_id: )
+Root node found: ?啁??? (id: 37aca090dc28423c88c7bbcce55da244, parent_id: )
+Root node found: ?赤?? (id: b501c2205819414bbd6d3e9dfc10caa6, parent_id: )
+Root node found: 銝???隢?(id: fa121ceb07f84a0a999d5642dfc87fd6, parent_id: )
+Root node found: ?貉?歹?Thymoma嚗?(id: 37b39475f2eb4d518647266a0184ca11, parent_id: )
+Root node found: Coronary artery disease (id: 6ccc1e8a178346aa82bf35673089a1c7, parent_id: )
+Root node found: 摮悅?貊???霈?(id: 37d0a88de67a48fdb2606940581b412d, parent_id: )
+Root node found: 6d442c1695ae4823818ffd7ffd74087b.png (id: 6d442c1695ae4823818ffd7ffd74087b, parent_id: )
+Root node found: ?貉??箇? (id: b5bb360310344965b77acc8362f099b8, parent_id: )
+Root node found: 39526dcf69d146c18cfffe2d388f23ad.png (id: 39526dcf69d146c18cfffe2d388f23ad, parent_id: )
+Root node found: ??閫??摮?(id: 6d6af72756694dc3accf218fcd2d54e7, parent_id: )
+Root node found: (V) ????(id: fa2198cdac6d4e2a8e57710857f63a6b, parent_id: )
+Root node found: ?咱???憸冽??曄? (id: b6d1c4dcde82435c8850a5438ebea71f, parent_id: )
+Root node found: ???曄?-???賜撣貉?閰摯 (id: fa874858309640e6a49ce03315c8057e, parent_id: )
+Root node found: ???曄? (id: b76d35f0e0274309a3727a6c9a496f9b, parent_id: )
+Root node found: (X) ?箸?憛?Pulmonary Embolism嚗?(id: faf79696249845e982d2c05343a10e71, parent_id: )
+Root node found: ?箸除??(id: b7dd1c57c4fe418ca93ba693c174ea73, parent_id: )
+Root node found: ?喳?摰日??箏嚗ouble-Outlet Right Ventricle, DORV嚗?(id: 396430118c9a4740bf5e216bf2458d69, parent_id: )
+Root node found: ?粹?? (id: 6e3f4312a17747a18a6aead164ac5f63, parent_id: )
+Root node found: 憍衣蝘?(id: b905dbd0849745cebf3299aab046735b, parent_id: )
+Root node found: 3c36b6e1a76f41b78c13ce6964023b78.jpg (id: 3c36b6e1a76f41b78c13ce6964023b78, parent_id: )
+Root node found: 6e7c1e9072564034a0bf5fedc27df3ca.png (id: 6e7c1e9072564034a0bf5fedc27df3ca, parent_id: )
+Root node found: ?Ｘ炎 (id: fb5f1ded965e4fa1adc69661fc96413d, parent_id: )
+Root node found: 撉函? (id: b9ad7e794da8486d896bdc33d4c78ed5, parent_id: )
+Root node found: ?交扯?餃? (id: 3c426dbe4ab64fd393a621f860924c29, parent_id: )
+Root node found: 銝???(id: 6edc7caef16148c68f15921beec0e556, parent_id: )
+Root node found: fc24bde5119a48f288fc1d22270e095d.png (id: fc24bde5119a48f288fc1d22270e095d, parent_id: )
+Root node found: ?潛? (id: ba04d9672a3f4426b13b5150e5e1c717, parent_id: )
+Root node found: ?券?銵蝞∠??(id: 3c4c549530df4da1bbb634b346127239, parent_id: )
+Root node found: 憟單批??摮?(id: 6f201257b2784cecb843fb88a2773b03, parent_id: )
+Root node found: 憒?擃?憯?摮?? (id: fc6e7275b5a149d9a5aff00f37bf5b22, parent_id: )
+Root node found: Colorectal Cancer (id: 3dde847c285a41bdb3f37994e447fa6c, parent_id: )
+Root node found: Dysphagia???圈 (id: ba14d65eb32a4f07b03c8443ad78a626, parent_id: )
+Root node found: ?Ｗ??? (id: fd4a8329d52b4750b22dc913e1b10c48, parent_id: )
+Root node found: ?澆??(id: 7004178578c242edad640d09d8d9c39d, parent_id: )
+Root node found: GS (id: 707066138a9f4c10aaccaf1b2d948c56, parent_id: )
+Root node found: 摰? (id: 3e2d85ba0bbb477582e636928d6ffb2e, parent_id: )
+Root node found: ?圈???(id: ba324195eb584a96b6ea3a73342a76a4, parent_id: )
+Root node found: ?寡???(id: fd5e784633a74fa19b0f270cf369be9e, parent_id: )
+Root node found: ?嗡?蝘?(id: 7071f13ae8e04cc99be1ccb29a3df58c, parent_id: )
+Root node found: ?? (id: fff52f24ebb441d297c001c4eba67732, parent_id: )
+Root node found: ?瑟找?摮?(id: 3e7ff3b87ec8489691aeff64e026eb7b, parent_id: )
+Root node found: 瘞?恣 (id: 7117048124184b329caed68bac4dfebc, parent_id: )
+Root node found: Pneumonia (id: ba6359c74f954c4788edbf48995ba72b, parent_id: )
+Root node found: ?潛景??憭拙??? (id: 721f6a9575fc4167863253300665172c, parent_id: )
+Root node found: ?詨??啣虜嚗ectus deformity嚗?(id: 3ea9bbf183e940df847929dfc3c238af, parent_id: )
+Root node found: ?株?蝘?(id: 723c39c119fb4a5e92005b9201f44b1c, parent_id: )
+Root node found: 瘞?嚗neumothorax嚗?(id: ba6ce04d7fe04ca29ad7fe61886381e3, parent_id: )
+Root node found: ?詨??箏?黎嚗horacic outlet syndrome, TOS嚗?(id: 3f549b3c2141475bbf7faea725e2a7af, parent_id: )
+Root node found: ?游僑???瑞?祥??(id: bab5d52c62584a709227e01f91c5f4f0, parent_id: )
+Root node found: 撌血??潸銝 Hypoplastic Left Heart Syndrome (id: 72a7618e971645ffa6febf15a5693c7f, parent_id: )
+Root node found: ?賡??????(id: 3fa8a6fcf80e4261aa129789ce7be498, parent_id: )
+Root node found: ?賡??曄?-?賜??唾??賢???(id: bbbcff6e92ef47ddb2b5f12e344c9193, parent_id: )
+Root node found: 敹??餌???(id: 40d0d61c59aa4c9cab7abd94a3f74354, parent_id: )
+Root node found: 鈭???蝒?Mitral Valve Stenosis嚗?(id: 73c72eb6827e4ca69dcb472ffbb007b7, parent_id: )
+Root node found: 743c7ee2baed43ad8c22af654e5bfbc8.png (id: 743c7ee2baed43ad8c22af654e5bfbc8, parent_id: )
+Root node found: 銝餃???嚗ortic Regurgitation, AR)? (id: 40ddff3688614536b0c7428077c03108, parent_id: )
+Root node found: ?Ｘ扯?? (id: 763ee8fc210b4cc38118d0fc68e16201, parent_id: )
+Root node found: ?萄楷銝蝝啗??怎 (id: 410858f71cd3438fbba1d200c155739f, parent_id: )
+Root node found: 擃?芸?憡?(id: 768f12441a084c818dec70f08638e66f, parent_id: )
+Root node found: 蝺刻摩?澆? (id: 4176c8ffab2745cd98e5ff1b57d17ab4, parent_id: )
+Root node found: URO (id: 769a4b67c61b4cde8028a0474b926acf, parent_id: )
+Root node found: ???(id: 417a4dd9f644422181d5763f711e2c67, parent_id: )
+Root node found: 摮悅?扯??唬???(id: 7775931d17dd4f8686ae6c2a98cd047c, parent_id: )
+Root node found: Syncope 嚗摰孵云撠??? (id: 41d6f240e6f24bf0ae2b2a0ad64b6b46, parent_id: )
+Root node found: ?瑟平?憓? (id: 425352780aa847d4a3d2ba0697db2195, parent_id: )
+Root node found: ?潛 (id: 428a5d99b73146738df92dcacd8f663b, parent_id: )
+Root node found: 憍衣??亦? (id: 4294f4fef0054896b445096df5f5d057, parent_id: )
+Total root nodes: 448
+Generated tree_file_name.txt
+Root node found: 憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ... (id: 002d431689104b1a9198849586a2f13a, parent_id: )
+Root node found: 憒?皛?撅斤??(id: 009a2fe2c7c1401eb070f573f69cdb18, parent_id: )
+Root node found: Cholangitis (id: 77c7d2c508544681b0be4d4ff670b794, parent_id: )
+Root node found: 42d79bf15af845b78de2da8bb7dfcf52.png (id: 42d79bf15af845b78de2da8bb7dfcf52, parent_id: )
+Root node found: bc1dba241cea468f8f36c9dfb24dd42a.png (id: bc1dba241cea468f8f36c9dfb24dd42a, parent_id: )
+Root node found: ?拚??(id: 01885175304f4b7f99a9f126ece726ce, parent_id: )
+Root node found: 77d2ede8c002488ea60c18de844a3b08.png (id: 77d2ede8c002488ea60c18de844a3b08, parent_id: )
+Root node found: ?交扯??(id: bc2afc607ee44664a5241a261a126133, parent_id: )
+Root node found: ?咱?澆????(id: 43f501e100e148e18d0281f730a0e67a, parent_id: )
+Root node found: 0252d69d46fd4551bc10278d27589253.png (id: 0252d69d46fd4551bc10278d27589253, parent_id: )
+Root node found: ?? (id: bcf38154e8b0432493aadf967a035def, parent_id: )
+Root node found: ??批撌Ｗ??賭???(id: 78c5f5e5ebac4655a19ddb80b89a60e5, parent_id: )
+Root node found: 憟單找?摮?(id: 03748e792631453fa1b5f20c6e50cf46, parent_id: )
+Root node found: ?賊?怠?[CS] (id: 447b1c5f4c5d4ca8a1ecb7937ce2efe7, parent_id: )
+Root node found: ?蝝箏??予?批??? (id: bd95441f69e84c11a67406fc45950b56, parent_id: )
+Root node found: (X) Transmyocardial laser revascularization(TMLR) (id: 78c686b283204cae9b36379d35d524d3, parent_id: )
+Root node found: ?Ｗ??? (id: 03a78001c84f4643905dc5af721f7bcd, parent_id: )
+Root node found: Malabsorption ?豢銝?黎 (id: 78f2807b26cd4b29b9b2e8655f4ca949, parent_id: )
+Root node found: 摮悅?扯???(id: 44da90293bc84d6e935cd59a2ca070a5, parent_id: )
+Root node found: (V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?(id: 03c6ab28b21a4ed3b766a94f5214a237, parent_id: )
+Root node found: ?抒? (id: bde3285696234c338a8db7ef3fb9296e, parent_id: )
+Root node found: ?詨? (id: 0474fd164c894ed2a3f15d535df9093b, parent_id: )
+Root node found: ?? (id: 463bf781734a429d96263e91ac85d335, parent_id: )
+Root node found: ?? (id: 794104f5c84f48f8a2ce3bed0824462a, parent_id: )
+Root node found: Gastritis (id: 04cb7ca502054a8a9f70b82a4e6962c5, parent_id: )
+Root node found: GI (id: 46badbd447cc431d8983d4e9b93582a0, parent_id: )
+Root node found: ?潛? (id: 472e77dd09a44b87af83f184b1eb2f6b, parent_id: )
+Root node found: 050dea589383434c9a08df27e570d548.png (id: 050dea589383434c9a08df27e570d548, parent_id: )
+Root node found: 閫??摮?(id: 7a296736cb8a4a03a9f835404592fe4d, parent_id: )
+Root node found: 敹※蝡?(id: be296860347c450182390c3d6f97f3a4, parent_id: )
+Root node found: ?株?蝘?(id: 06f82a0466814311abec9501085ff662, parent_id: )
+Root node found: 憭扯??貊??IBD (id: 7b3c8ec12da74af4ae61b2326a02e42b, parent_id: )
+Root node found: 憌??怎 (id: 079c8705d86c4c28be54ee04d0c5c7c0, parent_id: )
+Root node found: 憭? (id: 476203eb3d584775849bf47b8c26fa7e, parent_id: )
+Root node found: bec99052e6334f608c14319c0ae97ff2.jpg (id: bec99052e6334f608c14319c0ae97ff2, parent_id: )
+Root node found: Sleep apnea (id: 7b5e7978225646688eb19b7bd1581847, parent_id: )
+Root node found: 憭??批撌Ｙ??黎 (id: 08416174c9c9454db3bc48e7d99ecdfc, parent_id: )
+Root node found: ?株??脩???(id: bedbb47f8fb34c5dab631e5a509d5aba, parent_id: )
+Root node found: 敹恕銝剛?蝻箸?嚗entricular Septal Defect嚗?(id: 476b39a3e0ab46d8be71ff4d5d07b312, parent_id: )
+Root node found: 7b669b47c58149d7a50ad85b3f636b28.png (id: 7b669b47c58149d7a50ad85b3f636b28, parent_id: )
+Root node found: Esophageal Varices (id: 0899938aa8cb4faf8459e83fb9e89217, parent_id: )
+Root node found: ?予?批??? (id: 4785319e46d94107a655749e3f3cad37, parent_id: )
+Root node found: ??蝛雯嚗leural effusion嚗?(id: beecf6a9378244f69e692fb936d9ad7f, parent_id: )
+Root node found: Diverticula (id: 0b07efa5eff24f809af86d48f3e2d7ce, parent_id: )
+Root node found: ?瑕?雿萇??箇??(id: 7bb490304ab9443ba2d1a8a0be6070eb, parent_id: )
+Root node found: GYN (id: 47bfc0395ac4497688093cc56b94578d, parent_id: )
+Root node found: ? (id: bf42685b84d14f458835afcc07487a91, parent_id: )
+Root node found: 蝯?曄? (id: 0b7d78805d464649a1e29b9a65061f10, parent_id: )
+Root node found: ?交扯??(id: 7be6037c0ba74d01bc13a4a444fbf1c8, parent_id: )
+Root node found: 4862e9e6926646b3a83b6f1fbbb6d845.png (id: 4862e9e6926646b3a83b6f1fbbb6d845, parent_id: )
+Root node found: c068497ad2d3411dad6d1f31ad619726.png (id: c068497ad2d3411dad6d1f31ad619726, parent_id: )
+Root node found: 0b93c60d419d41f093bd6b53fbd0edb2.png (id: 0b93c60d419d41f093bd6b53fbd0edb2, parent_id: )
+Root node found: ?行香?文? (id: 7bee062a55d645dabcf6b89c9e21afbc, parent_id: )
+Root node found: ?Ｗ??? (id: 4880d1d7a87646418dcf5ec873004565, parent_id: )
+Root node found: 撉刻釭????(id: 0c632573e64c47618c78125ef02c12d6, parent_id: )
+Root node found: Pleural effusion (id: c0aa194ad9d84cff903486c51e201c24, parent_id: )
+Root node found: ?倏??摮貉?撠輯楝??摮豢炎??(id: 48a112629a8c452a981453116bce0bec, parent_id: )
+Root node found: ?予?孵??啣虜 (id: 0d37b278401b420f882a63ea1d68fa74, parent_id: )
+Root node found: 銝??選?cor triatriatum嚗?(id: 7cdc5ae6e237455cb17d32fad21ec24e, parent_id: )
+Root node found: 蝺刻摩?澆? (id: c0d5070c6f6a4317a5a2afd9f6f3aea0, parent_id: )
+Root node found: 0dc71d7a370349d6b9d9677024d4048a.png (id: 0dc71d7a370349d6b9d9677024d4048a, parent_id: )
+Root node found: 4987871f6f8a4f7895f66e4a60223da4.png (id: 4987871f6f8a4f7895f66e4a60223da4, parent_id: )
+Root node found: ?批?瘜??(id: c135d40f462a440fbe3528de64081acc, parent_id: )
+Root node found: 憿勗憯?(id: 10579b19a54d4030802271dfa6328472, parent_id: )
+Root node found: ?賡??曄?-?賜??唾??賢???(id: 4ab5dcd055bf40218de0d350f6990b93, parent_id: )
+Root node found: 銵瘨脣飛 (id: c1c83ab2e50b445fa2c7bd5439a9230e, parent_id: )
+Root node found: 10688876a4674b4bb72f7f838b92c8fb.jpg (id: 10688876a4674b4bb72f7f838b92c8fb, parent_id: )
+Root node found: 銝餃???寧?嚗ortic Stenosis)? (id: 7d5c4c0e844746e6915febc78c206d92, parent_id: )
+Root node found: 鈭粹?銋喟?????摰桅?怨? (id: 10cefdcff6994aafaa7b5a48777f594d, parent_id: )
+Root node found: Zollinger-Ellison Syndrome (id: c1ea5c43297647f0bb1bd7ba81ecda6c, parent_id: )
+Root node found: ?啁?????Neonatal Jaundice) (id: 7e852ed08c394399811e5d7bd8845fcf, parent_id: )
+Root node found: 蝐?銵鈭? (id: 122727a11e934fd9afe7ccdbeb893861, parent_id: )
+Root node found: 蝷箇?ITP (id: 4c2de243014f4833a0cc4804c26c3165, parent_id: )
+Root node found: ?Ｗ???閰摯 (id: 7f9242ba74cd40109091d7330807b548, parent_id: )
+Root node found: Cystic fibrosis (id: c222b705106f4726afce3f95020dfc96, parent_id: )
+Root node found: 頞唾??? (id: 7fa35d29819e4a9e8b9965cd74c0bb27, parent_id: )
+Root node found: Hypersensitivity pneumonitis (id: 1257dfe12c6e4d55825f78478b5af4cd, parent_id: )
+Root node found: 瘨?蝟餌絞 (id: c2a03589bd8b4688b25f8ccaf82d2095, parent_id: )
+Root node found: Interstitial lung disease (id: 4cc1778fd19f45238449e88e28564e5a, parent_id: )
+Root node found: 81ac5e3006b14202bbfe1166296d5ad8.png (id: 81ac5e3006b14202bbfe1166296d5ad8, parent_id: )
+Root node found: 130259de02164aaa9b2584b6b1228c19.png (id: 130259de02164aaa9b2584b6b1228c19, parent_id: )
+Root node found: Respiratory failure (id: c5b588c07a724b8eb1a5c2b0d232d773, parent_id: )
+Root node found: 憒?蝟倏??(id: 4d6e9b9fe0d04ba5852951dde407c333, parent_id: )
+Root node found: ?抒??潛撣貉??耦 (id: 8246c1f96f56425bb72377b17a60ba01, parent_id: )
+Root node found: 13ab37636d094241adf4d7e5ffd18c65.png (id: 13ab37636d094241adf4d7e5ffd18c65, parent_id: )
+Root node found: Vascular disease (id: c5cea17e710642bfaf85a8c267c4e118, parent_id: )
+Root node found: ?啗??怎 (id: 4db3fdd462884662bc504ce2071e8506, parent_id: )
+Root node found: 蝎曄?蝘?(id: 82c0e4bb94464d3cb07c1024574a0e4e, parent_id: )
+Root node found: ?嗡?蝮梯????(id: c689de4f4de04426843ef94415e6c4a7, parent_id: )
+Root node found: ??批???蝞∴?Patent Ductus Arteriosus, PDA嚗?(id: 13e92f88fc564d518da5ae2606a4a237, parent_id: )
+Root node found: 4dd61480d55c4c55a0e9ceee23f82fe7.png (id: 4dd61480d55c4c55a0e9ceee23f82fe7, parent_id: )
+Root node found: Aortic disease (id: 8344891f8c494c54bd48dc1fbaedeb8e, parent_id: )
+Root node found: Ulcerative Colitis (id: c6aa4abecc034076ab63a7e3549e2145, parent_id: )
+Root node found: Gallstone ileus (id: 4e7bf6f3df264a32ae1be9db30519b46, parent_id: )
+Root node found: ?Ｗ岫????摮?(id: 834eea9ebfc844119cdc42cca4f8b965, parent_id: )
+Root node found: 瘚??甇Ｗ?憡?(id: c7475fe662694678b8de7cca30b42072, parent_id: )
+Root node found: ?萄楷?漲?箸??黎 (id: 4f1455833ddc40118a142914a2e1c5fc, parent_id: )
+Root node found: 憭抒雇?嗆? (id: 13ed90e9834e42469755fd4c64973ef6, parent_id: )
+Root node found: 撠???摮貊??(id: 8356390540f942b0bbffa7d0d349f966, parent_id: )
+Root node found: ?箏摮?(id: 4fcd504235474ff892944f9e523a72bf, parent_id: )
+Root node found: Acute/Chronic Diarrhea (id: c7674c9be9d542959ce3f3f9e143da2c, parent_id: )
+Root node found: ???亙熒 (id: 1475f809edc54ee6b6dc4403ba97d27d, parent_id: )
+Root node found: ?血?蟡??曄? (id: 840543d26ef9410e9c09195b583683c8, parent_id: )
+Root node found: 瘜倏????(id: 50a7986ccb574d1a9697598480df602f, parent_id: )
+Root node found: 憭??(id: c7c908a8f3714f95b6dde6c870276b19, parent_id: )
+Root node found: ?萄楷??蝝啗??怎 (id: 14f17565109e4f1d9c3801d5a1ba48c4, parent_id: )
+Root node found: CV-?湧?靽格撱箄降憒? (id: 50c940c773b34a5fb8ce9c591b518b48, parent_id: )
+Root node found: ???曄? (id: 15071bb22762423eabe4037ab2bfc1a9, parent_id: )
+Root node found: 憭批???雿?Transposition of the great arteries, TGA (id: c83ee299a708497d9cdcdd1f18bfce17, parent_id: )
+Root node found: 51bded3a60f9472ca2dbaa758f80bd7a.png (id: 51bded3a60f9472ca2dbaa758f80bd7a, parent_id: )
+Root node found: ?亦??(id: 843f112d30af4b07829b1e5552d39709, parent_id: )
+Root node found: 1561ade9badd473088fd0a835160eac8.png (id: 1561ade9badd473088fd0a835160eac8, parent_id: )
+Root node found: ??? (id: c845a4bf89144114932d1f6624e8c509, parent_id: )
+Root node found: ???曄? (id: 5283c6a1d5c244109a407f5667396d87, parent_id: )
+Root node found: 憟單批??摮?(id: 846d217a91fe4c21b5ed5a2c778a3ef3, parent_id: )
+Root node found: META (id: 156bc31ce12d40e19ac6ed2088d4a701, parent_id: )
+Root node found: 敹?????曄? (id: c85a6320a2674d72b6d82d300a028d81, parent_id: )
+Root node found: ?賡??????(id: 52c048708e3848f4b87bbfd8cdd85d31, parent_id: )
+Root node found: 170182745c874a1c827a19041a4b57e7.png (id: 170182745c874a1c827a19041a4b57e7, parent_id: )
+Root node found: 摮悅?貊? (id: c868bf8fadd240209ce8f87ee9b5d3cc, parent_id: )
+Root node found: Acute adomen (id: 8489a8d92fd1470bbfd3e80520661c40, parent_id: )
+Root node found: ?芷???抒??(id: 52fbfc7dd70b4f5aaf40c2a288adc721, parent_id: )
+Root node found: 1806952bf7d14ba58ac82919bfba1875.png (id: 1806952bf7d14ba58ac82919bfba1875, parent_id: )
+Root node found: 摮悅? (id: c8c0c059bd8540dfbdfa72456d4ea947, parent_id: )
+Root node found: Aortic disease (id: 84a8ba505c5b452cb9bc5e7e8f31628d, parent_id: )
+Root node found: OP (id: 531aa7e3730b4199ad239c78ffaed658, parent_id: )
+Root node found: ?啁???(id: c8fa6e8011e64bdf9639c1b42f4d3bf3, parent_id: )
+Root node found: ?潛? (id: 1816320f0860436e9b786ee710fc0af2, parent_id: )
+Root node found: 8545a0ffb6a14fe4be52e2368e4e00c1.jpg (id: 8545a0ffb6a14fe4be52e2368e4e00c1, parent_id: )
+Root node found: 敹? (id: c995d490b5154cd98457dbbdf9d36ef8, parent_id: )
+Root node found: 5330b1e4560447c3a5434c6deacf6bdb.png (id: 5330b1e4560447c3a5434c6deacf6bdb, parent_id: )
+Root node found: Crohn? Disease (id: 18c3d8dba324437e878a08e175783596, parent_id: )
+Root node found: ?予?抒??(id: 864d2cd9324b4ea2b93e73aac6c4674f, parent_id: )
+Root node found: ?啗??曄?嚗ancreas嚗??交扯?? (id: 538994738c244f66bbd8c84c65b10b91, parent_id: )
+Root node found: ?澈鞈? (id: 18d3062a81f645a8a757973ec05f2fce, parent_id: )
+Root node found: ???扳?憛?Nonthrombotic Embolism嚗?(id: ca0faad4080541fbba096f1c0fde36a8, parent_id: )
+Root node found: ?箇?嚗ung cancer嚗?(id: 8795f9345a764d9295e9716077bffaa1, parent_id: )
+Root node found: 1988fd582b90486ca62289b32932de8f.png (id: 1988fd582b90486ca62289b32932de8f, parent_id: )
+Root node found: Bronchiectasis (id: 5391c4451167487e868f30eeb10baa88, parent_id: )
+Root node found: ??扯?曄? (id: 87c16191493742719b383c10fca89962, parent_id: )
+Root node found: ?閰摯 (id: 1a185306a3aa45269e6b2a6eb4e32683, parent_id: )
+Root node found: 53a9fbf929854822a583376c2c06de22.png (id: 53a9fbf929854822a583376c2c06de22, parent_id: )
+Root node found: ?券????餃??抒??Peripheral artery occlusion disease, PAO... (id: cb05a0ca70c941a98ad308ddd018bc7c, parent_id: )
+Root node found: GS (id: 88df097385ff49d6893220ee343f47cd, parent_id: )
+Root node found: 擃雯?閫?釭??擗?(id: 1a9796b731ac49f29e61e0145fc4ac7e, parent_id: )
+Root node found: GYN (id: cb4f4670a9cc45d78be880538bbee0e7, parent_id: )
+Root node found: Lung abscess (id: 544fb3c25d1647669bfbf3ffa68389b1, parent_id: )
+Root node found: 撉函? (id: 1bf63713b79d46bbab90798251a2bf02, parent_id: )
+Root node found: APACHE (id: 89b3304cc94745a9be0f6b6634eb9e45, parent_id: )
+Root node found: 547a0cd56c064834b0c7c674c3fcbf71.png (id: 547a0cd56c064834b0c7c674c3fcbf71, parent_id: )
+Root node found: ?啁???貊???(id: 89f7f30abcba4e2f91b025f6180c4ef6, parent_id: )
+Root node found: OB (id: cbac12b0064f42c0997ac3a38d3c8a60, parent_id: )
+Root node found: ??撟?Persistent Truncus Arteriosus (id: 8b33e013f8944c2cbcf62ffef1326629, parent_id: )
+Root node found: ????踹???(id: 1c001d52452a43049a990f40d1104b1a, parent_id: )
+Root node found: 549a8aec7a8e4fae8615ceaab7bd21dc.png (id: 549a8aec7a8e4fae8615ceaab7bd21dc, parent_id: )
+Root node found: Gastric Cancer (id: cbb9b3a032f14a28a3e1316f03d64f53, parent_id: )
+Root node found: ?衣 (id: 8d99dedef6134c44a93b58d846e9a753, parent_id: )
+Root node found: Peptic Ulcer Disease (id: 55c84ce5f9c84cea87989e1377eb53a9, parent_id: )
+Root node found: ?抒? (id: cbd7a8d04ccc4a7daa846244cf4630ca, parent_id: )
+Root node found: ????移?扯???(id: 8e28938c6d6a403abebd7999a16acc95, parent_id: )
+Root node found: 憍衣???雿萇??(id: 568c3299fb4d42d6b56534404c4a0db0, parent_id: )
+Root node found: ?????曄??????蝜??? (id: 1c11de63bdc949ab81f55558c815997e, parent_id: )
+Root node found: ??瘜倏??(id: 56d7b0ad76cb41e8bf5f56828ce57c6e, parent_id: )
+Root node found: EKG (id: ccf99ba504094d01bf9f2339096a3e98, parent_id: )
+Root node found: 擃???(id: 8e3b103182c14b5a8044593fae279163, parent_id: )
+Root node found: cf6ffe9e488847f89efce5f3f15b5e49.png (id: cf6ffe9e488847f89efce5f3f15b5e49, parent_id: )
+Root node found: 銝?砍岫蝘飛 (id: 8e3b569882af47308cd040bd74cedda1, parent_id: )
+Root node found: 銝?砍岫蝘飛 (id: 1c1af609535f467d863145cff128b583, parent_id: )
+Root node found: AI prompt (id: 8eb71f54e0a843299f4431c12e14e5b7, parent_id: )
+Root node found: ????批??? (id: 56eb86067f17476db93ffe0e1575f030, parent_id: )
+Root node found: ?? (id: 8f291a69da1a4f1da248fe3f535fa5d6, parent_id: )
+Root node found: Ischemic Colitis (id: 1c76220f2f7a4dc980c80a6b096d4037, parent_id: )
+Root node found: 蝯? (id: cf8dcc76b7df40048edbb8d0c0f2813b, parent_id: )
+Root node found: SOFA (id: 578598111f444ba0a270fda3e3b71cb4, parent_id: )
+Root node found: 撠?曄?-?寧??豢?? (id: 8f41681e3e0e4630b2317c4e5966fdb1, parent_id: )
+Root node found: Ebstein anomaly (id: d0ea40494a85428dafe52b82bc6852d6, parent_id: )
+Root node found: 57d7ce0df09c4a0e964e1274d5da022d.png (id: 57d7ce0df09c4a0e964e1274d5da022d, parent_id: )
+Root node found: Pulmonary embolism (id: 8f5440d91e3649d3a2edf54c9ac978d6, parent_id: )
+Root node found: 58f803342ea94ccab25789a840006e54.png (id: 58f803342ea94ccab25789a840006e54, parent_id: )
+Root node found: 蟡?蝟餌絞?抒??(id: d163dd365b854ef1841fa72bf212aff5, parent_id: )
+Root node found: NS (id: 8f71c6bfa9dd40c7880a87638686bfeb, parent_id: )
+Root node found: ?詨 (id: 5916777e652a4cbd866a2cea02c55967, parent_id: )
+Root node found: d2da62047e2a4453ba31d8dd25c92bd3.png (id: d2da62047e2a4453ba31d8dd25c92bd3, parent_id: )
+Root node found: 敹?蝘餅? (id: 8f8510e189964e91bb2f06ae665ace2d, parent_id: )
+Root node found: Acute Respiratory Distress Syndrome (ARDS) (id: 1d16248e17d247a2a5733ff203507324, parent_id: )
+Root node found: 59802e9d8e4d4adfb26ad4893cde061a.png (id: 59802e9d8e4d4adfb26ad4893cde061a, parent_id: )
+Root node found: TRALI (id: d2dd65eb2c884e09aa9fda670637f84b, parent_id: )
+Root node found: ?潛景??憭拙??? (id: 90125d5990ca41f8b5ce55743833da75, parent_id: )
+Root node found: 銝???-??圈?????(id: 59d8a9143fbf45c089510ea4bcb80b73, parent_id: )
+Root node found: d4c595dae70941e6bbd2c7e2ac549d9b.jpeg (id: d4c595dae70941e6bbd2c7e2ac549d9b, parent_id: )
+Root node found: ?拍?????拇??湔偌 (id: 5a30852e39794c46bce454f485232843, parent_id: )
+Root node found: 銝瘛勗惜????嚗pper Extremity Deep Vein Thrombosis, UED... (id: 90f216ecc4c24f61a14d43db58433c6a, parent_id: )
+Root node found: 敹銝剛?蝻箸?嚗trial Septal Defect嚗?(id: d4ed26283d3f441791f63769810d76c4, parent_id: )
+Root node found: NEURO (id: 9176586ffac64b4ba11f77e7baa51271, parent_id: )
+Root node found: ?箇? (id: 1e0d8f421b7141e39ff35b8b8e37bd4f, parent_id: )
+Root node found: COPD (id: 5aef5ae0960846988ee85fc15d3d581e, parent_id: )
+Root node found: ?′??雿萇??(id: d509cc2eb0f84acfbfb519dfd9d544c7, parent_id: )
+Root node found: CV-?湧?靽格撱箄降憒? (id: d63e32f9a0864b3c908cf662792a0d8d, parent_id: )
+Root node found: 瘞?? (id: 94258cfec8e14011994dd7f1e6f4640f, parent_id: )
+Root node found: 摮悅?移暺?(id: 1e36696d5e564f9fa47be8aab4b04eed, parent_id: )
+Root node found: Cholelithiasis (id: d7a202dd03ef49c2a3d4dc1a2c3abc01, parent_id: )
+Root node found: Eisenmenger? Syndrome (id: 5b633a248a144aa7b8d6f59b4850d014, parent_id: )
+Root node found: ?圈??????(id: 94b05a2f96da48d598bb3544fedfe0e0, parent_id: )
+Root node found: ??扯?曄? (id: 5b790cea14484ef3861154fc65b7c272, parent_id: )
+Root node found: ??蝘飛 (id: d86de95b7f5a44f5aad1664c580bcd2f, parent_id: )
+Root node found: 隞???扯???(id: 9556b9010f0c4b45bbb31306c21cbe20, parent_id: )
+Root node found: UGI bleeding (id: 5bac784b3c6c4634ab5d83c1757b89e3, parent_id: )
+Root node found: 1e64129018cd4ae489d20f1beeac2e34.png (id: 1e64129018cd4ae489d20f1beeac2e34, parent_id: )
+Root node found: Diverticulitis (id: d8e3929b83284b89b4732b5351e45555, parent_id: )
+Root node found: ?? (id: 955dddd5ff244627880b73385d965e39, parent_id: )
+Root node found: ???單?dermis敺?嚗隞亥岫??secondary healing (id: 5bc06efe492b410290fb06f43506f3f1, parent_id: )
+Root node found: 憍衣??舀扯??⊥扯??(id: d92961cffad74c4781ea6e01adc4ac54, parent_id: )
+Root node found: ?貉???IBS (id: 961d84b483b54f098a0a9caf3410781e, parent_id: )
+Root node found: ?啁??? (id: d92bc6ae43644d8faa39502eea73e109, parent_id: )
+Root node found: PSC vs PBC (id: 5c421732378c40d2bd9e82efb70924dd, parent_id: )
+Root node found: Ischemic heart disease嚗HD嚗?(id: 9627eb1c5fe742a593718656bd4594a1, parent_id: )
+Root node found: META (id: dab38f0aca52458c9d7c48996d25a35c, parent_id: )
+Root node found: ?澈鞈? (id: 5cc5bd6adc72475da0a965259309ec06, parent_id: )
+Root node found: TB (id: 966cdd4581f047959dccba9ac312e548, parent_id: )
+Root node found: Peripheral Artery Disease (PAD) (id: 2093f8ae77ee48db98e89b43f7ecff31, parent_id: )
+Root node found: 暺?蝝??啣虜 (id: dd324d2f1d884dbabe2257fe61d398d2, parent_id: )
+Root node found: ?啁???隡?Newborn PE) (id: 5d63d785b7f74609bd761ec42e501ba9, parent_id: )
+Root node found: 20eb7c8618a54b0cb44cf2d281175eb8.jpeg (id: 20eb7c8618a54b0cb44cf2d281175eb8, parent_id: )
+Root node found: ddfd5510ff344f26bfb11b099ece4321.png (id: ddfd5510ff344f26bfb11b099ece4321, parent_id: )
+Root node found: 97fce273079346f7a6e38144a398894f.png (id: 97fce273079346f7a6e38144a398894f, parent_id: )
+Root node found: URO (id: 21afa25c527e444da025852b93153073, parent_id: )
+Root node found: OP (id: de16c53e7a1b423fa396c0596a9a6786, parent_id: )
+Root node found: ??銵??憛?嚗enous Thromboembolism, VTE嚗?(id: 5d6ab90c4e6b4fe48e39243a4af2a0f9, parent_id: )
+Root node found: ?????? (id: dfcff04a83f4409cabc3d614241d92ca, parent_id: )
+Root node found: Achalasia (id: 994cdd93abc345629530eafcd53913ed, parent_id: )
+Root node found: 憍衣??舀扯??⊥扯??(id: dfd23a82f9a14b638adc730c3b532e7f, parent_id: )
+Root node found: ?箏??蝒?Pulmonary Stenosis嚗?(id: 22d3b1b22dd84dbb90b1fd965a3ffd49, parent_id: )
+Root node found: ?券?銵蝞∠??(id: 998d1aecb4bb42408a2e10ef147503a6, parent_id: )
+Root node found: Aneurysm (id: 5e9b2a014d56451187768bf60f68f5f0, parent_id: )
+Root node found: ?⊥扯??(id: e0a35a0869224b10b96ef08c41e16f5f, parent_id: )
+Root node found: 2360bc10f58241b8bd468674e43cb56d.png (id: 2360bc10f58241b8bd468674e43cb56d, parent_id: )
+Root node found: Respiratory failure (id: 5ea50679a88a48968303b4c103d18136, parent_id: )
+Root node found: ???扳???(id: 99ac3521fdc9435f8b09b7efd0f2ccf4, parent_id: )
+Root node found: 憭? (id: e160a4e619864c85a5395421af889112, parent_id: )
+Root node found: 憍衣?????(id: 245fec9a24c44849ad76b5ea2d1bc826, parent_id: )
+Root node found: ??摮?(id: 5ee7bf224b7141999c8c09b3f8d437d0, parent_id: )
+Root node found: Critical care (id: 9d5e7123cfb146d1a9ea8812b9b64ced, parent_id: )
+Root node found: Spinal cord injury[敺拙] (id: e2517407bc204838b16fa72effa6ae78, parent_id: )
+Root node found: ?Ｗ??箄? (id: 2570414e324d4558b4a9d059ff9e062a, parent_id: )
+Root node found: 9d8c4732df5249d9ba1c0fcf48258bc6.png (id: 9d8c4732df5249d9ba1c0fcf48258bc6, parent_id: )
+Root node found: Cholecystitis (id: e2e10d1c790f4f7e99d73cae29aafdc8, parent_id: )
+Root node found: Cardiac neoplasm (id: 5ef0eb4c9f884c91a7905c7fb0ea371a, parent_id: )
+Root node found: e30fe41517a84a96b68a9f25c82abe2e.png (id: e30fe41517a84a96b68a9f25c82abe2e, parent_id: )
+Root node found: 5f61e47439bd4f21af48d598c362a891.png (id: 5f61e47439bd4f21af48d598c362a891, parent_id: )
+Root node found: 瘞湔部?曄? (id: 9ddc60dd9f5849e8b584a571009a118e, parent_id: )
+Root node found: 銝???-??曄? (id: e38de3aeb2414293babfb542cdf7612f, parent_id: )
+Root node found: Acute coronary syndrome (id: 25a834d55e49478fa459585074155374, parent_id: )
+Root node found: FC?嗆???(id: 5fd729790e5f4b84b5bd23f4e4b1ac4c, parent_id: )
+Root node found: NS (id: e681e54d39e64b5ba16a1aab0b1de02f, parent_id: )
+Root node found: ?怎摮?(id: a06afbb9111248099f9e0a3d49bc8c67, parent_id: )
+Root node found: ?賊?萄嚗hest Trauma嚗?(id: 26779f056d9a43f0a6a2f75e4e5b4ae7, parent_id: )
+Root node found: 敺拙蝘?(id: e7961fe6fb794ad8aa00e8730aa38168, parent_id: )
+Root node found: a0789ed75b0d44968691812c30327a6c.png (id: a0789ed75b0d44968691812c30327a6c, parent_id: )
+Root node found: ???銝嚗hronic venous insufficiency, CVI嚗?(id: 5fdbe39db16e4a8b99db983758fcb2be, parent_id: )
+Root node found: 銝餃?????(id: 2685f3fe35f54ba1bffcff3401e53da2, parent_id: )
+Root node found: OB (id: e861e9af485a47f299f0e2efa027d3f7, parent_id: )
+Root node found: a085b9672b02491d9376ff9fd6bc437d.png (id: a085b9672b02491d9376ff9fd6bc437d, parent_id: )
+Root node found: a0ca39d2b8264eb7a94f353b31d466d8.png (id: a0ca39d2b8264eb7a94f353b31d466d8, parent_id: )
+Root node found: ???箇? (id: 5ff023f873ad4138b537b6f3a643d0a1, parent_id: )
+Root node found: ?拙?喳???(id: 2771ecec872b450ba30443b6ad363f65, parent_id: )
+Root node found: 瘛雯蝟餌絞 (id: e88b7eabfc3648a59c77517c8a845471, parent_id: )
+Root node found: ?交扯??Ｘ扯???(id: 27737b55e1a745c19b01d08ff02431bd, parent_id: )
+Root node found: ?詨 (id: 5ff487422c254e949a26178dae62ee24, parent_id: )
+Root node found: e9eaee36442b47fca838076ec0a375ac.png (id: e9eaee36442b47fca838076ec0a375ac, parent_id: )
+Root node found: 擃?憯?(id: a29fa73b7f7143b79b6f5bd542c24fbe, parent_id: )
+Root node found: FC?嗆???(id: 27cb561db8d646e49762712a3aa9960f, parent_id: )
+Root node found: ea4d41516a494263a6c4e802d16d78f7.png (id: ea4d41516a494263a6c4e802d16d78f7, parent_id: )
+Root node found: ?交折?撠曄? Appendicitis (id: a2a226099a1046a1a11572f2783b12c7, parent_id: )
+Root node found: ?葉?摮貊霅雯蝡閮剛???(id: 2862994160ae453aab20c09a5d187b1c, parent_id: )
+Root node found: 憿勗?箄? (id: 60ed13288b4c4f0b9d22a8e1e1d3b40b, parent_id: )
+Root node found: Critical care (id: ea9053631f084280a1c77e64152ce1fd, parent_id: )
+Root node found: 摮悅憭? (id: 288c7d060204444ea701637e697f8a69, parent_id: )
+Root node found: 6336119c71b74c899fc3b6207df81f34.png (id: 6336119c71b74c899fc3b6207df81f34, parent_id: )
+Root node found: ?交扯?? Peritonitis (id: a2fcd613fb2d4043950b290112a57bcf, parent_id: )
+Root node found: ? (id: ea99d791da6f4c62a43133c55ffedc14, parent_id: )
+Root node found: 銝???-銝????箄? (id: 633dcf34982140fcacba469d578d49a3, parent_id: )
+Root node found: ?萄楷?抒揣?釭?怎 (id: a45e66f2357b485f8dbe7ae2bf92e996, parent_id: )
+Root node found: 2918aa2482db4a0a85fa9da4ba0871c8.png (id: 2918aa2482db4a0a85fa9da4ba0871c8, parent_id: )
+Root node found: ebfeb48cf61a47ccafcd1ee1c9dd5fad.png (id: ebfeb48cf61a47ccafcd1ee1c9dd5fad, parent_id: )
+Root node found: a45f121f059f4406a74e3d6a30814030.png (id: a45f121f059f4406a74e3d6a30814030, parent_id: )
+Root node found: 憌?蝛踹? (id: 63b53f8d71154a9693a6c36e1085f5f3, parent_id: )
+Root node found: ?Ｚ丰??(id: ecb956efb37c46bfa720e8dd0c2bc144, parent_id: )
+Root node found: 29c932dc2639419e9c909bb862fb99fa.png (id: 29c932dc2639419e9c909bb862fb99fa, parent_id: )
+Root node found: ?抒??潛撣貉??耦 (id: 644c088470eb4b70906ef83fe4562123, parent_id: )
+Root node found: 擃?芸?憡?(id: a663a710a7fe484aa245ec7e15f857f3, parent_id: )
+Root node found: 憭扯??貊??IBD (id: ed26a54e87a742abb22ec02b711404f4, parent_id: )
+Root node found: ?啁???????(id: 29fe8b8a7cf4477786dd2c3c434bb0d4, parent_id: )
+Root node found: 647a52d481344d0b98285fe1abe1f964.png (id: 647a52d481344d0b98285fe1abe1f964, parent_id: )
+Root node found: a6afc02a7ffa48229d9aaae418c72dc0.png (id: a6afc02a7ffa48229d9aaae418c72dc0, parent_id: )
+Root node found: 敹??粹銵蝞∠頂蝯?(id: efe87eae6bcb4c86849d9e086dc2940a, parent_id: )
+Root node found: ?澈鞈? (id: 2aaaec64d5e4483c9846bc6cbd79f41a, parent_id: )
+Root node found: 鈭箏極????銵?(id: a7418e10afb6473b91614d7152391729, parent_id: )
+Root node found: Vascular disease (id: f02213a02a1d4dc0b7531fc4e2552fa8, parent_id: )
+Root node found: 摮悅?扯?憓? (id: 6565a3fb8d8a44cab526737a2b96ef62, parent_id: )
+Root node found: ?貉???(id: 2b18863bbe9f47e2aabd7c0127c27aad, parent_id: )
+Root node found: ??方??? (id: f0482481b4724e94b5c7e236ffe76c28, parent_id: )
+Root node found: ??蝘餅??IPS (id: 659d47e0175d48bdbdab79e99ca30342, parent_id: )
+Root node found: 敹??怎 (id: a79cad9abaf248f5b547b337b7e205fd, parent_id: )
+Root node found: ?唳憤?扯?函??Diffuse Lung Disease嚗?(id: f04fe1da3ef74d6cbf0c70ab993f2f18, parent_id: )
+Root node found: 隡? (id: 65c6b784863b4eef91bb52af6e7e51b9, parent_id: )
+Root node found: GERD? (id: 2b6db6d6b984441d85c886cdaaa67445, parent_id: )
+Root node found: ?詨? (id: a814d3fec40348459bcac031e84c216e, parent_id: )
+Root node found: ?萄 (id: f08e8d844c2341aa86873c62e767f3a4, parent_id: )
+Root node found: 蝎曄?蝘?(id: 65f16a96d9014296adafa20e11d89c4f, parent_id: )
+Root node found: ?Ｗ??箄? (id: 2ca7b60bc33f4210b38ff49594272373, parent_id: )
+Root node found: ?賡??餃? (id: a86e8873d12b4ef69be5974892491f0d, parent_id: )
+Root node found: 撠踹仃蝳?(id: f0f7bd390f474b9d989177c0b078f412, parent_id: )
+Root node found: 銝???(id: 6642796a72a742d38c575c3a5687154d, parent_id: )
+Root node found: 銝???-??圈?????(id: a8bbb40c82f14a46a4f1bf096d8cca20, parent_id: )
+Root node found: ?????曄??????蝜??? (id: 2d925aa2bf7240e98bc6c6649711c7f3, parent_id: )
+Root node found: 撠?曄?-?寧??豢?? (id: f18624fa6f7840669e32e80db63dcb67, parent_id: )
+Root node found: 銝??????Tricuspid Valve Atresia (id: 664d1453023c42bab773a6d9eea9a409, parent_id: )
+Root node found: 銵蝞∠敶?(id: a8e3da98f6664980800a85a4c307af99, parent_id: )
+Root node found: 2dc37cb5fd334f008b9cc0bb135c5fbc.png (id: 2dc37cb5fd334f008b9cc0bb135c5fbc, parent_id: )
+Root node found: ?箏?????Pulmonary Valve Atresia (id: f18f169b424a49e982bf9af47973f10d, parent_id: )
+Root node found: 66adaa02167440628e26934aa75e5b28.png (id: 66adaa02167440628e26934aa75e5b28, parent_id: )
+Root node found: ?澈鞈? (id: a999149afb7f4c93bafb0ee1197ea7e5, parent_id: )
+Root node found: 6792b5dca9154d6fb8f7a92f02418d58.png (id: 6792b5dca9154d6fb8f7a92f02418d58, parent_id: )
+Root node found: ?⊥?蝬?(id: a9f91b170ce04d41abaac5999abb1491, parent_id: )
+Root node found: 銝餃????寧?嚗oA嚗?(id: f20a8da6db9748b090b27608a4a4f1e9, parent_id: )
+Root node found: Cholangiocarcinoma (id: 67db2408c6b645b0a621ad3cd7f7b968, parent_id: )
+Root node found: 鈭???????剁?Mitral Regurgitation嚗?(id: 2ecd45bfeaa8435a90e29d9f407c1f8b, parent_id: )
+Root node found: aab75d1be7444a999608c8315f5e20f4.jpg (id: aab75d1be7444a999608c8315f5e20f4, parent_id: )
+Root node found: f2321594be8c473d969cc9fde101c0db.png (id: f2321594be8c473d969cc9fde101c0db, parent_id: )
+Root node found: ??憒????(id: 2ed90755b3c14ea1899581391354a17a, parent_id: )
+Root node found: Respiratory failure (id: 687e6b470ddd4001ab17fb479c474115, parent_id: )
+Root node found: 敹?????曄? (id: f25a1b82e867439bb422b1f80f8df1ab, parent_id: )
+Root node found: GI (id: ab699ca1970e4a8ba9e6afde1358f28e, parent_id: )
+Root node found: 蝯?曄? (id: 2f65ad8805724be69649d32504110a03, parent_id: )
+Root node found: 銝???-??曄? (id: 68ce195fc85d4ac5accd82937f995256, parent_id: )
+Root node found: ???批??扯???Infective endocarditis嚗?(id: f3bfc762e9f24b1d8ed33dd0590eb10e, parent_id: )
+Root node found: 甇?虜?貝?蝔皛?(id: abb7bab691634a51b7482ba8db196884, parent_id: )
+Root node found: ?刻?????啣虜嚗otal anomalous pulmonary venous return, ... (id: 31a1161b45fa43a3b8ab3ace218a2112, parent_id: )
+Root node found: abc53923a2d3418e8770e619867563cd.png (id: abc53923a2d3418e8770e619867563cd, parent_id: )
+Root node found: 31b48d144378473692d3c870b930af67.jpg (id: 31b48d144378473692d3c870b930af67, parent_id: )
+Root node found: ?嗡????抒??(id: f47d6f1fa1784d17ab60d47b43321cd8, parent_id: )
+Root node found: 銝???-銝????箄? (id: ac7d5e1f642d4a18ba5b92560fb5d9ca, parent_id: )
+Root node found: 325fe8560e43494c8ca4ca1bdb49d501.png (id: 325fe8560e43494c8ca4ca1bdb49d501, parent_id: )
+Root node found: ?芋?輯岫雿?HTN) (id: 6931f9630d6a47a1b2eae3f600b7b488, parent_id: )
+Root node found: 撉函??摰??(id: f4bbd5e010574497b8b6e62763cba96b, parent_id: )
+Root node found: 暻駁? (id: acc17358108f4edf87ae73fe126399a7, parent_id: )
+Root node found: 憭折??唾? (id: f533716d1875433d973f0ca726964ed0, parent_id: )
+Root node found: 銝餃???銝剜嚗nterrupted Aortic Arch, IAA嚗?(id: 32f9cb3a059e479f965c7de6cb2c919b, parent_id: )
+Root node found: ad590283b2b747deaf307da67aab2413.png (id: ad590283b2b747deaf307da67aab2413, parent_id: )
+Root node found: ???抒?? (id: adf57f1c71b74f9d8e3e76c8a37ad14f, parent_id: )
+Root node found: 憌???(id: 33255e1e7ba449258d8b5d125c9c4c14, parent_id: )
+Root node found: Cardiomyopathy (id: f53c6c233deb4fbaa77e42fab00cac30, parent_id: )
+Root node found: ??閫??摮?(id: 69dbd311b5d14fa3b510eac3d26c31e5, parent_id: )
+Root node found: ?萄楷???斗?隢?(id: aebd003f9ea84661ba686d6340fc7f77, parent_id: )
+Root node found: f595eb884cc041f5828e892954549e21.png (id: f595eb884cc041f5828e892954549e21, parent_id: )
+Root node found: 敹??曄? Pericarditis disease (id: 3334bd35b0ed43e3b8751d70a2938f46, parent_id: )
+Root node found: ?其遢?粹???瘚撣賂?Partial anomalous pulmonary venous retur... (id: f797ae37583542c08ca0e3f3670e34d2, parent_id: )
+Root node found: 6a775deede8b455db62888e1f9ae873b.png (id: 6a775deede8b455db62888e1f9ae873b, parent_id: )
+Root node found: 瘛勗惜????嚗eep vein thrombosis, DVT嚗?(id: af4917e7e2a247efb219e52fbe7c8a3a, parent_id: )
+Root node found: 銝?蟡???(id: f7e204a3b63c4717af17e72fd66691b6, parent_id: )
+Root node found: 銵蝞⊥抒??(id: 6a906645d15a45c289e35d7b686dfc01, parent_id: )
+Root node found: ?芸????(id: b004db76667e4d26afb2540b618633e3, parent_id: )
+Root node found: 鈭粹???豢?(Prosthetic?valve)? (id: f851362aa8fe401baebb9f2bb8b0276d, parent_id: )
+Root node found: ???望? (id: b03ec12773eb45ddaca3571062fbee64, parent_id: )
+Root node found: 摮悅??(id: f876f57f90e34c3b91d05ff915ecc67b, parent_id: )
+Root node found: ?蕙? (id: 6aa7bd9d917c4323a0169c4f9bf11d5d, parent_id: )
+Root node found: 敹?銝 (id: 334d0c74be2a4d8f81e6a7789ee4bf41, parent_id: )
+Root node found: ?圈???(id: b3e81265a3f6478ba2c14ab37a7c3e7c, parent_id: )
+Root node found: 335cb46c5d5844ada656dd3ea774e65a.png (id: 335cb46c5d5844ada656dd3ea774e65a, parent_id: )
+Root node found: Mallory-Weiss Tear (id: 6aedc654246a42f89c22859793d9a411, parent_id: )
+Root node found: ????(id: f8988a7dd9454242899d2ba37d5f06b0, parent_id: )
+Root node found: b4359c8a3bb5449b893b9c3942affe03.png (id: b4359c8a3bb5449b893b9c3942affe03, parent_id: )
+Root node found: ?剝?萄/憿勗?箄? (id: 35c5a9d5120c40f4b6bb35b0a50ebab5, parent_id: )
+Root node found: ACLS ?閬??? (id: 6afc07087f924efda2245863d8125fcd, parent_id: )
+Root node found: (V) 銝餃?????Aortic Dissection (id: f8a8000f115b4c759bad99320ce03ee7, parent_id: )
+Root node found: 憍衣蝘?(id: 360d935f25e34e10b290cce3f4ad8967, parent_id: )
+Root node found: ??? (id: 6b0f5969c32f4a08bc6c870f7808ac70, parent_id: )
+Root node found: ENT (id: f915a6bbd9fd479f8c230470bb875e3b, parent_id: )
+Root node found: Ischemic heart disease嚗HD嚗?(id: 36a25d101ba04167a2ea6b29c2697451, parent_id: )
+Root node found: 璈１撘儐?啗???Mechanical Circulatory Support, MCS) (id: b49e57dc95de4b2ca971309513d4f1c2, parent_id: )
+Root node found: 蝺刻摩?澆? (id: f98283f67358471c8883159e31be4f81, parent_id: )
+Root node found: ?啁??? (id: 37aca090dc28423c88c7bbcce55da244, parent_id: )
+Root node found: ?赤?? (id: b501c2205819414bbd6d3e9dfc10caa6, parent_id: )
+Root node found: 銝???隢?(id: fa121ceb07f84a0a999d5642dfc87fd6, parent_id: )
+Root node found: ?貉?歹?Thymoma嚗?(id: 37b39475f2eb4d518647266a0184ca11, parent_id: )
+Root node found: Coronary artery disease (id: 6ccc1e8a178346aa82bf35673089a1c7, parent_id: )
+Root node found: 摮悅?貊???霈?(id: 37d0a88de67a48fdb2606940581b412d, parent_id: )
+Root node found: 6d442c1695ae4823818ffd7ffd74087b.png (id: 6d442c1695ae4823818ffd7ffd74087b, parent_id: )
+Root node found: ?貉??箇? (id: b5bb360310344965b77acc8362f099b8, parent_id: )
+Root node found: 39526dcf69d146c18cfffe2d388f23ad.png (id: 39526dcf69d146c18cfffe2d388f23ad, parent_id: )
+Root node found: ??閫??摮?(id: 6d6af72756694dc3accf218fcd2d54e7, parent_id: )
+Root node found: (V) ????(id: fa2198cdac6d4e2a8e57710857f63a6b, parent_id: )
+Root node found: ?咱???憸冽??曄? (id: b6d1c4dcde82435c8850a5438ebea71f, parent_id: )
+Root node found: ???曄?-???賜撣貉?閰摯 (id: fa874858309640e6a49ce03315c8057e, parent_id: )
+Root node found: ???曄? (id: b76d35f0e0274309a3727a6c9a496f9b, parent_id: )
+Root node found: (X) ?箸?憛?Pulmonary Embolism嚗?(id: faf79696249845e982d2c05343a10e71, parent_id: )
+Root node found: ?箸除??(id: b7dd1c57c4fe418ca93ba693c174ea73, parent_id: )
+Root node found: ?喳?摰日??箏嚗ouble-Outlet Right Ventricle, DORV嚗?(id: 396430118c9a4740bf5e216bf2458d69, parent_id: )
+Root node found: ?粹?? (id: 6e3f4312a17747a18a6aead164ac5f63, parent_id: )
+Root node found: 憍衣蝘?(id: b905dbd0849745cebf3299aab046735b, parent_id: )
+Root node found: 3c36b6e1a76f41b78c13ce6964023b78.jpg (id: 3c36b6e1a76f41b78c13ce6964023b78, parent_id: )
+Root node found: 6e7c1e9072564034a0bf5fedc27df3ca.png (id: 6e7c1e9072564034a0bf5fedc27df3ca, parent_id: )
+Root node found: ?Ｘ炎 (id: fb5f1ded965e4fa1adc69661fc96413d, parent_id: )
+Root node found: 撉函? (id: b9ad7e794da8486d896bdc33d4c78ed5, parent_id: )
+Root node found: ?交扯?餃? (id: 3c426dbe4ab64fd393a621f860924c29, parent_id: )
+Root node found: 銝???(id: 6edc7caef16148c68f15921beec0e556, parent_id: )
+Root node found: fc24bde5119a48f288fc1d22270e095d.png (id: fc24bde5119a48f288fc1d22270e095d, parent_id: )
+Root node found: ?潛? (id: ba04d9672a3f4426b13b5150e5e1c717, parent_id: )
+Root node found: ?券?銵蝞∠??(id: 3c4c549530df4da1bbb634b346127239, parent_id: )
+Root node found: 憟單批??摮?(id: 6f201257b2784cecb843fb88a2773b03, parent_id: )
+Root node found: 憒?擃?憯?摮?? (id: fc6e7275b5a149d9a5aff00f37bf5b22, parent_id: )
+Root node found: Colorectal Cancer (id: 3dde847c285a41bdb3f37994e447fa6c, parent_id: )
+Root node found: Dysphagia???圈 (id: ba14d65eb32a4f07b03c8443ad78a626, parent_id: )
+Root node found: ?Ｗ??? (id: fd4a8329d52b4750b22dc913e1b10c48, parent_id: )
+Root node found: ?澆??(id: 7004178578c242edad640d09d8d9c39d, parent_id: )
+Root node found: GS (id: 707066138a9f4c10aaccaf1b2d948c56, parent_id: )
+Root node found: 摰? (id: 3e2d85ba0bbb477582e636928d6ffb2e, parent_id: )
+Root node found: ?圈???(id: ba324195eb584a96b6ea3a73342a76a4, parent_id: )
+Root node found: ?寡???(id: fd5e784633a74fa19b0f270cf369be9e, parent_id: )
+Root node found: ?嗡?蝘?(id: 7071f13ae8e04cc99be1ccb29a3df58c, parent_id: )
+Root node found: ?? (id: fff52f24ebb441d297c001c4eba67732, parent_id: )
+Root node found: ?瑟找?摮?(id: 3e7ff3b87ec8489691aeff64e026eb7b, parent_id: )
+Root node found: 瘞?恣 (id: 7117048124184b329caed68bac4dfebc, parent_id: )
+Root node found: Pneumonia (id: ba6359c74f954c4788edbf48995ba72b, parent_id: )
+Root node found: ?潛景??憭拙??? (id: 721f6a9575fc4167863253300665172c, parent_id: )
+Root node found: ?詨??啣虜嚗ectus deformity嚗?(id: 3ea9bbf183e940df847929dfc3c238af, parent_id: )
+Root node found: ?株?蝘?(id: 723c39c119fb4a5e92005b9201f44b1c, parent_id: )
+Root node found: 瘞?嚗neumothorax嚗?(id: ba6ce04d7fe04ca29ad7fe61886381e3, parent_id: )
+Root node found: ?詨??箏?黎嚗horacic outlet syndrome, TOS嚗?(id: 3f549b3c2141475bbf7faea725e2a7af, parent_id: )
+Root node found: ?游僑???瑞?祥??(id: bab5d52c62584a709227e01f91c5f4f0, parent_id: )
+Root node found: 撌血??潸銝 Hypoplastic Left Heart Syndrome (id: 72a7618e971645ffa6febf15a5693c7f, parent_id: )
+Root node found: ?賡??????(id: 3fa8a6fcf80e4261aa129789ce7be498, parent_id: )
+Root node found: ?賡??曄?-?賜??唾??賢???(id: bbbcff6e92ef47ddb2b5f12e344c9193, parent_id: )
+Root node found: 敹??餌???(id: 40d0d61c59aa4c9cab7abd94a3f74354, parent_id: )
+Root node found: 鈭???蝒?Mitral Valve Stenosis嚗?(id: 73c72eb6827e4ca69dcb472ffbb007b7, parent_id: )
+Root node found: 743c7ee2baed43ad8c22af654e5bfbc8.png (id: 743c7ee2baed43ad8c22af654e5bfbc8, parent_id: )
+Root node found: 銝餃???嚗ortic Regurgitation, AR)? (id: 40ddff3688614536b0c7428077c03108, parent_id: )
+Root node found: ?Ｘ扯?? (id: 763ee8fc210b4cc38118d0fc68e16201, parent_id: )
+Root node found: ?萄楷銝蝝啗??怎 (id: 410858f71cd3438fbba1d200c155739f, parent_id: )
+Root node found: 擃?芸?憡?(id: 768f12441a084c818dec70f08638e66f, parent_id: )
+Root node found: 蝺刻摩?澆? (id: 4176c8ffab2745cd98e5ff1b57d17ab4, parent_id: )
+Root node found: URO (id: 769a4b67c61b4cde8028a0474b926acf, parent_id: )
+Root node found: ???(id: 417a4dd9f644422181d5763f711e2c67, parent_id: )
+Root node found: 摮悅?扯??唬???(id: 7775931d17dd4f8686ae6c2a98cd047c, parent_id: )
+Root node found: Syncope 嚗摰孵云撠??? (id: 41d6f240e6f24bf0ae2b2a0ad64b6b46, parent_id: )
+Root node found: ?瑟平?憓? (id: 425352780aa847d4a3d2ba0697db2195, parent_id: )
+Root node found: ?潛 (id: 428a5d99b73146738df92dcacd8f663b, parent_id: )
+Root node found: 憍衣??亦? (id: 4294f4fef0054896b445096df5f5d057, parent_id: )
+Total root nodes: 448
+Generated tree_name.txt
+Root node found: 憿梢鈭斤??撣?Craniocervical junction anomalies)=Chiari ... (id: 002d431689104b1a9198849586a2f13a, parent_id: )
+Root node found: 憒?皛?撅斤??(id: 009a2fe2c7c1401eb070f573f69cdb18, parent_id: )
+Root node found: Cholangitis (id: 77c7d2c508544681b0be4d4ff670b794, parent_id: )
+Root node found: 42d79bf15af845b78de2da8bb7dfcf52.png (id: 42d79bf15af845b78de2da8bb7dfcf52, parent_id: )
+Root node found: bc1dba241cea468f8f36c9dfb24dd42a.png (id: bc1dba241cea468f8f36c9dfb24dd42a, parent_id: )
+Root node found: ?拚??(id: 01885175304f4b7f99a9f126ece726ce, parent_id: )
+Root node found: 77d2ede8c002488ea60c18de844a3b08.png (id: 77d2ede8c002488ea60c18de844a3b08, parent_id: )
+Root node found: ?交扯??(id: bc2afc607ee44664a5241a261a126133, parent_id: )
+Root node found: ?咱?澆????(id: 43f501e100e148e18d0281f730a0e67a, parent_id: )
+Root node found: 0252d69d46fd4551bc10278d27589253.png (id: 0252d69d46fd4551bc10278d27589253, parent_id: )
+Root node found: ?? (id: bcf38154e8b0432493aadf967a035def, parent_id: )
+Root node found: ??批撌Ｗ??賭???(id: 78c5f5e5ebac4655a19ddb80b89a60e5, parent_id: )
+Root node found: 憟單找?摮?(id: 03748e792631453fa1b5f20c6e50cf46, parent_id: )
+Root node found: ?賊?怠?[CS] (id: 447b1c5f4c5d4ca8a1ecb7937ce2efe7, parent_id: )
+Root node found: ?蝝箏??予?批??? (id: bd95441f69e84c11a67406fc45950b56, parent_id: )
+Root node found: (X) Transmyocardial laser revascularization(TMLR) (id: 78c686b283204cae9b36379d35d524d3, parent_id: )
+Root node found: ?Ｗ??? (id: 03a78001c84f4643905dc5af721f7bcd, parent_id: )
+Root node found: Malabsorption ?豢銝?黎 (id: 78f2807b26cd4b29b9b2e8655f4ca949, parent_id: )
+Root node found: 摮悅?扯???(id: 44da90293bc84d6e935cd59a2ca070a5, parent_id: )
+Root node found: (V) ????蝜?銵?Coronary artery bypass graft, CABG嚗?(id: 03c6ab28b21a4ed3b766a94f5214a237, parent_id: )
+Root node found: ?抒? (id: bde3285696234c338a8db7ef3fb9296e, parent_id: )
+Root node found: ?詨? (id: 0474fd164c894ed2a3f15d535df9093b, parent_id: )
+Root node found: ?? (id: 463bf781734a429d96263e91ac85d335, parent_id: )
+Root node found: ?? (id: 794104f5c84f48f8a2ce3bed0824462a, parent_id: )
+Root node found: Gastritis (id: 04cb7ca502054a8a9f70b82a4e6962c5, parent_id: )
+Root node found: GI (id: 46badbd447cc431d8983d4e9b93582a0, parent_id: )
+Root node found: ?潛? (id: 472e77dd09a44b87af83f184b1eb2f6b, parent_id: )
+Root node found: 050dea589383434c9a08df27e570d548.png (id: 050dea589383434c9a08df27e570d548, parent_id: )
+Root node found: 閫??摮?(id: 7a296736cb8a4a03a9f835404592fe4d, parent_id: )
+Root node found: 敹※蝡?(id: be296860347c450182390c3d6f97f3a4, parent_id: )
+Root node found: ?株?蝘?(id: 06f82a0466814311abec9501085ff662, parent_id: )
+Root node found: 憭扯??貊??IBD (id: 7b3c8ec12da74af4ae61b2326a02e42b, parent_id: )
+Root node found: 憌??怎 (id: 079c8705d86c4c28be54ee04d0c5c7c0, parent_id: )
+Root node found: 憭? (id: 476203eb3d584775849bf47b8c26fa7e, parent_id: )
+Root node found: bec99052e6334f608c14319c0ae97ff2.jpg (id: bec99052e6334f608c14319c0ae97ff2, parent_id: )
+Root node found: Sleep apnea (id: 7b5e7978225646688eb19b7bd1581847, parent_id: )
+Root node found: 憭??批撌Ｙ??黎 (id: 08416174c9c9454db3bc48e7d99ecdfc, parent_id: )
+Root node found: ?株??脩???(id: bedbb47f8fb34c5dab631e5a509d5aba, parent_id: )
+Root node found: 敹恕銝剛?蝻箸?嚗entricular Septal Defect嚗?(id: 476b39a3e0ab46d8be71ff4d5d07b312, parent_id: )
+Root node found: 7b669b47c58149d7a50ad85b3f636b28.png (id: 7b669b47c58149d7a50ad85b3f636b28, parent_id: )
+Root node found: Esophageal Varices (id: 0899938aa8cb4faf8459e83fb9e89217, parent_id: )
+Root node found: ?予?批??? (id: 4785319e46d94107a655749e3f3cad37, parent_id: )
+Root node found: ??蝛雯嚗leural effusion嚗?(id: beecf6a9378244f69e692fb936d9ad7f, parent_id: )
+Root node found: Diverticula (id: 0b07efa5eff24f809af86d48f3e2d7ce, parent_id: )
+Root node found: ?瑕?雿萇??箇??(id: 7bb490304ab9443ba2d1a8a0be6070eb, parent_id: )
+Root node found: GYN (id: 47bfc0395ac4497688093cc56b94578d, parent_id: )
+Root node found: ? (id: bf42685b84d14f458835afcc07487a91, parent_id: )
+Root node found: 蝯?曄? (id: 0b7d78805d464649a1e29b9a65061f10, parent_id: )
+Root node found: ?交扯??(id: 7be6037c0ba74d01bc13a4a444fbf1c8, parent_id: )
+Root node found: 4862e9e6926646b3a83b6f1fbbb6d845.png (id: 4862e9e6926646b3a83b6f1fbbb6d845, parent_id: )
+Root node found: c068497ad2d3411dad6d1f31ad619726.png (id: c068497ad2d3411dad6d1f31ad619726, parent_id: )
+Root node found: 0b93c60d419d41f093bd6b53fbd0edb2.png (id: 0b93c60d419d41f093bd6b53fbd0edb2, parent_id: )
+Root node found: ?行香?文? (id: 7bee062a55d645dabcf6b89c9e21afbc, parent_id: )
+Root node found: ?Ｗ??? (id: 4880d1d7a87646418dcf5ec873004565, parent_id: )
+Root node found: 撉刻釭????(id: 0c632573e64c47618c78125ef02c12d6, parent_id: )
+Root node found: Pleural effusion (id: c0aa194ad9d84cff903486c51e201c24, parent_id: )
+Root node found: ?倏??摮貉?撠輯楝??摮豢炎??(id: 48a112629a8c452a981453116bce0bec, parent_id: )
+Root node found: ?予?孵??啣虜 (id: 0d37b278401b420f882a63ea1d68fa74, parent_id: )
+Root node found: 銝??選?cor triatriatum嚗?(id: 7cdc5ae6e237455cb17d32fad21ec24e, parent_id: )
+Root node found: 蝺刻摩?澆? (id: c0d5070c6f6a4317a5a2afd9f6f3aea0, parent_id: )
+Root node found: 0dc71d7a370349d6b9d9677024d4048a.png (id: 0dc71d7a370349d6b9d9677024d4048a, parent_id: )
+Root node found: 4987871f6f8a4f7895f66e4a60223da4.png (id: 4987871f6f8a4f7895f66e4a60223da4, parent_id: )
+Root node found: ?批?瘜??(id: c135d40f462a440fbe3528de64081acc, parent_id: )
+Root node found: 憿勗憯?(id: 10579b19a54d4030802271dfa6328472, parent_id: )
+Root node found: ?賡??曄?-?賜??唾??賢???(id: 4ab5dcd055bf40218de0d350f6990b93, parent_id: )
+Root node found: 銵瘨脣飛 (id: c1c83ab2e50b445fa2c7bd5439a9230e, parent_id: )
+Root node found: 10688876a4674b4bb72f7f838b92c8fb.jpg (id: 10688876a4674b4bb72f7f838b92c8fb, parent_id: )
+Root node found: 銝餃???寧?嚗ortic Stenosis)? (id: 7d5c4c0e844746e6915febc78c206d92, parent_id: )
+Root node found: 鈭粹?銋喟?????摰桅?怨? (id: 10cefdcff6994aafaa7b5a48777f594d, parent_id: )
+Root node found: Zollinger-Ellison Syndrome (id: c1ea5c43297647f0bb1bd7ba81ecda6c, parent_id: )
+Root node found: ?啁?????Neonatal Jaundice) (id: 7e852ed08c394399811e5d7bd8845fcf, parent_id: )
+Root node found: 蝐?銵鈭? (id: 122727a11e934fd9afe7ccdbeb893861, parent_id: )
+Root node found: 蝷箇?ITP (id: 4c2de243014f4833a0cc4804c26c3165, parent_id: )
+Root node found: ?Ｗ???閰摯 (id: 7f9242ba74cd40109091d7330807b548, parent_id: )
+Root node found: Cystic fibrosis (id: c222b705106f4726afce3f95020dfc96, parent_id: )
+Root node found: 頞唾??? (id: 7fa35d29819e4a9e8b9965cd74c0bb27, parent_id: )
+Root node found: Hypersensitivity pneumonitis (id: 1257dfe12c6e4d55825f78478b5af4cd, parent_id: )
+Root node found: 瘨?蝟餌絞 (id: c2a03589bd8b4688b25f8ccaf82d2095, parent_id: )
+Root node found: Interstitial lung disease (id: 4cc1778fd19f45238449e88e28564e5a, parent_id: )
+Root node found: 81ac5e3006b14202bbfe1166296d5ad8.png (id: 81ac5e3006b14202bbfe1166296d5ad8, parent_id: )
+Root node found: 130259de02164aaa9b2584b6b1228c19.png (id: 130259de02164aaa9b2584b6b1228c19, parent_id: )
+Root node found: Respiratory failure (id: c5b588c07a724b8eb1a5c2b0d232d773, parent_id: )
+Root node found: 憒?蝟倏??(id: 4d6e9b9fe0d04ba5852951dde407c333, parent_id: )
+Root node found: ?抒??潛撣貉??耦 (id: 8246c1f96f56425bb72377b17a60ba01, parent_id: )
+Root node found: 13ab37636d094241adf4d7e5ffd18c65.png (id: 13ab37636d094241adf4d7e5ffd18c65, parent_id: )
+Root node found: Vascular disease (id: c5cea17e710642bfaf85a8c267c4e118, parent_id: )
+Root node found: ?啗??怎 (id: 4db3fdd462884662bc504ce2071e8506, parent_id: )
+Root node found: 蝎曄?蝘?(id: 82c0e4bb94464d3cb07c1024574a0e4e, parent_id: )
+Root node found: ?嗡?蝮梯????(id: c689de4f4de04426843ef94415e6c4a7, parent_id: )
+Root node found: ??批???蝞∴?Patent Ductus Arteriosus, PDA嚗?(id: 13e92f88fc564d518da5ae2606a4a237, parent_id: )
+Root node found: 4dd61480d55c4c55a0e9ceee23f82fe7.png (id: 4dd61480d55c4c55a0e9ceee23f82fe7, parent_id: )
+Root node found: Aortic disease (id: 8344891f8c494c54bd48dc1fbaedeb8e, parent_id: )
+Root node found: Ulcerative Colitis (id: c6aa4abecc034076ab63a7e3549e2145, parent_id: )
+Root node found: Gallstone ileus (id: 4e7bf6f3df264a32ae1be9db30519b46, parent_id: )
+Root node found: ?Ｗ岫????摮?(id: 834eea9ebfc844119cdc42cca4f8b965, parent_id: )
+Root node found: 瘚??甇Ｗ?憡?(id: c7475fe662694678b8de7cca30b42072, parent_id: )
+Root node found: ?萄楷?漲?箸??黎 (id: 4f1455833ddc40118a142914a2e1c5fc, parent_id: )
+Root node found: 憭抒雇?嗆? (id: 13ed90e9834e42469755fd4c64973ef6, parent_id: )
+Root node found: 撠???摮貊??(id: 8356390540f942b0bbffa7d0d349f966, parent_id: )
+Root node found: ?箏摮?(id: 4fcd504235474ff892944f9e523a72bf, parent_id: )
+Root node found: Acute/Chronic Diarrhea (id: c7674c9be9d542959ce3f3f9e143da2c, parent_id: )
+Root node found: ???亙熒 (id: 1475f809edc54ee6b6dc4403ba97d27d, parent_id: )
+Root node found: ?血?蟡??曄? (id: 840543d26ef9410e9c09195b583683c8, parent_id: )
+Root node found: 瘜倏????(id: 50a7986ccb574d1a9697598480df602f, parent_id: )
+Root node found: 憭??(id: c7c908a8f3714f95b6dde6c870276b19, parent_id: )
+Root node found: ?萄楷??蝝啗??怎 (id: 14f17565109e4f1d9c3801d5a1ba48c4, parent_id: )
+Root node found: CV-?湧?靽格撱箄降憒? (id: 50c940c773b34a5fb8ce9c591b518b48, parent_id: )
+Root node found: ???曄? (id: 15071bb22762423eabe4037ab2bfc1a9, parent_id: )
+Root node found: 憭批???雿?Transposition of the great arteries, TGA (id: c83ee299a708497d9cdcdd1f18bfce17, parent_id: )
+Root node found: 51bded3a60f9472ca2dbaa758f80bd7a.png (id: 51bded3a60f9472ca2dbaa758f80bd7a, parent_id: )
+Root node found: ?亦??(id: 843f112d30af4b07829b1e5552d39709, parent_id: )
+Root node found: 1561ade9badd473088fd0a835160eac8.png (id: 1561ade9badd473088fd0a835160eac8, parent_id: )
+Root node found: ??? (id: c845a4bf89144114932d1f6624e8c509, parent_id: )
+Root node found: ???曄? (id: 5283c6a1d5c244109a407f5667396d87, parent_id: )
+Root node found: 憟單批??摮?(id: 846d217a91fe4c21b5ed5a2c778a3ef3, parent_id: )
+Root node found: META (id: 156bc31ce12d40e19ac6ed2088d4a701, parent_id: )
+Root node found: 敹?????曄? (id: c85a6320a2674d72b6d82d300a028d81, parent_id: )
+Root node found: ?賡??????(id: 52c048708e3848f4b87bbfd8cdd85d31, parent_id: )
+Root node found: 170182745c874a1c827a19041a4b57e7.png (id: 170182745c874a1c827a19041a4b57e7, parent_id: )
+Root node found: 摮悅?貊? (id: c868bf8fadd240209ce8f87ee9b5d3cc, parent_id: )
+Root node found: Acute adomen (id: 8489a8d92fd1470bbfd3e80520661c40, parent_id: )
+Root node found: ?芷???抒??(id: 52fbfc7dd70b4f5aaf40c2a288adc721, parent_id: )
+Root node found: 1806952bf7d14ba58ac82919bfba1875.png (id: 1806952bf7d14ba58ac82919bfba1875, parent_id: )
+Root node found: 摮悅? (id: c8c0c059bd8540dfbdfa72456d4ea947, parent_id: )
+Root node found: Aortic disease (id: 84a8ba505c5b452cb9bc5e7e8f31628d, parent_id: )
+Root node found: OP (id: 531aa7e3730b4199ad239c78ffaed658, parent_id: )
+Root node found: ?啁???(id: c8fa6e8011e64bdf9639c1b42f4d3bf3, parent_id: )
+Root node found: ?潛? (id: 1816320f0860436e9b786ee710fc0af2, parent_id: )
+Root node found: 8545a0ffb6a14fe4be52e2368e4e00c1.jpg (id: 8545a0ffb6a14fe4be52e2368e4e00c1, parent_id: )
+Root node found: 敹? (id: c995d490b5154cd98457dbbdf9d36ef8, parent_id: )
+Root node found: 5330b1e4560447c3a5434c6deacf6bdb.png (id: 5330b1e4560447c3a5434c6deacf6bdb, parent_id: )
+Root node found: Crohn? Disease (id: 18c3d8dba324437e878a08e175783596, parent_id: )
+Root node found: ?予?抒??(id: 864d2cd9324b4ea2b93e73aac6c4674f, parent_id: )
+Root node found: ?啗??曄?嚗ancreas嚗??交扯?? (id: 538994738c244f66bbd8c84c65b10b91, parent_id: )
+Root node found: ?澈鞈? (id: 18d3062a81f645a8a757973ec05f2fce, parent_id: )
+Root node found: ???扳?憛?Nonthrombotic Embolism嚗?(id: ca0faad4080541fbba096f1c0fde36a8, parent_id: )
+Root node found: ?箇?嚗ung cancer嚗?(id: 8795f9345a764d9295e9716077bffaa1, parent_id: )
+Root node found: 1988fd582b90486ca62289b32932de8f.png (id: 1988fd582b90486ca62289b32932de8f, parent_id: )
+Root node found: Bronchiectasis (id: 5391c4451167487e868f30eeb10baa88, parent_id: )
+Root node found: ??扯?曄? (id: 87c16191493742719b383c10fca89962, parent_id: )
+Root node found: ?閰摯 (id: 1a185306a3aa45269e6b2a6eb4e32683, parent_id: )
+Root node found: 53a9fbf929854822a583376c2c06de22.png (id: 53a9fbf929854822a583376c2c06de22, parent_id: )
+Root node found: ?券????餃??抒??Peripheral artery occlusion disease, PAO... (id: cb05a0ca70c941a98ad308ddd018bc7c, parent_id: )
+Root node found: GS (id: 88df097385ff49d6893220ee343f47cd, parent_id: )
+Root node found: 擃雯?閫?釭??擗?(id: 1a9796b731ac49f29e61e0145fc4ac7e, parent_id: )
+Root node found: GYN (id: cb4f4670a9cc45d78be880538bbee0e7, parent_id: )
+Root node found: Lung abscess (id: 544fb3c25d1647669bfbf3ffa68389b1, parent_id: )
+Root node found: 撉函? (id: 1bf63713b79d46bbab90798251a2bf02, parent_id: )
+Root node found: APACHE (id: 89b3304cc94745a9be0f6b6634eb9e45, parent_id: )
+Root node found: 547a0cd56c064834b0c7c674c3fcbf71.png (id: 547a0cd56c064834b0c7c674c3fcbf71, parent_id: )
+Root node found: ?啁???貊???(id: 89f7f30abcba4e2f91b025f6180c4ef6, parent_id: )
+Root node found: OB (id: cbac12b0064f42c0997ac3a38d3c8a60, parent_id: )
+Root node found: ??撟?Persistent Truncus Arteriosus (id: 8b33e013f8944c2cbcf62ffef1326629, parent_id: )
+Root node found: ????踹???(id: 1c001d52452a43049a990f40d1104b1a, parent_id: )
+Root node found: 549a8aec7a8e4fae8615ceaab7bd21dc.png (id: 549a8aec7a8e4fae8615ceaab7bd21dc, parent_id: )
+Root node found: Gastric Cancer (id: cbb9b3a032f14a28a3e1316f03d64f53, parent_id: )
+Root node found: ?衣 (id: 8d99dedef6134c44a93b58d846e9a753, parent_id: )
+Root node found: Peptic Ulcer Disease (id: 55c84ce5f9c84cea87989e1377eb53a9, parent_id: )
+Root node found: ?抒? (id: cbd7a8d04ccc4a7daa846244cf4630ca, parent_id: )
+Root node found: ????移?扯???(id: 8e28938c6d6a403abebd7999a16acc95, parent_id: )
+Root node found: 憍衣???雿萇??(id: 568c3299fb4d42d6b56534404c4a0db0, parent_id: )
+Root node found: ?????曄??????蝜??? (id: 1c11de63bdc949ab81f55558c815997e, parent_id: )
+Root node found: ??瘜倏??(id: 56d7b0ad76cb41e8bf5f56828ce57c6e, parent_id: )
+Root node found: EKG (id: ccf99ba504094d01bf9f2339096a3e98, parent_id: )
+Root node found: 擃???(id: 8e3b103182c14b5a8044593fae279163, parent_id: )
+Root node found: cf6ffe9e488847f89efce5f3f15b5e49.png (id: cf6ffe9e488847f89efce5f3f15b5e49, parent_id: )
+Root node found: 銝?砍岫蝘飛 (id: 8e3b569882af47308cd040bd74cedda1, parent_id: )
+Root node found: 銝?砍岫蝘飛 (id: 1c1af609535f467d863145cff128b583, parent_id: )
+Root node found: AI prompt (id: 8eb71f54e0a843299f4431c12e14e5b7, parent_id: )
+Root node found: ????批??? (id: 56eb86067f17476db93ffe0e1575f030, parent_id: )
+Root node found: ?? (id: 8f291a69da1a4f1da248fe3f535fa5d6, parent_id: )
+Root node found: Ischemic Colitis (id: 1c76220f2f7a4dc980c80a6b096d4037, parent_id: )
+Root node found: 蝯? (id: cf8dcc76b7df40048edbb8d0c0f2813b, parent_id: )
+Root node found: SOFA (id: 578598111f444ba0a270fda3e3b71cb4, parent_id: )
+Root node found: 撠?曄?-?寧??豢?? (id: 8f41681e3e0e4630b2317c4e5966fdb1, parent_id: )
+Root node found: Ebstein anomaly (id: d0ea40494a85428dafe52b82bc6852d6, parent_id: )
+Root node found: 57d7ce0df09c4a0e964e1274d5da022d.png (id: 57d7ce0df09c4a0e964e1274d5da022d, parent_id: )
+Root node found: Pulmonary embolism (id: 8f5440d91e3649d3a2edf54c9ac978d6, parent_id: )
+Root node found: 58f803342ea94ccab25789a840006e54.png (id: 58f803342ea94ccab25789a840006e54, parent_id: )
+Root node found: 蟡?蝟餌絞?抒??(id: d163dd365b854ef1841fa72bf212aff5, parent_id: )
+Root node found: NS (id: 8f71c6bfa9dd40c7880a87638686bfeb, parent_id: )
+Root node found: ?詨 (id: 5916777e652a4cbd866a2cea02c55967, parent_id: )
+Root node found: d2da62047e2a4453ba31d8dd25c92bd3.png (id: d2da62047e2a4453ba31d8dd25c92bd3, parent_id: )
+Root node found: 敹?蝘餅? (id: 8f8510e189964e91bb2f06ae665ace2d, parent_id: )
+Root node found: Acute Respiratory Distress Syndrome (ARDS) (id: 1d16248e17d247a2a5733ff203507324, parent_id: )
+Root node found: 59802e9d8e4d4adfb26ad4893cde061a.png (id: 59802e9d8e4d4adfb26ad4893cde061a, parent_id: )
+Root node found: TRALI (id: d2dd65eb2c884e09aa9fda670637f84b, parent_id: )
+Root node found: ?潛景??憭拙??? (id: 90125d5990ca41f8b5ce55743833da75, parent_id: )
+Root node found: 銝???-??圈?????(id: 59d8a9143fbf45c089510ea4bcb80b73, parent_id: )
+Root node found: d4c595dae70941e6bbd2c7e2ac549d9b.jpeg (id: d4c595dae70941e6bbd2c7e2ac549d9b, parent_id: )
+Root node found: ?拍?????拇??湔偌 (id: 5a30852e39794c46bce454f485232843, parent_id: )
+Root node found: 銝瘛勗惜????嚗pper Extremity Deep Vein Thrombosis, UED... (id: 90f216ecc4c24f61a14d43db58433c6a, parent_id: )
+Root node found: 敹銝剛?蝻箸?嚗trial Septal Defect嚗?(id: d4ed26283d3f441791f63769810d76c4, parent_id: )
+Root node found: NEURO (id: 9176586ffac64b4ba11f77e7baa51271, parent_id: )
+Root node found: ?箇? (id: 1e0d8f421b7141e39ff35b8b8e37bd4f, parent_id: )
+Root node found: COPD (id: 5aef5ae0960846988ee85fc15d3d581e, parent_id: )
+Root node found: ?′??雿萇??(id: d509cc2eb0f84acfbfb519dfd9d544c7, parent_id: )
+Root node found: CV-?湧?靽格撱箄降憒? (id: d63e32f9a0864b3c908cf662792a0d8d, parent_id: )
+Root node found: 瘞?? (id: 94258cfec8e14011994dd7f1e6f4640f, parent_id: )
+Root node found: 摮悅?移暺?(id: 1e36696d5e564f9fa47be8aab4b04eed, parent_id: )
+Root node found: Cholelithiasis (id: d7a202dd03ef49c2a3d4dc1a2c3abc01, parent_id: )
+Root node found: Eisenmenger? Syndrome (id: 5b633a248a144aa7b8d6f59b4850d014, parent_id: )
+Root node found: ?圈??????(id: 94b05a2f96da48d598bb3544fedfe0e0, parent_id: )
+Root node found: ??扯?曄? (id: 5b790cea14484ef3861154fc65b7c272, parent_id: )
+Root node found: ??蝘飛 (id: d86de95b7f5a44f5aad1664c580bcd2f, parent_id: )
+Root node found: 隞???扯???(id: 9556b9010f0c4b45bbb31306c21cbe20, parent_id: )
+Root node found: UGI bleeding (id: 5bac784b3c6c4634ab5d83c1757b89e3, parent_id: )
+Root node found: 1e64129018cd4ae489d20f1beeac2e34.png (id: 1e64129018cd4ae489d20f1beeac2e34, parent_id: )
+Root node found: Diverticulitis (id: d8e3929b83284b89b4732b5351e45555, parent_id: )
+Root node found: ?? (id: 955dddd5ff244627880b73385d965e39, parent_id: )
+Root node found: ???單?dermis敺?嚗隞亥岫??secondary healing (id: 5bc06efe492b410290fb06f43506f3f1, parent_id: )
+Root node found: 憍衣??舀扯??⊥扯??(id: d92961cffad74c4781ea6e01adc4ac54, parent_id: )
+Root node found: ?貉???IBS (id: 961d84b483b54f098a0a9caf3410781e, parent_id: )
+Root node found: ?啁??? (id: d92bc6ae43644d8faa39502eea73e109, parent_id: )
+Root node found: PSC vs PBC (id: 5c421732378c40d2bd9e82efb70924dd, parent_id: )
+Root node found: Ischemic heart disease嚗HD嚗?(id: 9627eb1c5fe742a593718656bd4594a1, parent_id: )
+Root node found: META (id: dab38f0aca52458c9d7c48996d25a35c, parent_id: )
+Root node found: ?澈鞈? (id: 5cc5bd6adc72475da0a965259309ec06, parent_id: )
+Root node found: TB (id: 966cdd4581f047959dccba9ac312e548, parent_id: )
+Root node found: Peripheral Artery Disease (PAD) (id: 2093f8ae77ee48db98e89b43f7ecff31, parent_id: )
+Root node found: 暺?蝝??啣虜 (id: dd324d2f1d884dbabe2257fe61d398d2, parent_id: )
+Root node found: ?啁???隡?Newborn PE) (id: 5d63d785b7f74609bd761ec42e501ba9, parent_id: )
+Root node found: 20eb7c8618a54b0cb44cf2d281175eb8.jpeg (id: 20eb7c8618a54b0cb44cf2d281175eb8, parent_id: )
+Root node found: ddfd5510ff344f26bfb11b099ece4321.png (id: ddfd5510ff344f26bfb11b099ece4321, parent_id: )
+Root node found: 97fce273079346f7a6e38144a398894f.png (id: 97fce273079346f7a6e38144a398894f, parent_id: )
+Root node found: URO (id: 21afa25c527e444da025852b93153073, parent_id: )
+Root node found: OP (id: de16c53e7a1b423fa396c0596a9a6786, parent_id: )
+Root node found: ??銵??憛?嚗enous Thromboembolism, VTE嚗?(id: 5d6ab90c4e6b4fe48e39243a4af2a0f9, parent_id: )
+Root node found: ?????? (id: dfcff04a83f4409cabc3d614241d92ca, parent_id: )
+Root node found: Achalasia (id: 994cdd93abc345629530eafcd53913ed, parent_id: )
+Root node found: 憍衣??舀扯??⊥扯??(id: dfd23a82f9a14b638adc730c3b532e7f, parent_id: )
+Root node found: ?箏??蝒?Pulmonary Stenosis嚗?(id: 22d3b1b22dd84dbb90b1fd965a3ffd49, parent_id: )
+Root node found: ?券?銵蝞∠??(id: 998d1aecb4bb42408a2e10ef147503a6, parent_id: )
+Root node found: Aneurysm (id: 5e9b2a014d56451187768bf60f68f5f0, parent_id: )
+Root node found: ?⊥扯??(id: e0a35a0869224b10b96ef08c41e16f5f, parent_id: )
+Root node found: 2360bc10f58241b8bd468674e43cb56d.png (id: 2360bc10f58241b8bd468674e43cb56d, parent_id: )
+Root node found: Respiratory failure (id: 5ea50679a88a48968303b4c103d18136, parent_id: )
+Root node found: ???扳???(id: 99ac3521fdc9435f8b09b7efd0f2ccf4, parent_id: )
+Root node found: 憭? (id: e160a4e619864c85a5395421af889112, parent_id: )
+Root node found: 憍衣?????(id: 245fec9a24c44849ad76b5ea2d1bc826, parent_id: )
+Root node found: ??摮?(id: 5ee7bf224b7141999c8c09b3f8d437d0, parent_id: )
+Root node found: Critical care (id: 9d5e7123cfb146d1a9ea8812b9b64ced, parent_id: )
+Root node found: Spinal cord injury[敺拙] (id: e2517407bc204838b16fa72effa6ae78, parent_id: )
+Root node found: ?Ｗ??箄? (id: 2570414e324d4558b4a9d059ff9e062a, parent_id: )
+Root node found: 9d8c4732df5249d9ba1c0fcf48258bc6.png (id: 9d8c4732df5249d9ba1c0fcf48258bc6, parent_id: )
+Root node found: Cholecystitis (id: e2e10d1c790f4f7e99d73cae29aafdc8, parent_id: )
+Root node found: Cardiac neoplasm (id: 5ef0eb4c9f884c91a7905c7fb0ea371a, parent_id: )
+Root node found: e30fe41517a84a96b68a9f25c82abe2e.png (id: e30fe41517a84a96b68a9f25c82abe2e, parent_id: )
+Root node found: 5f61e47439bd4f21af48d598c362a891.png (id: 5f61e47439bd4f21af48d598c362a891, parent_id: )
+Root node found: 瘞湔部?曄? (id: 9ddc60dd9f5849e8b584a571009a118e, parent_id: )
+Root node found: 銝???-??曄? (id: e38de3aeb2414293babfb542cdf7612f, parent_id: )
+Root node found: Acute coronary syndrome (id: 25a834d55e49478fa459585074155374, parent_id: )
+Root node found: FC?嗆???(id: 5fd729790e5f4b84b5bd23f4e4b1ac4c, parent_id: )
+Root node found: NS (id: e681e54d39e64b5ba16a1aab0b1de02f, parent_id: )
+Root node found: ?怎摮?(id: a06afbb9111248099f9e0a3d49bc8c67, parent_id: )
+Root node found: ?賊?萄嚗hest Trauma嚗?(id: 26779f056d9a43f0a6a2f75e4e5b4ae7, parent_id: )
+Root node found: 敺拙蝘?(id: e7961fe6fb794ad8aa00e8730aa38168, parent_id: )
+Root node found: a0789ed75b0d44968691812c30327a6c.png (id: a0789ed75b0d44968691812c30327a6c, parent_id: )
+Root node found: ???銝嚗hronic venous insufficiency, CVI嚗?(id: 5fdbe39db16e4a8b99db983758fcb2be, parent_id: )
+Root node found: 銝餃?????(id: 2685f3fe35f54ba1bffcff3401e53da2, parent_id: )
+Root node found: OB (id: e861e9af485a47f299f0e2efa027d3f7, parent_id: )
+Root node found: a085b9672b02491d9376ff9fd6bc437d.png (id: a085b9672b02491d9376ff9fd6bc437d, parent_id: )
+Root node found: a0ca39d2b8264eb7a94f353b31d466d8.png (id: a0ca39d2b8264eb7a94f353b31d466d8, parent_id: )
+Root node found: ???箇? (id: 5ff023f873ad4138b537b6f3a643d0a1, parent_id: )
+Root node found: ?拙?喳???(id: 2771ecec872b450ba30443b6ad363f65, parent_id: )
+Root node found: 瘛雯蝟餌絞 (id: e88b7eabfc3648a59c77517c8a845471, parent_id: )
+Root node found: ?交扯??Ｘ扯???(id: 27737b55e1a745c19b01d08ff02431bd, parent_id: )
+Root node found: ?詨 (id: 5ff487422c254e949a26178dae62ee24, parent_id: )
+Root node found: e9eaee36442b47fca838076ec0a375ac.png (id: e9eaee36442b47fca838076ec0a375ac, parent_id: )
+Root node found: 擃?憯?(id: a29fa73b7f7143b79b6f5bd542c24fbe, parent_id: )
+Root node found: FC?嗆???(id: 27cb561db8d646e49762712a3aa9960f, parent_id: )
+Root node found: ea4d41516a494263a6c4e802d16d78f7.png (id: ea4d41516a494263a6c4e802d16d78f7, parent_id: )
+Root node found: ?交折?撠曄? Appendicitis (id: a2a226099a1046a1a11572f2783b12c7, parent_id: )
+Root node found: ?葉?摮貊霅雯蝡閮剛???(id: 2862994160ae453aab20c09a5d187b1c, parent_id: )
+Root node found: 憿勗?箄? (id: 60ed13288b4c4f0b9d22a8e1e1d3b40b, parent_id: )
+Root node found: Critical care (id: ea9053631f084280a1c77e64152ce1fd, parent_id: )
+Root node found: 摮悅憭? (id: 288c7d060204444ea701637e697f8a69, parent_id: )
+Root node found: 6336119c71b74c899fc3b6207df81f34.png (id: 6336119c71b74c899fc3b6207df81f34, parent_id: )
+Root node found: ?交扯?? Peritonitis (id: a2fcd613fb2d4043950b290112a57bcf, parent_id: )
+Root node found: ? (id: ea99d791da6f4c62a43133c55ffedc14, parent_id: )
+Root node found: 銝???-銝????箄? (id: 633dcf34982140fcacba469d578d49a3, parent_id: )
+Root node found: ?萄楷?抒揣?釭?怎 (id: a45e66f2357b485f8dbe7ae2bf92e996, parent_id: )
+Root node found: 2918aa2482db4a0a85fa9da4ba0871c8.png (id: 2918aa2482db4a0a85fa9da4ba0871c8, parent_id: )
+Root node found: ebfeb48cf61a47ccafcd1ee1c9dd5fad.png (id: ebfeb48cf61a47ccafcd1ee1c9dd5fad, parent_id: )
+Root node found: a45f121f059f4406a74e3d6a30814030.png (id: a45f121f059f4406a74e3d6a30814030, parent_id: )
+Root node found: 憌?蝛踹? (id: 63b53f8d71154a9693a6c36e1085f5f3, parent_id: )
+Root node found: ?Ｚ丰??(id: ecb956efb37c46bfa720e8dd0c2bc144, parent_id: )
+Root node found: 29c932dc2639419e9c909bb862fb99fa.png (id: 29c932dc2639419e9c909bb862fb99fa, parent_id: )
+Root node found: ?抒??潛撣貉??耦 (id: 644c088470eb4b70906ef83fe4562123, parent_id: )
+Root node found: 擃?芸?憡?(id: a663a710a7fe484aa245ec7e15f857f3, parent_id: )
+Root node found: 憭扯??貊??IBD (id: ed26a54e87a742abb22ec02b711404f4, parent_id: )
+Root node found: ?啁???????(id: 29fe8b8a7cf4477786dd2c3c434bb0d4, parent_id: )
+Root node found: 647a52d481344d0b98285fe1abe1f964.png (id: 647a52d481344d0b98285fe1abe1f964, parent_id: )
+Root node found: a6afc02a7ffa48229d9aaae418c72dc0.png (id: a6afc02a7ffa48229d9aaae418c72dc0, parent_id: )
+Root node found: 敹??粹銵蝞∠頂蝯?(id: efe87eae6bcb4c86849d9e086dc2940a, parent_id: )
+Root node found: ?澈鞈? (id: 2aaaec64d5e4483c9846bc6cbd79f41a, parent_id: )
+Root node found: 鈭箏極????銵?(id: a7418e10afb6473b91614d7152391729, parent_id: )
+Root node found: Vascular disease (id: f02213a02a1d4dc0b7531fc4e2552fa8, parent_id: )
+Root node found: 摮悅?扯?憓? (id: 6565a3fb8d8a44cab526737a2b96ef62, parent_id: )
+Root node found: ?貉???(id: 2b18863bbe9f47e2aabd7c0127c27aad, parent_id: )
+Root node found: ??方??? (id: f0482481b4724e94b5c7e236ffe76c28, parent_id: )
+Root node found: ??蝘餅??IPS (id: 659d47e0175d48bdbdab79e99ca30342, parent_id: )
+Root node found: 敹??怎 (id: a79cad9abaf248f5b547b337b7e205fd, parent_id: )
+Root node found: ?唳憤?扯?函??Diffuse Lung Disease嚗?(id: f04fe1da3ef74d6cbf0c70ab993f2f18, parent_id: )
+Root node found: 隡? (id: 65c6b784863b4eef91bb52af6e7e51b9, parent_id: )
+Root node found: GERD? (id: 2b6db6d6b984441d85c886cdaaa67445, parent_id: )
+Root node found: ?詨? (id: a814d3fec40348459bcac031e84c216e, parent_id: )
+Root node found: ?萄 (id: f08e8d844c2341aa86873c62e767f3a4, parent_id: )
+Root node found: 蝎曄?蝘?(id: 65f16a96d9014296adafa20e11d89c4f, parent_id: )
+Root node found: ?Ｗ??箄? (id: 2ca7b60bc33f4210b38ff49594272373, parent_id: )
+Root node found: ?賡??餃? (id: a86e8873d12b4ef69be5974892491f0d, parent_id: )
+Root node found: 撠踹仃蝳?(id: f0f7bd390f474b9d989177c0b078f412, parent_id: )
+Root node found: 銝???(id: 6642796a72a742d38c575c3a5687154d, parent_id: )
+Root node found: 銝???-??圈?????(id: a8bbb40c82f14a46a4f1bf096d8cca20, parent_id: )
+Root node found: ?????曄??????蝜??? (id: 2d925aa2bf7240e98bc6c6649711c7f3, parent_id: )
+Root node found: 撠?曄?-?寧??豢?? (id: f18624fa6f7840669e32e80db63dcb67, parent_id: )
+Root node found: 銝??????Tricuspid Valve Atresia (id: 664d1453023c42bab773a6d9eea9a409, parent_id: )
+Root node found: 銵蝞∠敶?(id: a8e3da98f6664980800a85a4c307af99, parent_id: )
+Root node found: 2dc37cb5fd334f008b9cc0bb135c5fbc.png (id: 2dc37cb5fd334f008b9cc0bb135c5fbc, parent_id: )
+Root node found: ?箏?????Pulmonary Valve Atresia (id: f18f169b424a49e982bf9af47973f10d, parent_id: )
+Root node found: 66adaa02167440628e26934aa75e5b28.png (id: 66adaa02167440628e26934aa75e5b28, parent_id: )
+Root node found: ?澈鞈? (id: a999149afb7f4c93bafb0ee1197ea7e5, parent_id: )
+Root node found: 6792b5dca9154d6fb8f7a92f02418d58.png (id: 6792b5dca9154d6fb8f7a92f02418d58, parent_id: )
+Root node found: ?⊥?蝬?(id: a9f91b170ce04d41abaac5999abb1491, parent_id: )
+Root node found: 銝餃????寧?嚗oA嚗?(id: f20a8da6db9748b090b27608a4a4f1e9, parent_id: )
+Root node found: Cholangiocarcinoma (id: 67db2408c6b645b0a621ad3cd7f7b968, parent_id: )
+Root node found: 鈭???????剁?Mitral Regurgitation嚗?(id: 2ecd45bfeaa8435a90e29d9f407c1f8b, parent_id: )
+Root node found: aab75d1be7444a999608c8315f5e20f4.jpg (id: aab75d1be7444a999608c8315f5e20f4, parent_id: )
+Root node found: f2321594be8c473d969cc9fde101c0db.png (id: f2321594be8c473d969cc9fde101c0db, parent_id: )
+Root node found: ??憒????(id: 2ed90755b3c14ea1899581391354a17a, parent_id: )
+Root node found: Respiratory failure (id: 687e6b470ddd4001ab17fb479c474115, parent_id: )
+Root node found: 敹?????曄? (id: f25a1b82e867439bb422b1f80f8df1ab, parent_id: )
+Root node found: GI (id: ab699ca1970e4a8ba9e6afde1358f28e, parent_id: )
+Root node found: 蝯?曄? (id: 2f65ad8805724be69649d32504110a03, parent_id: )
+Root node found: 銝???-??曄? (id: 68ce195fc85d4ac5accd82937f995256, parent_id: )
+Root node found: ???批??扯???Infective endocarditis嚗?(id: f3bfc762e9f24b1d8ed33dd0590eb10e, parent_id: )
+Root node found: 甇?虜?貝?蝔皛?(id: abb7bab691634a51b7482ba8db196884, parent_id: )
+Root node found: ?刻?????啣虜嚗otal anomalous pulmonary venous return, ... (id: 31a1161b45fa43a3b8ab3ace218a2112, parent_id: )
+Root node found: abc53923a2d3418e8770e619867563cd.png (id: abc53923a2d3418e8770e619867563cd, parent_id: )
+Root node found: 31b48d144378473692d3c870b930af67.jpg (id: 31b48d144378473692d3c870b930af67, parent_id: )
+Root node found: ?嗡????抒??(id: f47d6f1fa1784d17ab60d47b43321cd8, parent_id: )
+Root node found: 銝???-銝????箄? (id: ac7d5e1f642d4a18ba5b92560fb5d9ca, parent_id: )
+Root node found: 325fe8560e43494c8ca4ca1bdb49d501.png (id: 325fe8560e43494c8ca4ca1bdb49d501, parent_id: )
+Root node found: ?芋?輯岫雿?HTN) (id: 6931f9630d6a47a1b2eae3f600b7b488, parent_id: )
+Root node found: 撉函??摰??(id: f4bbd5e010574497b8b6e62763cba96b, parent_id: )
+Root node found: 暻駁? (id: acc17358108f4edf87ae73fe126399a7, parent_id: )
+Root node found: 憭折??唾? (id: f533716d1875433d973f0ca726964ed0, parent_id: )
+Root node found: 銝餃???銝剜嚗nterrupted Aortic Arch, IAA嚗?(id: 32f9cb3a059e479f965c7de6cb2c919b, parent_id: )
+Root node found: ad590283b2b747deaf307da67aab2413.png (id: ad590283b2b747deaf307da67aab2413, parent_id: )
+Root node found: ???抒?? (id: adf57f1c71b74f9d8e3e76c8a37ad14f, parent_id: )
+Root node found: 憌???(id: 33255e1e7ba449258d8b5d125c9c4c14, parent_id: )
+Root node found: Cardiomyopathy (id: f53c6c233deb4fbaa77e42fab00cac30, parent_id: )
+Root node found: ??閫??摮?(id: 69dbd311b5d14fa3b510eac3d26c31e5, parent_id: )
+Root node found: ?萄楷???斗?隢?(id: aebd003f9ea84661ba686d6340fc7f77, parent_id: )
+Root node found: f595eb884cc041f5828e892954549e21.png (id: f595eb884cc041f5828e892954549e21, parent_id: )
+Root node found: 敹??曄? Pericarditis disease (id: 3334bd35b0ed43e3b8751d70a2938f46, parent_id: )
+Root node found: ?其遢?粹???瘚撣賂?Partial anomalous pulmonary venous retur... (id: f797ae37583542c08ca0e3f3670e34d2, parent_id: )
+Root node found: 6a775deede8b455db62888e1f9ae873b.png (id: 6a775deede8b455db62888e1f9ae873b, parent_id: )
+Root node found: 瘛勗惜????嚗eep vein thrombosis, DVT嚗?(id: af4917e7e2a247efb219e52fbe7c8a3a, parent_id: )
+Root node found: 銝?蟡???(id: f7e204a3b63c4717af17e72fd66691b6, parent_id: )
+Root node found: 銵蝞⊥抒??(id: 6a906645d15a45c289e35d7b686dfc01, parent_id: )
+Root node found: ?芸????(id: b004db76667e4d26afb2540b618633e3, parent_id: )
+Root node found: 鈭粹???豢?(Prosthetic?valve)? (id: f851362aa8fe401baebb9f2bb8b0276d, parent_id: )
+Root node found: ???望? (id: b03ec12773eb45ddaca3571062fbee64, parent_id: )
+Root node found: 摮悅??(id: f876f57f90e34c3b91d05ff915ecc67b, parent_id: )
+Root node found: ?蕙? (id: 6aa7bd9d917c4323a0169c4f9bf11d5d, parent_id: )
+Root node found: 敹?銝 (id: 334d0c74be2a4d8f81e6a7789ee4bf41, parent_id: )
+Root node found: ?圈???(id: b3e81265a3f6478ba2c14ab37a7c3e7c, parent_id: )
+Root node found: 335cb46c5d5844ada656dd3ea774e65a.png (id: 335cb46c5d5844ada656dd3ea774e65a, parent_id: )
+Root node found: Mallory-Weiss Tear (id: 6aedc654246a42f89c22859793d9a411, parent_id: )
+Root node found: ????(id: f8988a7dd9454242899d2ba37d5f06b0, parent_id: )
+Root node found: b4359c8a3bb5449b893b9c3942affe03.png (id: b4359c8a3bb5449b893b9c3942affe03, parent_id: )
+Root node found: ?剝?萄/憿勗?箄? (id: 35c5a9d5120c40f4b6bb35b0a50ebab5, parent_id: )
+Root node found: ACLS ?閬??? (id: 6afc07087f924efda2245863d8125fcd, parent_id: )
+Root node found: (V) 銝餃?????Aortic Dissection (id: f8a8000f115b4c759bad99320ce03ee7, parent_id: )
+Root node found: 憍衣蝘?(id: 360d935f25e34e10b290cce3f4ad8967, parent_id: )
+Root node found: ??? (id: 6b0f5969c32f4a08bc6c870f7808ac70, parent_id: )
+Root node found: ENT (id: f915a6bbd9fd479f8c230470bb875e3b, parent_id: )
+Root node found: Ischemic heart disease嚗HD嚗?(id: 36a25d101ba04167a2ea6b29c2697451, parent_id: )
+Root node found: 璈１撘儐?啗???Mechanical Circulatory Support, MCS) (id: b49e57dc95de4b2ca971309513d4f1c2, parent_id: )
+Root node found: 蝺刻摩?澆? (id: f98283f67358471c8883159e31be4f81, parent_id: )
+Root node found: ?啁??? (id: 37aca090dc28423c88c7bbcce55da244, parent_id: )
+Root node found: ?赤?? (id: b501c2205819414bbd6d3e9dfc10caa6, parent_id: )
+Root node found: 銝???隢?(id: fa121ceb07f84a0a999d5642dfc87fd6, parent_id: )
+Root node found: ?貉?歹?Thymoma嚗?(id: 37b39475f2eb4d518647266a0184ca11, parent_id: )
+Root node found: Coronary artery disease (id: 6ccc1e8a178346aa82bf35673089a1c7, parent_id: )
+Root node found: 摮悅?貊???霈?(id: 37d0a88de67a48fdb2606940581b412d, parent_id: )
+Root node found: 6d442c1695ae4823818ffd7ffd74087b.png (id: 6d442c1695ae4823818ffd7ffd74087b, parent_id: )
+Root node found: ?貉??箇? (id: b5bb360310344965b77acc8362f099b8, parent_id: )
+Root node found: 39526dcf69d146c18cfffe2d388f23ad.png (id: 39526dcf69d146c18cfffe2d388f23ad, parent_id: )
+Root node found: ??閫??摮?(id: 6d6af72756694dc3accf218fcd2d54e7, parent_id: )
+Root node found: (V) ????(id: fa2198cdac6d4e2a8e57710857f63a6b, parent_id: )
+Root node found: ?咱???憸冽??曄? (id: b6d1c4dcde82435c8850a5438ebea71f, parent_id: )
+Root node found: ???曄?-???賜撣貉?閰摯 (id: fa874858309640e6a49ce03315c8057e, parent_id: )
+Root node found: ???曄? (id: b76d35f0e0274309a3727a6c9a496f9b, parent_id: )
+Root node found: (X) ?箸?憛?Pulmonary Embolism嚗?(id: faf79696249845e982d2c05343a10e71, parent_id: )
+Root node found: ?箸除??(id: b7dd1c57c4fe418ca93ba693c174ea73, parent_id: )
+Root node found: ?喳?摰日??箏嚗ouble-Outlet Right Ventricle, DORV嚗?(id: 396430118c9a4740bf5e216bf2458d69, parent_id: )
+Root node found: ?粹?? (id: 6e3f4312a17747a18a6aead164ac5f63, parent_id: )
+Root node found: 憍衣蝘?(id: b905dbd0849745cebf3299aab046735b, parent_id: )
+Root node found: 3c36b6e1a76f41b78c13ce6964023b78.jpg (id: 3c36b6e1a76f41b78c13ce6964023b78, parent_id: )
+Root node found: 6e7c1e9072564034a0bf5fedc27df3ca.png (id: 6e7c1e9072564034a0bf5fedc27df3ca, parent_id: )
+Root node found: ?Ｘ炎 (id: fb5f1ded965e4fa1adc69661fc96413d, parent_id: )
+Root node found: 撉函? (id: b9ad7e794da8486d896bdc33d4c78ed5, parent_id: )
+Root node found: ?交扯?餃? (id: 3c426dbe4ab64fd393a621f860924c29, parent_id: )
+Root node found: 銝???(id: 6edc7caef16148c68f15921beec0e556, parent_id: )
+Root node found: fc24bde5119a48f288fc1d22270e095d.png (id: fc24bde5119a48f288fc1d22270e095d, parent_id: )
+Root node found: ?潛? (id: ba04d9672a3f4426b13b5150e5e1c717, parent_id: )
+Root node found: ?券?銵蝞∠??(id: 3c4c549530df4da1bbb634b346127239, parent_id: )
+Root node found: 憟單批??摮?(id: 6f201257b2784cecb843fb88a2773b03, parent_id: )
+Root node found: 憒?擃?憯?摮?? (id: fc6e7275b5a149d9a5aff00f37bf5b22, parent_id: )
+Root node found: Colorectal Cancer (id: 3dde847c285a41bdb3f37994e447fa6c, parent_id: )
+Root node found: Dysphagia???圈 (id: ba14d65eb32a4f07b03c8443ad78a626, parent_id: )
+Root node found: ?Ｗ??? (id: fd4a8329d52b4750b22dc913e1b10c48, parent_id: )
+Root node found: ?澆??(id: 7004178578c242edad640d09d8d9c39d, parent_id: )
+Root node found: GS (id: 707066138a9f4c10aaccaf1b2d948c56, parent_id: )
+Root node found: 摰? (id: 3e2d85ba0bbb477582e636928d6ffb2e, parent_id: )
+Root node found: ?圈???(id: ba324195eb584a96b6ea3a73342a76a4, parent_id: )
+Root node found: ?寡???(id: fd5e784633a74fa19b0f270cf369be9e, parent_id: )
+Root node found: ?嗡?蝘?(id: 7071f13ae8e04cc99be1ccb29a3df58c, parent_id: )
+Root node found: ?? (id: fff52f24ebb441d297c001c4eba67732, parent_id: )
+Root node found: ?瑟找?摮?(id: 3e7ff3b87ec8489691aeff64e026eb7b, parent_id: )
+Root node found: 瘞?恣 (id: 7117048124184b329caed68bac4dfebc, parent_id: )
+Root node found: Pneumonia (id: ba6359c74f954c4788edbf48995ba72b, parent_id: )
+Root node found: ?潛景??憭拙??? (id: 721f6a9575fc4167863253300665172c, parent_id: )
+Root node found: ?詨??啣虜嚗ectus deformity嚗?(id: 3ea9bbf183e940df847929dfc3c238af, parent_id: )
+Root node found: ?株?蝘?(id: 723c39c119fb4a5e92005b9201f44b1c, parent_id: )
+Root node found: 瘞?嚗neumothorax嚗?(id: ba6ce04d7fe04ca29ad7fe61886381e3, parent_id: )
+Root node found: ?詨??箏?黎嚗horacic outlet syndrome, TOS嚗?(id: 3f549b3c2141475bbf7faea725e2a7af, parent_id: )
+Root node found: ?游僑???瑞?祥??(id: bab5d52c62584a709227e01f91c5f4f0, parent_id: )
+Root node found: 撌血??潸銝 Hypoplastic Left Heart Syndrome (id: 72a7618e971645ffa6febf15a5693c7f, parent_id: )
+Root node found: ?賡??????(id: 3fa8a6fcf80e4261aa129789ce7be498, parent_id: )
+Root node found: ?賡??曄?-?賜??唾??賢???(id: bbbcff6e92ef47ddb2b5f12e344c9193, parent_id: )
+Root node found: 敹??餌???(id: 40d0d61c59aa4c9cab7abd94a3f74354, parent_id: )
+Root node found: 鈭???蝒?Mitral Valve Stenosis嚗?(id: 73c72eb6827e4ca69dcb472ffbb007b7, parent_id: )
+Root node found: 743c7ee2baed43ad8c22af654e5bfbc8.png (id: 743c7ee2baed43ad8c22af654e5bfbc8, parent_id: )
+Root node found: 銝餃???嚗ortic Regurgitation, AR)? (id: 40ddff3688614536b0c7428077c03108, parent_id: )
+Root node found: ?Ｘ扯?? (id: 763ee8fc210b4cc38118d0fc68e16201, parent_id: )
+Root node found: ?萄楷銝蝝啗??怎 (id: 410858f71cd3438fbba1d200c155739f, parent_id: )
+Root node found: 擃?芸?憡?(id: 768f12441a084c818dec70f08638e66f, parent_id: )
+Root node found: 蝺刻摩?澆? (id: 4176c8ffab2745cd98e5ff1b57d17ab4, parent_id: )
+Root node found: URO (id: 769a4b67c61b4cde8028a0474b926acf, parent_id: )
+Root node found: ???(id: 417a4dd9f644422181d5763f711e2c67, parent_id: )
+Root node found: 摮悅?扯??唬???(id: 7775931d17dd4f8686ae6c2a98cd047c, parent_id: )
+Root node found: Syncope 嚗摰孵云撠??? (id: 41d6f240e6f24bf0ae2b2a0ad64b6b46, parent_id: )
+Root node found: ?瑟平?憓? (id: 425352780aa847d4a3d2ba0697db2195, parent_id: )
+Root node found: ?潛 (id: 428a5d99b73146738df92dcacd8f663b, parent_id: )
+Root node found: 憍衣??亦? (id: 4294f4fef0054896b445096df5f5d057, parent_id: )
+Total root nodes: 448
+Generated tree_id.txt
