@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alxnbl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.5.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.5.0+bea2f2d3c6bfd88d800bece136226dfb5bcbab74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.5.0+1891b1a7a5b87ac9abbbdef61c5bb040b48f3857")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneNoteMdExporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneNoteMdExporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.5.0.0")]

@@ -92,7 +92,7 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
         /// <param name="page"></param>
         /// <param name="retry">True if the execution is caused by a retry after an error on the page</param>
         /// <returns>True if the export finished with success</returns>
-        protected bool ExportPage(Page page, bool retry = false)
+        protected bool ExportPage(Page page, bool retry = false, string mhtName = "")
         {
             try
             {
@@ -136,7 +136,7 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
                 {
                     // If debug mode enabled, copy the page docx file next to the page md file
                     var docxFilePath = Path.ChangeExtension(GetPageMdFilePath(page), "docx");
-                    var docxFilePath_html = Path.ChangeExtension(GetPageMdFilePath(page), "mht");
+                    var docxFilePath_html = Path.ChangeExtension(mhtName, "mht");
                     File.Copy(docxFileTmpFile, docxFilePath);
                     File.Copy(docxFileTmpFile_html, docxFilePath_html);
                 }

